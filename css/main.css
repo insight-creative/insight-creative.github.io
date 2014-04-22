@@ -1,0 +1,18 @@
+.navbar {
+	background-color: #3F4142;
+	border-bottom: 4px solid #BDBE5A;
+}
+html {
+	font-size: 100%;
+}
+body {
+	padding-top: 50px;
+	font-size: 1.2em;
+	line-height: 1.8em;
+}
+.container {
+	max-width: 690px;
+}
+.navbar-container {
+	max-width: 1040px;
+}
