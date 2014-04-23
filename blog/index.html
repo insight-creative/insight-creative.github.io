@@ -5,8 +5,12 @@ title: Insight Creative
 
 
 <h1>Blog Posts</h1>
-<ul>
-  {% for post in site.posts %}
-		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-	{% endfor %}
-</ul>
+{% for post in paginator.posts %}
+	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<p class="author">
+		<span class="date">{{ post.date }}</span>
+	</p>
+	<div>
+		{{ post.content }}
+	</div>
+{% endfor %}
