@@ -1,7 +1,6 @@
-.navbar {
-	background-color: #3F4142;
-	border-bottom: 4px solid #BDBE5A;
-}
+/*
+ * Global Styles
+ */
 html {
 	font-size: 100%;
 }
@@ -10,9 +9,18 @@ body {
 	font-size: 1.2em;
 	line-height: 1.8em;
 }
-.container {
-	max-width: 690px;
+
+/*
+ * Navbar
+ */
+.navbar {
+	background-color: #3F4142;
+	border-bottom: 4px solid #BDBE5A;
 }
-.navbar-container {
-	max-width: 1040px;
+
+/*
+ * Typography
+ */
+h1 {
+	color: #BDBE5A;
 }

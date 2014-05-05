@@ -3,14 +3,17 @@ layout: default
 title: Insight Creative
 ---
 
-
-<h1>Blog Posts</h1>
+<div class="col-md-8 col-md-offset-2">
+<h1>Blog Posts</h1><br>
 {% for post in paginator.posts %}
 	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	<p class="author">
 		<span class="date">{{ post.date }}</span>
 	</p>
 	<div>
-		{{ post.content }}
+		{{ post.content | truncatewords: 75 }}<br>
+		<a href="{{ post.url }}">Read more...</a>
 	</div>
+	<br>
 {% endfor %}
+</div>

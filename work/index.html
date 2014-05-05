@@ -1,4 +1,10 @@
 ---
 layout: default
-title: Insight Creative
+title: Insight Creative – Work
 ---
+
+{% for post in site.categories.work %}
+<div class="col-md-3 col-sm-4 col-xs-6">
+	<a href="{{ post.url }}"><img class="img-responsive" src="holder.js/500x500/auto"></a>
+</div>
+{% endfor %}
