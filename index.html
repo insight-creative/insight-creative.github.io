@@ -15,10 +15,13 @@ title: Advertising Agency, Green Bay, WI
 	</a>
 </div>
 {% endfor %}
-<a href="/work">View all projects</a>
-<hr>
+<div class="col-md-12">
+	<a href="/work">View all projects</a>
+	<hr>
+</div>
 
-<div class="col-md-6">
+
+<div class="col-md-8">
 {% for post in site.categories.blog %}
 	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 	<p class="author">
@@ -29,5 +32,7 @@ title: Advertising Agency, Green Bay, WI
 		<a href="{{ post.url }}">Read more...</a>
 	</div>
 {% endfor %}
+<a href="/blog">View all blog posts</a>
 </div>
+
 

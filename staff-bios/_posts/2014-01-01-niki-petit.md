@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  Niki Petit
 jobtitle: Director of Business Development
 ---
 

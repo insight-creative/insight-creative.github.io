@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  Jim von Hoff
 jobtitle: President
 ---
 

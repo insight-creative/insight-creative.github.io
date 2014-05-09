@@ -17,10 +17,19 @@ body {
 	background-color: #3F4142;
 	border-bottom: 4px solid #BDBE5A;
 }
+.navbar-brand img {
+	border-radius: 50%;
+	border: 5px solid #BDBE5A;
+	width: 120px;
+}
+
 
 /*
  * Typography
  */
+.jumbotron {
+	height: 325px;
+}
 .jumbotron h1 {
 	color: #BDBE5A;
 	font-size: 50px;
@@ -30,7 +39,7 @@ footer {
 	color: white;
 	background-color: #3f4142;
 	padding: 20px 0px 50px 0px;
-	border-top: 5px solid #bdbe5a;
+	border-top: 5px solid #BDBE5A;
 }
 
 /*
