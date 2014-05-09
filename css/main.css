@@ -21,6 +21,18 @@ body {
 /*
  * Typography
  */
-h1 {
+.jumbotron h1 {
 	color: #BDBE5A;
+	font-size: 50px;
+}
+
+footer {
+	color: white;
+	background-color: #3f4142;
+	padding: 20px 0px 50px 0px;
+	border-top: 5px solid #bdbe5a;
+}
+
+.thumbnail {
+	border-radius: 50%;
 }

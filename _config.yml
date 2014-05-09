@@ -1,6 +1,6 @@
 name: Insight Creative
 markdown: redcarpet
 pygments: true
-permalink: /:title.html
+permalink: /:year/:month/:day/:title.html
 paginate: 5
 paginate_path: "/blog/page:num"

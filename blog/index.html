@@ -4,8 +4,8 @@ title: Insight Creative
 ---
 
 <div class="col-md-8 col-md-offset-2">
-<h1>Blog Posts</h1><br>
-{% for post in paginator.posts %}
+<h1>Blog Posts</h1>
+{% for post in site.categories.blog %}
 	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	<p class="author">
 		<span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
