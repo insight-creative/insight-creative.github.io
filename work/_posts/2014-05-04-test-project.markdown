@@ -1,5 +1,4 @@
 ---
-layout: post
+layout: project
 title:  Test Project
-category: work
 ---

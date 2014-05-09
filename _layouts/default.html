@@ -5,6 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 		<title>{{ page.title }}</title>
 		<meta name="viewport" content="width=device-width">
+		<link href="/img/favicon.ico" rel="shortcut icon">
 		
 		<!-- Bootstrap -->
 		<link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -36,7 +37,6 @@
 						<!-- navbar toggle links -->
 						<div class="collapse navbar-collapse" id="navbar-collapse-1">
     					<ul class="nav navbar-nav navbar-right">
-    						<li><a href="{{ site.baseurl }}">Home</a></li>
     						<li><a href="/about">About</a></li>
     						<li><a href="/services">Services</a></li>
     						<li><a href="/work">Work</a></li>
@@ -49,7 +49,9 @@
 			</header>
 			<div class="container">
 				<div class="row">
+					
 					{{ content }}	
+					
 				</div>
 			</div>
 			
@@ -57,12 +59,12 @@
 				<div class="container">
 				<ul class="col-md-3 col-xs-6">
 					<h5>Site Map</h5>
-					<li><a href="#">Home</a></li>
-					<li><a href="#">About Us</a></li>
-					<li><a href="#">Services</a></li>
-					<li><a href="#">Work</a></li>
-					<li><a href="#">Blog</a></li>
-					<li><a href="#">Contact</a></li>
+					<li><a href="{{ site.baseurl }}">Home</a></li>
+					<li><a href="/about">About Us</a></li>
+					<li><a href="/services">Services</a></li>
+					<li><a href="/work">Work</a></li>
+					<li><a href="/blog">Blog</a></li>
+					<li><a href="/contact">Contact</a></li>
 				</ul>
 				<ul class="col-md-3 cox-xs-6">
 					<h5>Follow Us</h5>
