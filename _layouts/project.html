@@ -1,12 +1,19 @@
 ---
 layout: page
 ---
-<h2>{{ page.title }}</h2>
-<h3>{{ page.client }}</h3>
+<article>
+	<div class="article-heading">
+		<h1>{{ page.title }}</h1>
+		<div class="article-meta">
+			<h3>{{ page.client }}</h3>
+		</div>
+	</div>
 
-{{ content }}
+	{{ content }}
 
-</div>
+</article>
+
+</div> <!-- /center column -->
 
 {% for post in site.categories.work %}
 <div class="col-md-3 col-sm-4 col-xs-6">
@@ -15,3 +22,7 @@ layout: page
 	</a>
 </div>
 {% endfor %}
+
+<div class="col-md-12">
+	<button type="button" class="btn btn-lg btn-default"><a href="/work">View all projects</a></button>
+</div>

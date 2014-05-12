@@ -36,8 +36,8 @@ Here are five thoughts on how to create a creative workplace:
 
 No one said it better than these two:
 
-“The best way to get a good idea is to get a lot of ideas.” -Linus Pauling
-
-“Nothing is more dangerous than an idea when it’s the only one we have.” -Émile Chartier
+>“The best way to get a good idea is to get a lot of ideas.” -Linus Pauling
+>
+>“Nothing is more dangerous than an idea when it’s the only one we have.” -Émile Chartier
 
 In your experience, does a creative work environment positively impact your job satisfaction and personal success? What strategies are effective in creating a creative culture? What doesn’t work?
