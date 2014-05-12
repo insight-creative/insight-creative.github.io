@@ -1,17 +1,31 @@
 ---
 layout: page
-title: Insight Creative
+title: Insight Blog
 ---
 
-<h1>Insight Blog</h1>
+<h1>{{ page.title }}</h1>
 {% for post in site.categories.blog %}
-	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-	<p class="author">
-		<span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
-	</p>
+	<div class="article-heading">
+		<h1 class="article-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+		<div class="article-meta">
+			<p>{{ post.date | date: "%B %-d, %Y" }} by {{ post.author }}</p>
+		</div>
+	</div>
 	<div>
-		{{ post.content | truncatewords: 75 }}<br>
+		{{ post.content | truncatewords: 75 }}
 		<a href="{{ post.url }}">Read more...</a>
 	</div>
 	<br>
 {% endfor %}
+
+<div id="archives">
+  {% assign last_year = 0 %}
+  {% for post in site.categories.blog %}
+    {% capture current_year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% if last_year != current_year %}
+      <h3 class='archive-year'>{{ post.date | date: '%Y' }}</h3>
+    {% endif %}
+    <h3><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h3>
+    {% assign last_year = current_year %}
+  {% endfor %}
+</div>

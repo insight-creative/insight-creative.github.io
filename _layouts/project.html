@@ -3,14 +3,16 @@ layout: page
 ---
 <article>
 	<div class="article-heading">
-		<h1>{{ page.title }}</h1>
+		<h1 class="article-title">{{ page.title }}</h1>
 		<div class="article-meta">
-			<h3>{{ page.client }}</h3>
+			<p>{{ page.client }}</p>
 		</div>
 	</div>
+	<div class="article-body">
 
-	{{ content }}
-
+		{{ content }}
+	
+	</div>
 </article>
 
 </div> <!-- /center column -->
