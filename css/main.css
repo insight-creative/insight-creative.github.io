@@ -11,6 +11,7 @@ body {
 	line-height: 1.8em;
 }
 
+
 /*
  * Navbar
  */
@@ -46,8 +47,29 @@ body {
 footer {
 	color: white;
 	background-color: #3f4142;
-	padding: 20px 0px 50px 0px;
 	border-top: 5px solid #BDBE5A;
+}
+
+/* Sticky Footer */
+html, body {height: 100%;}
+
+#wrap {min-height: 100%;}
+
+#main {overflow:auto;
+	padding-bottom: 300px;}  /* must be same height as the footer */
+
+footer {position: relative;
+	margin-top: -300px; /* negative value of footer height */
+	height: 300px;
+	clear:both;} 
+
+/*Opera Fix*/
+body:before {
+	content:"";
+	height:100%;
+	float:left;
+	width:0;
+	margin-top:-32767px;/
 }
 
 /*

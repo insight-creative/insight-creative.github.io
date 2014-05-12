@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Five Ways to Create a Creative Workplace
+author: Kevin McGillivray
 date:   2013-11-12
 ---
 

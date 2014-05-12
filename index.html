@@ -16,7 +16,7 @@ title: Advertising Agency, Green Bay, WI
 </div>
 {% endfor %}
 <div class="col-md-12">
-	<a href="/work">View all projects</a>
+	<button type="button" class="btn btn-lg btn-default"><a href="/work">View all projects</a></button>
 	<hr>
 </div>
 
@@ -26,12 +26,12 @@ title: Advertising Agency, Green Bay, WI
 	<p class="author">
 		<span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
 	</p>
-	<div>
+	<!-- <div>
 		{{ post.content | truncatewords: 25 }}
 		<a href="{{ post.url }}">Read more...</a>
-	</div>
+	</div> -->
 {% endfor %}
-<a href="/blog">View all blog posts</a>
+	<button type="button" class="btn btn-lg btn-default"><a href="/blog">View all blog posts</a></button>
 </div>
 </div>
 
