@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<title>{{ page.title }} | Insight Creative</title>
+		<meta name="viewport" content="width=device-width">
+		<link href="/img/favicon.ico" rel="shortcut icon">
+		
+		<!-- Bootstrap -->
+		<link rel="stylesheet" href="/css/bootstrap.min.css">
+		
+		<!-- Styles -->
+		<link rel="stylesheet" href="/css/main.css">
+		
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+			<header>
+				<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    			<div class="container navbar-container">
+    				<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+							<span class="sr-only">Toggle Navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+    					<a class="navbar-brand" href="{{ site.baseurl }}"><img src="/img/insight-creative-logo.jpg" alt="Insight Creative" class="img-circle"></a>
+    				</div>
+					
+						<!-- navbar toggle links -->
+						<div class="collapse navbar-collapse" id="navbar-collapse-1">
+    					<ul class="nav navbar-nav navbar-right">
+								<li class="dropdown">
+									<a href="/about" class="dropdown-toggle" data-toggle="dropdown" {% if page.url contains "/about/" %}class="active"{% endif %}>About <b class="caret"></b></a>
+								  <ul class="dropdown-menu">
+								  	<li><a href="/about">About Insight Creative</a></li>
+										<li><a href="/staff-bios">Staff Bios</a></li>
+								  </ul>
+								</li>
+    						<li><a href="/services" {% if page.url contains "/services/" %}class="active"{% endif %}>Services</a></li>
+    						<li><a href="/work" {% if page.url contains "/work/" %}class="active"{% endif %}>Work</a></li>
+    						<li><a href="/blog" {% if page.url contains "/blog/" %}class="active"{% endif %}>Blog</a></li>
+    						<li><a href="/contact" {% if page.url contains "/contact/" %}class="active"{% endif %}>Contact</a></li>
+    					</ul>
+						</div>
+    			</div>
+    		</nav>
+			</header>

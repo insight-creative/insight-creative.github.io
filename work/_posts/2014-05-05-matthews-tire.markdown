@@ -1,6 +1,7 @@
 ---
 layout: project
 title:  Matthews Tire
+client: Matthews Tire
 ---
 
 This is an introductory paragraph about the project.
