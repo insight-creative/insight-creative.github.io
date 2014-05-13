@@ -50,6 +50,13 @@ p {
 	border: 5px solid #BDBE5A;
 	width: 110px;
 }
+.navbar-default .navbar-nav > li > a {
+	color: white;
+	font-size: .8em;
+}
+.navbar-default .navbar-nav > li > a:hover {
+	color: #BDBE5A;
+}
 
 
 /*
