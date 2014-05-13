@@ -10,6 +10,14 @@ body {
 	font-size: 1.2em;
 	line-height: 1.55em;
 }
+iframe {
+	width: 100%;
+}
+img {
+	width: 120%;
+	margin-left: -10%;
+	height: auto;
+}
 
 /*
  * Typography
@@ -25,6 +33,8 @@ h2 {
 }
 p {
 	color: #3F4142;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 /*
@@ -68,10 +78,6 @@ p {
 .article-heading .article-meta p {
 	color: #999;
 	font-style: italic;
-}
-.article-body p {
-	margin-top: 20px;
-	margin-bottom: 20px;
 }
 .article-body img {
 	min-width: 120%;

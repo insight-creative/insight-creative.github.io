@@ -1,6 +1,6 @@
 # Insight Creative Jekyll Site
 
-This is the Jekyll repository for the Insight test site.
+This is the repository for the Insight Creative test site. It is automatically transformed into a static site by Jekyll.
 
 ## Links
 
