@@ -21,7 +21,7 @@ title: Advertising Agency, Green Bay, WI
 </div>
 
 <div class="col-md-8">
-{% for post in site.categories.blog %}
+{% for post in site.categories.blog limit: 3 %}
 	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 	<p class="author">
 		<span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>

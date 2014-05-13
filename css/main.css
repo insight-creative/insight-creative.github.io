@@ -17,7 +17,7 @@ body {
 h1 {
 	color: #BDBE5A;
 	font-weight: 300;
-	font-size: 3.0em;
+	font-size: 2.9em;
 }
 h2 {
 	color: #D41E47;
@@ -69,7 +69,7 @@ p {
 	color: #999;
 	font-style: italic;
 }
-article p {
+.article-body p {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
