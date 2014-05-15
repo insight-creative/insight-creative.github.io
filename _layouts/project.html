@@ -5,7 +5,7 @@ layout: page
 	<div class="article-heading">
 		<h1 class="article-title">{{ page.title }}</h1>
 		<div class="article-meta">
-			<p>{{ page.client }}</p>
+			<p>Client: {{ page.client }}</p>
 		</div>
 	</div>
 	<div class="article-body">
@@ -17,14 +17,25 @@ layout: page
 
 </div> <!-- /center column -->
 
-{% for post in site.categories.work %}
-<div class="col-md-3 col-sm-4 col-xs-6">
-	<a href="{{ post.url }}" class="thumbnail">
-		<img class="img-responsive img-circle" src="holder.js/500x500/auto">
-	</a>
+<div class="row">
+	<div class="col-md-12">
+		<hr>
+		<h1>Related Projects</h1>
+	</div>
 </div>
-{% endfor %}
-
-<div class="col-md-12">
-	<button type="button" class="btn btn-lg btn-default"><a href="/work">View all projects</a></button>
+<div class="feature">
+	<div class="row">
+		{% for post in site.categories.work %}
+		<div class="col-md-3 col-xs-6">
+			<a href="{{ post.url }}" class="thumbnail">
+				<img class="img-responsive img-circle" src="holder.js/100%x100%/auto">
+			</a>
+		</div>
+		{% endfor %}
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<button type="button" class="btn btn-lg btn-default"><a href="/work">View all projects</a></button>
+		</div>
+	</div>
 </div>

@@ -8,31 +8,33 @@ title: Advertising Agency, Green Bay, WI
 </div>
 
 <div class="container">
-{% for post in site.categories.work %}
-<div class="col-md-3 col-sm-4 col-xs-6">
-	<a href="{{ post.url }}" class="thumbnail">
-		<img class="img-responsive img-circle" src="holder.js/500x500/auto">
-	</a>
-</div>
-{% endfor %}
-<div class="col-md-12">
-	<button type="button" class="btn btn-lg btn-default"><a href="/work">View all projects</a></button>
-	<hr>
-</div>
+	
+	<div class="feature">
+		<div class="row">
+			{% for post in site.categories.work %}
+			<div class="col-sm-3 col-xs-6">
+				<a href="{{ post.url }}" class="thumbnail">
+					<img class="img-responsive img-circle" src="holder.js/100%x100%/auto">
+				</a>
+			</div>
+			{% endfor %}
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<button type="button" class="btn btn-lg btn-default"><a href="/work">View all projects</a></button>
+				<hr>
+			</div>
+		</div>
+	</div>
 
-<div class="col-md-8">
-{% for post in site.categories.blog limit: 3 %}
-	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-	<p class="author">
-		<span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
-	</p>
-	<!-- <div>
-		{{ post.content | truncatewords: 25 }}
-		<a href="{{ post.url }}">Read more...</a>
-	</div> -->
-{% endfor %}
-	<button type="button" class="btn btn-lg btn-default"><a href="/blog">View all blog posts</a></button>
-</div>
-</div>
+		<div class="row">
+			<div class="col-md-12">
+				{% for post in site.categories.blog limit: 3 %}
+					<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+					<p><span>{{ post.date | date: "%B %-d, %Y" }}</span></p>
+				{% endfor %}
+				<button type="button" class="btn btn-lg btn-default"><a href="/blog">View all blog posts</a></button>
+			</div>
+		</div>
 
 

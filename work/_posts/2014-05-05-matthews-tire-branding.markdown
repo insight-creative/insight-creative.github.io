@@ -2,14 +2,23 @@
 layout: project
 title:  Matthews Tire Branding
 client: Matthews Tire
+image: matthews-poster.jpg
+categories: TV, print, social media, branding, radio
 ---
 
-This is an introductory paragraph about the project. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada, urna vitae porttitor dignissim, ipsum tellus laoreet ligula, id volutpat nibh ipsum ut est. Proin nec est odio.
+How to develop and maintain a unique brand –&nbsp;as well as offering monthly, themed promotional print, TV, radio, social media, public relations and more – to drive traffic to an established chain of tire and auto repair shops?
 
-<img class="img-responsive" src="holder.js/100%x500/auto" />
+![Matthews Logo](/img/matthews-logo.jpg)
 
-This is some more stuff about the project. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis malesuada, urna vitae porttitor dignissim, ipsum tellus laoreet ligula, id volutpat nibh ipsum ut est. Proin nec est odio. Proin nec ullamcorper est, ac adipiscing tellus. Integer ut risus commodo, dapibus leo quis, blandit lorem. Curabitur rhoncus luctus lacinia. Duis ut faucibus felis, fringilla semper ligula.
+## Goal
 
-<img class="img-responsive" src="holder.js/100%x500/auto" />
-<img class="img-responsive" src="holder.js/100%x500/auto" />
-<img class="img-responsive" src="holder.js/100%x500/auto" />
+In business since 1952, Matthews Tire is a successful chain of tire and automotive repair shops in Northeast Wisconsin. The tire business is extremely competitive—with constant pressure from car dealerships, big box stores and internet sales. Insight was determined to help Matthews consistently build on their reputation as a locally owned company known for great service, value and a unmatched tire expertise.
+
+![Matthews Billboards](/img/matthews-billboards.jpg)
+
+## Result
+
+Matthews branding is ahead of the pack with a successful radio, TV, outdoor and print campaign—as well as a winning website—that sets them apart from area competitors. In addition Matthews has a strong social media presence on Facebook and Twitter, plus helpful YouTube videos and more. And customer satisfaction is constantly monitored via an online satisfaction survey. Together, these efforts keep Matthews’ marketing hitting on all cylinders!
+
+![Matthews Poster](/img/matthews-poster.jpg)
+<iframe width="640" height="360" src="//www.youtube.com/embed/FZgdQvtaN_c" frameborder="0" allowfullscreen></iframe>

@@ -19,10 +19,15 @@ img {
 	margin-left: -10%;
 	height: auto;
 }
+.btn-default {
+	border: 0;
+	background-color: #E7E7E7;
+}
 
 /*
  * Typography
  */
+
 h1 {
 	color: #BDBE5A;
 	font-weight: 300;
@@ -36,6 +41,12 @@ p {
 	color: #3F4142;
 	margin-top: 20px;
 	margin-bottom: 20px;
+}
+a {
+	color: #D41E47;
+}
+a:hover {
+	color: #BDBE5A;
 }
 
 /*
@@ -73,6 +84,14 @@ p {
 }
 
 /*
+ * Feature
+ */
+
+.feature {
+	text-align: center;
+}
+
+/*
  * Article
  */
 
@@ -102,6 +121,16 @@ footer {
 	color: white;
 	background-color: #3F4142;
 	border-top: 5px solid #BDBE5A;
+}
+footer ul {
+	list-style: none;
+	padding: 0;
+}
+footer h3 {
+	color: #BDBE5A;
+}
+footer ul a {
+	color: white;
 }
 
 /* Sticky Footer */

@@ -4,4 +4,4 @@ jobtitle: Media Director/Account Manager
 image: shelly.jpg
 ---
 
-Niki brings a strong background in business, radio and media negotiation, as well as practical marketing savvy, to her account management role. Clients rely on Niki for an honest assessment of their needs and expert strategic direction. A graduate of the University of Wisconsin, her never-ending drive and commitment to her clients makes her a leader and an integral part of Insight’s success.
+Shelly oversees Insight’s media department and serves as a manager on many client accounts. With a background in print and TV account management, Shelly’s in-depth understanding of all types of media, marketing expertise and keen negotiating skills work to the benefit of Insight’s client list. She is a graduate of UW-Eau Claire and holds a masters degree from Marquette University.
