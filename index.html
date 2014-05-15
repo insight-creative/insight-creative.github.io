@@ -26,15 +26,18 @@ title: Advertising Agency, Green Bay, WI
 			</div>
 		</div>
 	</div>
-
+	
+	<div class="post-list">
 		<div class="row">
 			<div class="col-md-12">
+				<h1>Recent Posts</h1>
 				{% for post in site.categories.blog limit: 3 %}
 					<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-					<p><span>{{ post.date | date: "%B %-d, %Y" }}</span></p>
+					<p>{{ post.date | date: "%B %-d, %Y" }}</p>
 				{% endfor %}
-				<button type="button" class="btn btn-lg btn-default"><a href="/blog">View all blog posts</a></button>
+					<button type="button" class="btn btn-lg btn-default"><a href="/blog">View all blog posts</a></button>
 			</div>
 		</div>
+	</div>
 
 

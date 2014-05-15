@@ -90,6 +90,23 @@ a:hover {
 .feature {
 	text-align: center;
 }
+.feature a.thumbnail:hover {
+	border: 1px solid #BDBE5A;
+}
+
+/*
+ * Post list
+ */
+
+.post-list {
+	margin-bottom: 20px;
+}
+.post-list h3 {
+	margin-bottom: 0;
+}
+.post-list p {
+	margin-top: 0;
+}
 
 /*
  * Article
