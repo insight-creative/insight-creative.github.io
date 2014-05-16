@@ -4,13 +4,15 @@ title: Work
 ---
 
 <div class="container">
-	<div class="row">
-		{% for post in site.categories.work %}
-		<div class="col-md-3 col-sm-4 col-xs-6">
-			<a href="{{ post.url }}" class="thumbnail">
-				<img class="img-responsive img-circle" src="holder.js/500x500/auto">
-			</a>
+	
+	<div class="thumbnail-gallery">
+		<div class="row">
+			{% for post in site.categories.work %}
+			<div class="col-sm-3 col-xs-6">
+				<a href="{{ post.url }}" class="thumbnail">
+					<img class="img-responsive img-circle" src="{{ site.baseurl }}img/{{ post.image }}">
+				</a>
+			</div>
+			{% endfor %}
 		</div>
-		{% endfor %}
 	</div>
-</div>

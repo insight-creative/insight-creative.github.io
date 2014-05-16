@@ -76,21 +76,22 @@ a:hover {
  */
 
 .jumbotron {
-	height: 325px;
+	height: 375px;
 	text-align: center;
 }
 .jumbotron h1 {
 	color: #BDBE5A;
+	margin-top: 60px;
 }
 
 /*
  * Feature
  */
 
-.feature {
+.thumbnail-gallery {
 	text-align: center;
 }
-.feature a.thumbnail:hover {
+.thumbnail-gallery a.thumbnail:hover {
 	border: 1px solid #BDBE5A;
 }
 

@@ -9,12 +9,12 @@ title: Advertising Agency, Green Bay, WI
 
 <div class="container">
 	
-	<div class="feature">
+	<div class="thumbnail-gallery">
 		<div class="row">
-			{% for post in site.categories.work %}
+			{% for post in site.categories.work limit: 8 %}
 			<div class="col-sm-3 col-xs-6">
 				<a href="{{ post.url }}" class="thumbnail">
-					<img class="img-responsive img-circle" src="holder.js/500x500/auto">
+					<img class="img-responsive img-circle" src="{{ site.baseurl }}img/{{ post.image }}">
 				</a>
 			</div>
 			{% endfor %}
