@@ -191,3 +191,90 @@ body:before {
 .thumbnail {
 	border-radius: 50%;
 }
+
+
+/*
+ * Animations
+ */
+
+.fadeIn {
+	animation-name: fadeIn;
+	-webkit-animation-name: fadeIn;	
+
+	animation-duration: .7s;	
+	-webkit-animation-duration: .7s;
+
+	animation-timing-function: ease-in-out;	
+	-webkit-animation-timing-function: ease-in-out;		
+
+	visibility: visible !important;	
+}
+
+@keyframes fadeIn {
+	0% {
+		transform: scale(0);	
+	}
+	60% {
+		transform: scale(0);	
+	}
+	90% {
+		transform: scale(1.1);
+	}	
+	100% {
+		transform: scale(1);
+	}		
+}
+
+@-webkit-keyframes fadeIn {
+	0% {
+		-webkit-transform: scale(0);	
+	}
+	60% {
+		-webkit-transform: scale(0);
+	}
+	90% {
+		-webkit-transform: scale(1.1);
+	}	
+	100% {
+		-webkit-transform: scale(1);	
+	}		
+}
+
+.slideDown{
+	animation-name: slideDown;
+	-webkit-animation-name: slideDown;	
+
+	animation-duration: .7s;	
+	-webkit-animation-duration: .7s;
+
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;	
+
+	visibility: visible !important;						
+}
+
+@keyframes slideDown {
+	0% {
+		transform: translateY(-100%);
+	}
+	60% {
+		transform: translateY(-100%);
+	}	
+	100% {
+		transform: translateY(0%);
+	}		
+}
+
+@-webkit-keyframes slideDown {
+	0% {
+		-webkit-transform: translateY(-100%);
+	}
+	60% {
+		-webkit-transform: translateY(-100%);
+	}	
+	100% {
+		-webkit-transform: translateY(0%);
+	}
+}
+
+/*
