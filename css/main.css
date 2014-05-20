@@ -217,7 +217,7 @@ body:before {
 	60% {
 		transform: scale(0);	
 	}
-	90% {
+	80% {
 		transform: scale(1.1);
 	}	
 	100% {
@@ -232,7 +232,7 @@ body:before {
 	60% {
 		-webkit-transform: scale(0);
 	}
-	90% {
+	80% {
 		-webkit-transform: scale(1.1);
 	}	
 	100% {
