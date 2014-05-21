@@ -54,7 +54,7 @@ In my opinion, DSM had the most interesting booth design at the show. Their use 
 
 When it comes to design, some times the most admirable work shows restraint. Our client, Domino used white space to showcase what’s really important: the products. The white surrounding brought focus to their branding, product demonstration and showcasing real-world applications of their products.
 
-![Domino](/img/domino.jpg)
+![Domino](/img/Domino.jpg)
 
 In conclusion, while working at INTERPHEX 2014, I observed many different and effective booth designs – from mysterious to flashy, straightforward and some with interactive activities – all to attract visitors. Through my observations, I learned the most important thing to remember when designing a tradeshow booth is, in order to stand out and be noticed, you must do something different.
 

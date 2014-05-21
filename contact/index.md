@@ -16,11 +16,11 @@ To discuss your goals — and discover how Insight’s marketing communications 
 
 ## Online
 
-* Facebook
-* Google+
-* Twitter
-* LinkedIn
-* YouTube
+* [Facebook](http://facebook.com/insightcreativeinc)
+* [Google+](http://plus.google.com/101791484320505342512/)
+* [Twitter](http://twitter.com/insightwi)
+* [LinkedIn](http://linkedin.com/company/498653/)
+* [YouTube](http://youtube.com/user/InsightCreativeWI/)
 
 ## Location
 
