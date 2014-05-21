@@ -91,7 +91,10 @@ a:hover {
 .thumbnail-gallery {
 	text-align: center;
 }
-.thumbnail-gallery a.thumbnail:hover {
+.thumbnail {
+	border-radius: 50%;
+}
+.thumbnail-gallery .thumbnail:hover {
 	border: 1px solid #BDBE5A;
 }
 
@@ -183,15 +186,6 @@ body:before {
 	width:0;
 	margin-top:-32767px;/
 }
-
-/*
- * Thumbnails
-*/
-
-.thumbnail {
-	border-radius: 50%;
-}
-
 
 /*
  * Animations
