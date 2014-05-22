@@ -15,8 +15,8 @@ iframe {
   width: 100%;
 }
 img {
-  width: 120%;
-  margin-left: -10%;
+  width: 140%;
+  margin-left: -20%;
   height: auto;
 }
 .center-block {
@@ -146,8 +146,6 @@ a:focus {
   font-style: italic;
 }
 .article-body img {
-  min-width: 120%;
-  margin-left: -10%;
   margin-top: 30px;
   margin-bottom: 30px;
 }
