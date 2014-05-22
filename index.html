@@ -4,8 +4,12 @@ title: Advertising Agency, Green Bay, WI
 id: home
 ---
 <div class="jumbotron">
-	<h1>Full-service creativity and marketing.</h1>
-	<p>From big picture strategy to fine details of design, copywriting, social media and media buying, all in-house.</p>
+	<div class="container">
+		<h1>Full-service creativity and marketing.</h1>
+		<div class="col-md-9 center-block">
+		<p>Creative insight to help you achieve your goals, from big picture strategy to fine details of design, copywriting, social media and media buying, all in-house.</p>
+		</div>
+	</div>
 </div>
 
 <div class="container">
@@ -39,7 +43,7 @@ id: home
 					<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 					<p>{{ post.date | date: "%B %-d, %Y" }}</p>
 				{% endfor %}
-					<button type="button" class="btn btn-lg btn-default"><a href="/blog">View all blog posts</a></button>
+					<a href="/blog" class="btn btn-lg btn-default">View all blog posts</a>
 			</div>
 		</div>
 	</div>

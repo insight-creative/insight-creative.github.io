@@ -19,9 +19,8 @@ img {
 	margin-left: -10%;
 	height: auto;
 }
-.btn-default {
-	border: 0;
-	background-color: #E7E7E7;
+.center-block {
+	float: none;
 }
 
 /*
@@ -46,6 +45,19 @@ a {
 	color: #D41E47;
 }
 a:hover {
+	color: #BDBE5A;
+}
+
+/*
+ * Buttons
+ */
+
+.btn-default {
+	border: 0;
+	background-color: #E7E7E7;
+	color: #D41E47;
+}
+.btn-default:hover {
 	color: #BDBE5A;
 }
 
@@ -82,6 +94,10 @@ a:hover {
 .jumbotron h1 {
 	color: #BDBE5A;
 	margin-top: 60px;
+}
+.jumbotron p {
+	font-size: 1.3em;
+	line-height: 1.6;
 }
 
 /*

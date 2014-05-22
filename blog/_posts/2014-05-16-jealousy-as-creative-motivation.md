@@ -6,7 +6,7 @@ author: Stacy Allen
 
 ![Creative Print Ads](/img/creative-motivation.jpg)
 
-I *em* these [print ads](http://viralnova.com/creative-print-ads/). (For the most part.)  
+I *love* these [print ads](http://viralnova.com/creative-print-ads/). (For the most part.)  
 They make you think.  
 They make you smile (or grimace).  
 They make you think differently.  
