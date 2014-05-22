@@ -44,7 +44,8 @@ p {
 a {
 	color: #D41E47;
 }
-a:hover {
+a:hover,
+a:focus {
 	color: #BDBE5A;
 }
 
@@ -57,7 +58,8 @@ a:hover {
 	background-color: #E7E7E7;
 	color: #D41E47;
 }
-.btn-default:hover {
+.btn-default:hover,
+.btn-default:focus {
 	color: #BDBE5A;
 }
 
