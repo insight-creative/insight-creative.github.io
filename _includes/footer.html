@@ -1,48 +1,50 @@
-      </div> <!-- /.container -->
-    </div> <!-- /#main -->
-  </div> <!-- /#wrap -->
-  <footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-3 col-xs-6">
-          <h3>Site Map</h3>
-          <ul>
-            <li><a href="{{ site.baseurl }}">Home</a></li>
-            <li><a href="/about">About Us</a></li>
-            <li><a href="/services">Services</a></li>
-            <li><a href="/work">Work</a></li>
-            <li><a href="/blog">Blog</a></li>
-            <li><a href="/contact">Contact</a></li>
-          </ul>
-        </div>
-        <div class="col-md-3 col-xs-6">
-          <h3>Follow Us</h3>
-          <ul>
-            <li><a href="#">Facebook</a></li>
-            <li><a href="#">Blog</a></li>
-            <li><a href="#">Google+</a></li>
-            <li><a href="#">Twitter</a></li>
-            <li><a href="#">LinkedIn</a></li>
-            <li><a href="#">YouTube</a></li>
-            <li><a href="#">Newsletter</a></li>
-          </ul>
+        </div> <!-- /.container -->
+      </div> <!-- /#main -->
+    </div> <!-- /#wrap -->
+    
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-3 col-xs-6">
+            <h3>Site Map</h3>
+            <ul>
+              <li><a href="{{ site.baseurl }}">Home</a></li>
+              <li><a href="/about">About Us</a></li>
+              <li><a href="/services">Services</a></li>
+              <li><a href="/work">Work</a></li>
+              <li><a href="/blog">Blog</a></li>
+              <li><a href="/contact">Contact</a></li>
+            </ul>
+          </div>
+          <div class="col-md-3 col-xs-6">
+            <h3>Follow Us</h3>
+            <ul>
+              <li><a href="#">Facebook</a></li>
+              <li><a href="#">Blog</a></li>
+              <li><a href="#">Google+</a></li>
+              <li><a href="#">Twitter</a></li>
+              <li><a href="#">LinkedIn</a></li>
+              <li><a href="#">YouTube</a></li>
+              <li><a href="#">Newsletter</a></li>
+            </ul>
+          </div>
         </div>
       </div>
-    </div>
-  </footer>
-
-  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-  <!-- Include all compiled plugins (below), or include individual files as needed -->
-  <script src="/js/bootstrap.min.js"></script>
-  <script src="/js/holder.js"></script>
-  <!-- Widon't, removes widows in text -->
-  <script>
-    jQuery(function($) {
-      $('h1,h2,h3,li,p').each(function() {
-        $(this).html($(this).html().replace(/\s([^\s<]+)\s*$/,'&nbsp;$1'));
+    </footer>
+  
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/holder.js"></script>
+    <!-- Widon't, removes widows in text -->
+    <script>
+      jQuery(function($) {
+        $('h1,h2,h3,li,p').each(function() {
+          $(this).html($(this).html().replace(/\s([^\s<]+)\s*$/,'&nbsp;$1'));
+        });
       });
-    });
-  </script>
-</body>
+    </script>
+    
+  </body>
 </html>
