@@ -2,18 +2,17 @@
 layout: page
 ---
 
-<article>
-  <div class="article-heading">
-    <h1 class="article-title">{{ page.title }}</h1>
-    <div class="article-meta">
-      <p>{{ page.date | date: "%B %-d, %Y" }} by {{ page.author }}</p>
-    </div>
-  </div>
-  <div class="article-body">
-    {{ content }}
-  </div>
-</article>
-<!-- 
-{% for post in site.related_posts limit:3 %}
-    <a href="{{ post.url }}">{{ post.title }}</a>
-{% endfor %} -->
+              <article>
+                <div class="article-heading">
+                  <h1 class="article-title">{{ page.title }}</h1>
+                  <div class="article-meta">
+                    <p>{{ page.date | date: "%B %-d, %Y" }} by {{ page.author }}</p>
+                  </div>
+                </div>
+                <div class="article-body">
+                    
+{{ content }}
+                    
+                </div>
+              </article>
+      
