@@ -4,24 +4,24 @@ title: Insight Blog
 ---
 
 {% for post in site.categories.blog limit: 1%}
-	<div class="article-heading">
-		<h1 class="article-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-		<div class="article-meta">
-			<p>{{ post.date | date: "%B %-d, %Y" }} by {{ post.author }}</p>
-		</div>
-	</div>
-	<div class="article-body">
-		{{ post.content | truncatewords: 175 }}
-	</div>
-	<div class="article-footer">
-		<a href="{{ post.url }}" class="btn btn-lg btn-default">Read more</a>
-	</div>
+  <div class="article-heading">
+    <h1 class="article-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <div class="article-meta">
+      <p>{{ post.date | date: "%B %-d, %Y" }} by {{ post.author }}</p>
+    </div>
+  </div>
+  <div class="article-body">
+    {{ post.content | truncatewords: 175 }}
+  </div>
+  <div class="article-footer">
+    <a href="{{ post.url }}" class="btn btn-lg btn-default">Read more</a>
+  </div>
 {% endfor %}
 
 <hr>
 
 <div id="archives">
-	<h1>All Posts</h1>
+  <h1>All Posts</h1>
   {% assign last_year = 0 %}
   {% for post in site.categories.blog %}
     {% capture current_year %}{{ post.date | date: '%Y' }}{% endcapture %}
