@@ -140,6 +140,9 @@ a:focus {
   vertical-align: middle;
 }
 
+#Container .mix{
+	display: none;
+}
 
 /*
  * Post list

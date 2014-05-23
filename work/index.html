@@ -7,11 +7,28 @@ title: Work
           
           <h1>Projects and Case Studies</h1>
           
-          <div class="thumbnail-gallery">
+          <div class="filter" data-filter="all">Show All</div>
+          <div class="filter" data-filter=".case-study">Case Studies</div>
+          <div class="filter" data-filter=".web">Web</div>
+          <div class="filter" data-filter=".print">Print</div>
+          
+          <div class="row thumbnail-gallery">
+          <div id="Container">
+            {% for post in site.categories.work %}
+          	  <div class="mix {% for tag in post.tags %}{{ tag | downcase | replace: " ", "-" | append: " " }}{% endfor %} col-sm-3 col-xs-6 thumbnail">
+                <a href="{{ post.url }}">
+                  <img class="img-responsive img-circle" src="{{ site.baseurl }}img/{{ post.image }}">
+                </a>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+          
+          <div class="thumbnail-gallery" id="Container">
             <div class="row">
               {% for post in site.categories.work %}
               <div class="col-sm-3 col-xs-6">
-                <div class="{% for tag in post.tags %}{{ tag | downcase | replace: " ", "-" | append: " " }}{% endfor %} thumbnail">
+                <div class="{% for tag in post.tags %}{{ tag | downcase | replace: " ", "-" | append: " " }}{% endfor %} mix category-2 thumbnail">
                   <a href="{{ post.url }}">
                     <img class="img-responsive img-circle" src="{{ site.baseurl }}img/{{ post.image }}">
                   </a>
