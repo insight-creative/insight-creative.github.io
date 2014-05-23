@@ -11,9 +11,15 @@ title: Work
             <div class="row">
               {% for post in site.categories.work %}
               <div class="col-sm-3 col-xs-6">
-                <a href="{{ post.url }}" class="thumbnail">
-                  <img class="img-responsive img-circle" src="{{ site.baseurl }}img/{{ post.image }}">
-                </a>
+                <div class="{% for tag in post.tags %}{{ tag | downcase | replace: " ", "-" | append: " " }}{% endfor %} thumbnail">
+                  <a href="{{ post.url }}">
+                    <img class="img-responsive img-circle" src="{{ site.baseurl }}img/{{ post.image }}">
+                  </a>
+                  <a href="{{ post.url }}" class="caption">
+                      <p>{{ post.title }}</p>
+                      <p>{{ post.tags | array_to_sentence_string | replace: ", and", "," | replace: " and", "," }}</p>
+                  </a>
+                </div>
               </div>
               {% endfor %}
             </div>

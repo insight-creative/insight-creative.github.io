@@ -23,6 +23,10 @@ id: home
                   <a href="{{ post.url }}">
                     <img class="img-responsive img-circle" src="{{ site.baseurl }}img/{{ post.image }}">
                   </a>
+                  <div class="caption">
+                    <p>{{ post.title }}</p>
+                    <p>{{ post.tags }}</p>
+                  </div>
                 </div>
               </div>
               {% endfor %}

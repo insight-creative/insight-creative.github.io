@@ -104,7 +104,7 @@ a:focus {
 }
 
 /*
- * Feature
+ * Thumbnail Gallery
  */
 
 .thumbnail-gallery {
@@ -112,10 +112,34 @@ a:focus {
 }
 .thumbnail {
   border-radius: 50%;
+  position: relative;
 }
 .thumbnail-gallery .thumbnail:hover {
   border: 1px solid #BDBE5A;
 }
+.thumbnail .caption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-radius: 50%;
+  background: rgba(189, 190, 90, 0.85);
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+  margin: 4px;
+}
+.thumbnail:hover .caption {
+  visibility: visible;
+  opacity: 1;
+}
+.caption-body {
+  vertical-align: middle;
+}
+
 
 /*
  * Post list

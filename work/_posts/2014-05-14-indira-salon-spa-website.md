@@ -3,7 +3,9 @@ layout: project
 title:  Indira Website
 client: Indira –&nbsp;Lifestyle Salon Spa
 image: indira-thumbnail.jpg
-categories: case study, web
+tags:
+- Case study
+- Web
 ---
 
 Indira Aveda Lifestyle Salon Spa recently modernized their brand to better exemplify their luxury products and services, appeal to their upscale and diverse client base, and properly represent AVEDA’s natural, organic approach. In addition to the brand overhaul, the salon also expanded their locations and menu of services.
