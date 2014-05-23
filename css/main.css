@@ -31,6 +31,7 @@ h1 {
   color: #BDBE5A;
   font-weight: 300;
   font-size: 2.9em;
+  text-align: center;
 }
 h2 {
   color: #D41E47;
@@ -98,7 +99,7 @@ a:focus {
   margin-top: 60px;
 }
 .jumbotron p {
-  font-size: 1.3em;
+  font-size: 1.25em;
   line-height: 1.6;
 }
 

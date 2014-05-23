@@ -35,8 +35,8 @@ Here are five thoughts on how to create a creative workplace:
 5. **Take time to explore.** If you’re working on a project, it’s tempting to go with the first idea you have because of excitement or impatience or both. But usually the first idea we have is also the most obvious and generic one because it’s the one that comes to mind right away. With a little more exploration, you’re likely to find more unique and effective ideas because they won’t be the most obvious ones. You’ll also have more options to choose from which increases your chances of choosing the best idea. Give yourself time to dig a little deeper than the first layer.
 
 No one said it better than these two:
->“The best way to get a good idea is to get a lot of ideas.” -Linus Pauling
+>“The best way to get a good idea is to get a lot of ideas.”
+>-Linus Pauling
 >
->“Nothing is more dangerous than an idea when it’s the only one we have.” -Émile Chartier
-
-In your experience, does a creative work environment positively impact your job satisfaction and personal success? What strategies are effective in creating a creative culture? What doesn’t work?
+>“Nothing is more dangerous than an idea when it’s the only one we have.” 
+>-Émile Chartier
