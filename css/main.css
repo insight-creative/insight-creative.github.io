@@ -166,10 +166,14 @@ a:focus {
 
 .article-heading {
   text-align: center;
-  width: 120%;
-  margin-left: -10%;
   margin-top: 40px;
   margin-bottom: 20px;
+}
+@media (min-width: 992px) {
+  .article-heading {
+    width: 120%;
+    margin-left: -10%;
+  }
 }
 .article-heading .article-meta p {
   color: #999;
