@@ -18,16 +18,14 @@ title: Work
             <button type="button" class="filter btn btn-default" data-filter=".social-media">Social Media</button>
           </div>
           
-          <div class="thumbnail-gallery">
-            <div class="row">
-              <div id="Container">
-                {% for post in site.categories.work %}
-                  <div class="mix col-sm-3 col-xs-6 {% for tag in post.tags %}{{ tag | downcase | replace: " ", "-" | append: " " }}{% endfor %}">
-                    <a class="thumbnail" href="{{ post.url }}">
-                      <img class="img-responsive img-circle" src="{{ site.baseurl }}img/{{ post.image }}">
-                    </a>
-                  </div>
-                {% endfor %}
-              </div>
+          <div class="row thumbnail-gallery">
+            <div id="Container">
+              {% for post in site.categories.work %}
+                <div class="mix col-sm-3 col-xs-6 {% for tag in post.tags %}{{ tag | downcase | replace: " ", "-" | append: " " }}{% endfor %}">
+                  <a class="thumbnail" href="{{ post.url }}">
+                    <img class="img-responsive img-circle" src="{{ site.baseurl }}img/{{ post.image }}">
+                  </a>
+                </div>
+              {% endfor %}
             </div>
           </div>
