@@ -139,9 +139,12 @@ a:focus {
 .caption-body {
   vertical-align: middle;
 }
-
-#Container .mix{
+#Container .mix {
 	display: none;
+}
+.gallery-filter {
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 /*
