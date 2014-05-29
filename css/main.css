@@ -116,6 +116,14 @@ a:focus {
 .thumbnail-gallery .thumbnail:hover {
   border: 1px solid #BDBE5A;
 }
+.thumbnail-gallery .thumbnail:hover img {
+  -webkit-filter: blur(2px);
+  -moz-filter: blur(2px);
+  -o-filter: blur(2px);
+  -ms-filter: blur(2px);
+  filter: blur(2px);
+  padding: 2px;
+}
 .thumbnail .caption {
   position: absolute;
   top: 0;
@@ -123,7 +131,7 @@ a:focus {
   left: 0;
   right: 0;
   border-radius: 50%;
-  background: rgba(189, 190, 90, 0.85);
+  background: rgba(189, 190, 90, 0.75);
   visibility: hidden;
   opacity: 0;
   -webkit-transition: all 0.3s;
@@ -135,9 +143,11 @@ a:focus {
   visibility: visible;
   opacity: 1;
 }
-.caption-body {
-  vertical-align: middle;
-}
+
+/*
+ * MixItUp Filtering
+ */
+
 #Container .mix {
 	display: none;
 }
