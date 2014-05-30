@@ -4,10 +4,12 @@ title: Advertising Agency, Green Bay, WI
 ---
 
         <div class="jumbotron">
-          <div class="container">
+          <div class="jumbotron-background row">
+          </div>
+          <div class="container jumbotron-caption">
             <h1>Full-service creativity and marketing.</h1>
             <div class="col-md-9 center-block">
-            <p>Creative insight to help you achieve your goals, from big picture strategy to fine details of design, copywriting, social media and media buying, all in-house.</p>
+              <p>Creative insight to help you achieve your goals, from big picture strategy to fine details of design, copywriting, social media and media buying, all in-house.</p>
             </div>
           </div>
         </div>
@@ -21,11 +23,11 @@ title: Advertising Agency, Green Bay, WI
                 <a href="{{ post.url }}">
                   <img class="img-responsive img-circle" src="{{ site.baseurl }}img/{{ post.image }}">
                 </a>
-                <div class="caption">
+                <a class="caption" href="{{ post.url }}">
                   <p>{{ post.title }}</p>
                   <p>{{ post.tags | join: ", " }}</p>
                 </div>
-              </div>
+              </a>
             </div>
             {% endfor %}
             <div class="col-sm-3 col-xs-6">

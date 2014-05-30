@@ -103,6 +103,36 @@ a:focus {
 }
 
 /*
+.jumbotron {
+  height: 375px;
+  text-align: center;
+  position: relative;
+}
+.jumbotron-caption {
+  position: absolute;
+  
+}
+.jumbotron h1 {
+  color: white;
+  margin-top: 60px;
+  z-index: 1;
+}
+.jumbotron p {
+  color: white;
+  font-size: 1.25em;
+  line-height: 1.6;
+}
+.jumbotron .jumbotron-background {
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  left: 0;
+}
+.jumbotron-background .col-md-4 {
+  padding: 0;
+} */
+
+/*
  * Thumbnail Gallery
  */
 
