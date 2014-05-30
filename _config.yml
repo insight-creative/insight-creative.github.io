@@ -1,5 +1,4 @@
 name: Insight Creative
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 permalink: none
-paginate_path: "/blog/page:num"
