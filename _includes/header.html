@@ -51,7 +51,20 @@
                     <li><a href="/staff-bios">Staff Bios</a></li>
                   </ul>
                 </li>
-                <li {% if page.url contains "/services" %}class="active"{% endif %}><a href="/services">Services</a></li>
+                <li {% if page.url contains "/services" %}class="active"{% endif %}>
+                  <a href="/services" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="/services/">Services Overview</a></li>
+                    <li><a href="/services/strategy-branding">Strategy and Branding</a></li>
+                    <li><a href="/services/media-buying">Media Buying</a></li>
+                    <li><a href="/services/design">Design</a></li>
+                    <li><a href="/services/copywriting">Copywriting</a></li>
+                    <li><a href="/services/social-media">Social Media</a></li>
+                    <li><a href="/services/web-development">Web Development</a></li>
+                    <li><a href="/services/photography">Photography</a></li>
+                    <li><a href="/services/public-relations">Public Relations</a></li>
+                  </ul>
+                </li>
                 <li {% if page.url contains "/work" %}class="active"{% endif %}><a href="/work">Work</a></li>
                 <li {% if page.url contains "/blog" %}class="active"{% endif %}><a href="/blog">Blog</a></li>
                 <li {% if page.url contains "/contact" %}class="active"{% endif %}><a href="/contact">Contact</a></li>
