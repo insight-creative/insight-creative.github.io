@@ -227,11 +227,13 @@ a:focus {
   color: #999;
   font-style: italic;
 }
-.article-body img {
-  width: 140%;
-  margin-left: -20%;
-  margin-top: 30px;
-  margin-bottom: 30px;
+@media (min-width: 992px) {
+  .article-body img {
+    width: 140%;
+    margin-left: -20%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
 }
 .article-footer {
   text-align: center;
