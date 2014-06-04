@@ -2,7 +2,6 @@
 layout: post
 title:  Five Ways to Create a Creative Workplace
 author: Kevin McGillivray
-date:   2013-11-12
 ---
 
 When I tell people that I work at a company called Insight Creative, they often ask, “What makes it creative?”

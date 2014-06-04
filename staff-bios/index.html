@@ -4,20 +4,9 @@ title: Staff Bios
 ---
 
 <h1>Meet the Insight Team</h1>
-  {% for post in site.categories.staff-bios %}
-  <div class="row">
-    <div class="col-md-4 col-sm-5 col-xs-5">
-      <div class="thumbnail">
-        <img class="img-responsive img-circle" src="{{ site.url }}/img/{{ post.image}}">
-      </div>
-    </div>
-    <div class="col-md-8 col-sm-7 col-xs-7">
-      <h2>{{ post.title }}</h2>
-      <em>{{ post.jobtitle }}</em>
-    </div>
-    <div class="col-xs-12">
-      {{ post.content }}
-    </div>
-  </div>
-  <hr>
-  {% endfor %}
+
+{% for staff in site.data.staff %}
+
+{% include staff-bio.html %}
+
+{% endfor %}

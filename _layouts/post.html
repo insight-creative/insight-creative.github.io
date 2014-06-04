@@ -15,4 +15,11 @@ layout: page
                     
                 </div>
               </article>
-      
+              
+              {% for staff in site.data.staff %}
+                {% if page.author == staff.name %}
+                
+                {% include staff-bio.html %}
+                
+                {% endif %}
+              {% endfor %}
