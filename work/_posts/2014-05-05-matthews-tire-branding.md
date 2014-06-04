@@ -12,7 +12,7 @@ tags:
 - Print
 ---
 
-How to develop and maintain a unique brand –&nbsp;as well as offering monthly, themed promotional print, TV, radio, social media, public relations and more – to drive traffic to an established chain of tire and auto repair shops?
+How to develop and maintain a unique brand—as well as offering monthly, themed promotional print, TV, radio, social media, public relations and more—to drive traffic to an established chain of tire and auto repair shops?
 
 ![Matthews Logo](/img/matthews-logo.jpg)
 
@@ -27,4 +27,5 @@ In business since 1952, Matthews Tire is a successful chain of tire and automoti
 Matthews branding is ahead of the pack with a successful radio, TV, outdoor and print campaign—as well as a winning website—that sets them apart from area competitors. In addition Matthews has a strong social media presence on Facebook and Twitter, plus helpful YouTube videos and more. And customer satisfaction is constantly monitored via an online satisfaction survey. Together, these efforts keep Matthews’ marketing hitting on all cylinders!
 
 ![Matthews Poster](/img/matthews-poster.jpg)
+
 <iframe width="640" height="360" src="//www.youtube.com/embed/FZgdQvtaN_c" frameborder="0" allowfullscreen></iframe>

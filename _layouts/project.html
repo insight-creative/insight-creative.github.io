@@ -13,35 +13,11 @@ layout: page
 {{ content }}
                 
                 </div>
+                <hr>
+                <div class="article-footer">
+                  <a href="/work" class="btn btn-lg btn-default">See all projects</a>
+                </div>
               </article>
               
             </div> <!-- /.center-block -->
           </div><!-- /.row -->
-              
-          <div class="row">
-            <div class="col-md-12">
-              <hr>
-              <h1>Related Projects</h1>
-            </div>
-          </div>
-          
-          <div class="row thumbnail-gallery">
-            {% for post in site.categories.work limit: 7 %}
-            <div class="col-sm-3 col-xs-6">
-              <div class="thumbnail">
-                <a href="{{ post.url }}">
-                  <img class="img-responsive img-circle" src="{{ site.baseurl }}/img/{{ post.image }}">
-                </a>
-                <a class="caption" href="{{ post.url }}">
-                  <p>{{ post.title }}</p>
-                  <p>{{ post.tags | join: ", " }}</p>
-                </div>
-              </a>
-            </div>
-            {% endfor %}
-            <div class="col-sm-3 col-xs-6">
-              <div class="thumbnail">
-                <a href="/work"><img class="img-responsive img-circle" src="holder.js/500x500/auto/#E7E7E7:#D41E47/text:View all projects"></a>
-              </div>
-            </div>
-          </div>

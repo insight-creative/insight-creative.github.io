@@ -148,6 +148,7 @@ a:focus {
   transition: all 0.3s;
 }
 .thumbnail .caption p {
+  font-size: 1.2em;
   margin-top: auto;
   margin-bottom: auto;
   display: table;
@@ -172,8 +173,12 @@ a:focus {
 	display: none;
 }
 .gallery-filter {
-  display: block;
-  margin: 30px auto;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+.gallery-filter .nav-pills > li > a {
+  margin-right: 3px;
+  margin-left: 3px;
 }
 
 /*
