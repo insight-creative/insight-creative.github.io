@@ -138,6 +138,7 @@ a:focus {
   bottom: 0;
   left: 0;
   right: 0;
+  margin: 4px;
   border-radius: 50%;
   background: rgba(189, 190, 90, 0.75);
   visibility: hidden;
@@ -145,7 +146,18 @@ a:focus {
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   transition: all 0.3s;
-  margin: 4px;
+}
+.thumbnail .caption p {
+  margin-top: auto;
+  margin-bottom: auto;
+  display: table;
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  color: white;
+  text-decoration: none;
 }
 .thumbnail:hover .caption {
   visibility: visible;
@@ -250,7 +262,7 @@ footer {position: relative;
   height: 310px;
   clear:both;} 
 
-/*Opera Fix*/
+/* Opera Fix */
 body:before {
   content:"";
   height:100%;
