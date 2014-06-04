@@ -5,7 +5,11 @@ title: Services
 
 # Services
 
-## [Graphic Design](/services/design)
+Introductory paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et urna nunc. Aenean consectetur mauris vel consectetur tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra.
+
+---
+
+## Graphic Design
 
 ### Unique. Bold. Sophisticated.
 
@@ -15,7 +19,7 @@ Services include: Creative concepting, brochures, newsletters, direct mail, cata
 
 ---
 
-## [Video/Audio](/services/video-audio)
+## Video/Audio
 
 ### Professional. Memorable. Artistic.
 
@@ -25,7 +29,7 @@ Services include: Concept development, script writing, storyboarding, on-locatio
 
 ---
 
-## [Copywriting](/services/copywriting)
+## Copywriting
 
 ### Savvy. Descriptive. Concise.
 
@@ -35,7 +39,7 @@ Services include: Creative, concepting, ad copy, radio scripting, television scr
 
 ---
 
-## [Branding](/services/branding-strategy)
+## Branding
 
 ### Original. Smart. Memorable.
 
@@ -45,7 +49,7 @@ Services include: Positioning, naming, slogans, tag lines, logo development, let
 
 ---
 
-## [Photography](/services/photography)
+## Photography
 
 ### Brilliant. Stylistic. Edgy.
 
@@ -55,7 +59,7 @@ Services include: Multiple on-staff stylists, designers, and photographers, in-h
 
 ---
 
-## [Web Development](/services/web-development)
+## Web Development
 
 ### Intriguing. Animated. Integrated.
 
@@ -65,19 +69,19 @@ Services include: Website development, hosting, graphics, animation, banners, li
 
 ---
 
-## [Social Media](/services/social-media)
+## Social Media
 
 Social media and social network marketing are changing at a rapid pace. Let us keep up with the latest advancements; we'll work with you to determine the trends that will affect you and your customers. From LinkedIn profiles, Facebook pages and Google ads to Foursquare, blogging and more—a successful social media presence starts with strategy. We'll outline measurable objectives and integrate a strong social media program with your "traditional" marketing efforts.
 
 ---
 
-## [Public Relations](/services/public-relations)
+## Public Relations
 
 Although the tools are constantly evolving, we believe the fundamentals of good public relations remain the same; Insight can help you strengthen relationships, share your message and create a greater impact for the people who matter most to your organization. Whether you want to build or repair your image, plan and promote a special event or learn to communicate effectively with your target audience, we have the experience and creativity to help you reach your goals.
 
 ---
 
-## [Media Buying](/services/media-buying)
+## Media Buying
 
 ### Radio! Online! TV! Billboards! Newspapers!
 
@@ -88,3 +92,7 @@ You have so many choices when it comes to where to put your marketing resources.
 * Arbitron data (radio)
 
 Our respected media planners and buyers have diverse backgrounds and experience in broadcast, interactive, social media and more. They have the knowledge, inside information and skill needed to negotiate the best value for our clients. And the service doesn't stop with the buy. We place each spot we purchase - ensuring the best timing to reach your largest audience. Our media specialists' in-depth understanding of smart media planning will make your dollars work harder. We're also able to leverage our position as a major media buyer to negotiate the best rates and positions for your messages!
+
+---
+
+Call to Action: Contact us or view our featured projects.

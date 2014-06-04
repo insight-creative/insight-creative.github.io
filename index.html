@@ -25,7 +25,6 @@ title: Advertising Agency, Green Bay, WI
                 </a>
                 <a class="caption" href="{{ post.url }}">
                   <p>{{ post.title }}</p>
-                  <p>{{ post.tags | join: ", " }}</p>
                 </div>
               </a>
             </div>
@@ -47,8 +46,5 @@ title: Advertising Agency, Green Bay, WI
               <p>{{ post.date | date: "%B %-d, %Y" }}</p>
               {% endfor %}
               <a href="/blog#archives" class="btn btn-lg btn-default">View all blog posts</a>
-            </div>
-            <div class="col-md-6">
-              <img class="img-responsive" data-src="holder.js/1920x1080/auto/text:Video">
             </div>
           </div>
