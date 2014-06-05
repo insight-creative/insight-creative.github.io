@@ -38,11 +38,11 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-              <a class="navbar-brand" href="/"><img class="img-circle fadeIn" src="/img/insight-creative-logo.jpg" alt="Insight Creative"></a>
+              <a class="navbar-brand" href="/"><img class="img-circle {% if page.title contains "Advertising Agency" %}fadeIn{% endif %}"src="/img/insight-creative-logo.jpg" alt="Insight Creative"></a>
             </div>
           
             <!-- navbar toggle links -->
-            <div class="collapse navbar-collapse slideDown" id="navbar-collapse-1">
+            <div class="collapse navbar-collapse {% if page.title contains "Advertising Agency" %}slideDown{% endif %}" id="navbar-collapse-1">
               <ul class="nav navbar-nav navbar-right">
                 <li class="dropdown" {% if page.url contains "/about" %}class="active"{% endif %}>
                   <a href="/about" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b></a>
