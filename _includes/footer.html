@@ -43,6 +43,12 @@
   	<script src="http://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
     <script src="/js/scripts.js"></script>
     
+    <!-- Rotate header graphic -->
+    <script type="text/javascript">
+     var images = ['circles.png', 'molecules.png'];
+     $('.jumbotron').css({'background-image': 'url(img/' + images[Math.floor(Math.random() * images.length)] + ')'});
+    </script>
+    
     <!-- Widon't, removes widows in text
     <script>
       jQuery(function($) {

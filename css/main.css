@@ -101,7 +101,13 @@ a:focus {
  */
 
 .jumbotron {
+  background: url(/img/molecules.png) no-repeat center center;
+  background-size: cover;
+  background-color: #EEE;
   height: 375px;
+  max-width: 1864px;
+  margin-left: auto;
+  margin-right: auto;
   text-align: center;
 }
 .jumbotron h1 {
