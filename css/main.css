@@ -92,7 +92,6 @@ a:focus {
   color: #BDBE5A;
 }
 
-
 /*
  * Jumbotron
  */
@@ -125,12 +124,12 @@ a:focus {
   border: 1px solid #BDBE5A;
 }
 .thumbnail-gallery .thumbnail:hover img {
-  -webkit-filter: blur(2px);
-  -moz-filter: blur(2px);
-  -o-filter: blur(2px);
-  -ms-filter: blur(2px);
-  filter: blur(2px);
   padding: 2px;
+  -webkit-filter: blur(2px);
+     -moz-filter: blur(2px);
+       -o-filter: blur(2px);
+      -ms-filter: blur(2px);
+          filter: blur(2px);
 }
 .thumbnail .caption {
   position: absolute;
@@ -144,8 +143,12 @@ a:focus {
   visibility: hidden;
   opacity: 0;
   -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  transition: all 0.3s;
+     -moz-transition: all 0.3s;
+          transition: all 0.3s;
+}
+.thumbnail:hover .caption {
+  visibility: visible;
+  opacity: 1;
 }
 .thumbnail .caption p {
   font-size: 1.2em;
@@ -159,10 +162,6 @@ a:focus {
   bottom: 0;
   color: white;
   text-decoration: none;
-}
-.thumbnail:hover .caption {
-  visibility: visible;
-  opacity: 1;
 }
 
 /*
@@ -229,6 +228,22 @@ a:focus {
 }
 .article-footer .btn {
   width: 100%;
+}
+
+/*
+ * Staff Bio
+ */
+
+@media (min-width: 992px) {
+  .staff-bio .thumbnail {
+    margin-top: 20px;
+    margin-bottom: 0;
+  }
+}
+.staff-bio h3 {
+  font-style: italic;
+  color: #7E7E7E;
+  margin-top: 0;
 }
 
 /*
