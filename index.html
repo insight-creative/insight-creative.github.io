@@ -2,19 +2,18 @@
 layout: default
 title: Advertising Agency, Green Bay, WI
 ---
-
-        <div class="jumbotron">
-          <div class="jumbotron-background">
-          </div>
-          <div class="container jumbotron-caption">
-            <h1>Full-service creativity and marketing.</h1>
+        
+        <div class="bg fadeIn animation"></div>
+        <div class="jumbotron affix fadeIn animation">
+          <div class="container">
+            <h1 class="jumbotron-header">Full-service creativity and marketing.</h1>
             <div class="col-md-9 center-block">
-              <p>Creative insight to help you achieve your goals, from big picture strategy to fine details of design, copywriting, social media and media buying, all in-house.</p>
+              <p>Creative insight to help you achieve your goals, from big picture strategy to fine details of design, copywriting, social media and media buying.</p>
             </div>
           </div>
         </div>
         
-        <div class="container">
+        <div class="container fadeIn animation" id="main2">
           
           <div class="row thumbnail-gallery">
             {% for post in site.categories.work limit: 7 %}

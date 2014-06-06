@@ -46,17 +46,32 @@
     <!-- Rotate header graphic -->
     <script type="text/javascript">
      var images = ['circles.png', 'molecules.png'];
-     $('.jumbotron').css({'background-image': 'url(img/' + images[Math.floor(Math.random() * images.length)] + ')'});
+     $('.bg').css({'background-image': 'url(img/' + images[Math.floor(Math.random() * images.length)] + ')'});
     </script>
     
-    <!-- Widon't, removes widows in text
+    <!-- Parallax jumbotron -->
+    <script>
+      var jumboHeight = $('.jumbotron').outerHeight();
+      function parallax(){
+          var scrolled = $(window).scrollTop();
+          $('.bg').css('height', (jumboHeight-scrolled) + 'px');
+      }
+      
+      $(window).scroll(function(e){
+          parallax();
+      });
+    </script>
+    
+    <!-- Widon't, removes widows in text -->
     <script>
       jQuery(function($) {
-        $('h1,h2,h3,li,p').each(function() {
+        $('.jumbotron-header').each(function() {
           $(this).html($(this).html().replace(/\s([^\s<]+)\s*$/,'&nbsp;$1'));
         });
       });
-    </script> -->
+    </script>
+      
+
     
   </body>
 </html>
