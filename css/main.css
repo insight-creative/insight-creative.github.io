@@ -144,7 +144,14 @@ a:focus {
  * Jumbotron
  */
 
-
+.jumbotron {
+  background-color: transparent;
+  height: 375px;
+  max-width: 1864px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
 .bg {
   background: url(/img/molecules.png) no-repeat center center;
   position: fixed;
@@ -155,14 +162,16 @@ a:focus {
   z-index: -1;
   margin-top: 54px;
 }
-.jumbotron {
-  background-color: transparent;
-  height: 375px;
-  max-width: 1864px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
+.jumbotron h1 {
+  color: #BDBE5A;
 }
+.jumbotron p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+/* Crazy CSS fix to get the jumbotron content to be in the center */
+
 .jumbotron > .container {
 	/* fixed position a zero-height full width container */
 	position: fixed;
@@ -170,20 +179,14 @@ a:focus {
 	left: 0;
 	right: 0;
 	height: 0;
-  padding-top: 120px;
 	/* center all inline content */
 	text-align: center;
 }
 .jumbotron > .container > .jumbotron-caption {
 	/* make the block inline */
-	display: inline-block;
-}
-.jumbotron h1 {
-  color: #BDBE5A;
-}
-.jumbotron p {
-  font-size: 1.2rem;
-  line-height: 1.6;
+  margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
 }
 
 /*
@@ -417,7 +420,45 @@ body:before {
   }   
 }
 
-@media (min-width: 992px) {
+.fadeIn{
+	animation-name: fadeIn;
+	-webkit-animation-name: fadeIn;	
+
+	animation-duration: 1.2s;	
+	-webkit-animation-duration: 1.2s;
+
+	animation-timing-function: ease-in-out;	
+	-webkit-animation-timing-function: ease-in-out;		
+
+	visibility: visible !important;	
+}
+
+@keyframes fadeIn {
+	0% {
+		opacity: 0.0;		
+	}
+  70% {
+    opacity: 0.0;
+  }
+	100% {
+		opacity: 1;	
+	}		
+}
+
+@-webkit-keyframes fadeIn {
+	0% {
+		opacity: 0.0;		
+	}
+  70% {
+    opacity: 0.0;
+  }
+	100% {
+		opacity: 1;	
+	}		
+}
+
+
+@media (min-width: 768px) {
   .slideDown{
     animation-name: slideDown;
     -webkit-animation-name: slideDown;  
@@ -454,42 +495,4 @@ body:before {
       -webkit-transform: translateY(0%);
     }
   }
-  
-  .fadeIn{
-  	animation-name: fadeIn;
-  	-webkit-animation-name: fadeIn;	
-
-  	animation-duration: 1.2s;	
-  	-webkit-animation-duration: 1.2s;
-
-  	animation-timing-function: ease-in-out;	
-  	-webkit-animation-timing-function: ease-in-out;		
-
-  	visibility: visible !important;	
-  }
-
-  @keyframes fadeIn {
-  	0% {
-  		opacity: 0.0;		
-  	}
-    70% {
-      opacity: 0.0;
-    }
-  	100% {
-  		opacity: 1;	
-  	}		
-  }
-
-  @-webkit-keyframes fadeIn {
-  	0% {
-  		opacity: 0.0;		
-  	}
-    70% {
-      opacity: 0.0;
-    }
-  	100% {
-  		opacity: 1;	
-  	}		
-  }
-  
 }
