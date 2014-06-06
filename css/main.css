@@ -240,6 +240,11 @@ a:focus {
   width: 100%;
 }
 
+img.appicon-blog {
+  width: 100px;
+  height: auto;
+}
+
 /*
  * Staff Bio
  */
@@ -290,7 +295,7 @@ html, body {height: 100%;}
 footer {position: relative;
   margin-top: -310px; /* negative value of footer height */
   height: 310px;
-  clear:both;} 
+  clear:both;}
 
 /* Opera Fix */
 body:before {
@@ -308,80 +313,80 @@ body:before {
 
 .fadeIn {
   animation-name: fadeIn;
-  -webkit-animation-name: fadeIn; 
+  -webkit-animation-name: fadeIn;
 
-  animation-duration: .7s;  
+  animation-duration: .7s;
   -webkit-animation-duration: .7s;
 
-  animation-timing-function: ease-in-out; 
-  -webkit-animation-timing-function: ease-in-out;   
+  animation-timing-function: ease-in-out;
+  -webkit-animation-timing-function: ease-in-out;
 
-  visibility: visible !important; 
+  visibility: visible !important;
 }
 
 @keyframes fadeIn {
   0% {
-    transform: scale(0);  
+    transform: scale(0);
   }
   60% {
-    transform: scale(0);  
+    transform: scale(0);
   }
   80% {
     transform: scale(1.1);
-  } 
+  }
   100% {
     transform: scale(1);
-  }   
+  }
 }
 
 @-webkit-keyframes fadeIn {
   0% {
-    -webkit-transform: scale(0);  
+    -webkit-transform: scale(0);
   }
   60% {
     -webkit-transform: scale(0);
   }
   80% {
     -webkit-transform: scale(1.1);
-  } 
+  }
   100% {
-    -webkit-transform: scale(1);  
-  }   
+    -webkit-transform: scale(1);
+  }
 }
 
 @media (min-width: 992px) {
   .slideDown{
     animation-name: slideDown;
-    -webkit-animation-name: slideDown;  
-  
-    animation-duration: .7s;  
+    -webkit-animation-name: slideDown;
+
+    animation-duration: .7s;
     -webkit-animation-duration: .7s;
-  
-    animation-timing-function: ease;  
-    -webkit-animation-timing-function: ease;  
-  
-    visibility: visible !important;           
+
+    animation-timing-function: ease;
+    -webkit-animation-timing-function: ease;
+
+    visibility: visible !important;
   }
-  
+
   @keyframes slideDown {
     0% {
       transform: translateY(-100%);
     }
     60% {
       transform: translateY(-100%);
-    } 
+    }
     100% {
       transform: translateY(0%);
-    }   
+    }
   }
-  
+
   @-webkit-keyframes slideDown {
     0% {
       -webkit-transform: translateY(-100%);
     }
     60% {
       -webkit-transform: translateY(-100%);
-    } 
+    }
     100% {
       -webkit-transform: translateY(0%);
     }
