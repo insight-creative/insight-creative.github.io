@@ -377,21 +377,12 @@ body:before {
  */
 
 
-<<<<<<< HEAD
-.fadeIn {
-  animation-name: fadeIn;
-  -webkit-animation-name: fadeIn;
-
-  animation-duration: .7s;
-  -webkit-animation-duration: .7s;
-=======
 .pop {
   animation-name: pop;
   -webkit-animation-name: pop;
 
   animation-duration: 1.7s;
   -webkit-animation-duration: 1.7s;
->>>>>>> bffa6e162df193d0eb5744a3e9973456acbecdae
 
   animation-timing-function: ease-in-out;
   -webkit-animation-timing-function: ease-in-out;
@@ -403,13 +394,8 @@ body:before {
   0% {
     transform: scale(0);
   }
-<<<<<<< HEAD
-  60% {
-    transform: scale(0);
-=======
   80% {
     transform: scale(0);
->>>>>>> bffa6e162df193d0eb5744a3e9973456acbecdae
   }
   90% {
     transform: scale(1.1);
@@ -509,14 +495,9 @@ body:before {
       -webkit-transform: translateY(0%);
     }
   }
-<<<<<<< HEAD
 }
-=======
-<<<<<<< HEAD
-}
-=======
 
-  .fadeIn{
+  .fadeIn {
   	animation-name: fadeIn;
   	-webkit-animation-name: fadeIn;
 
@@ -552,7 +533,3 @@ body:before {
   		opacity: 1;
   	}
   }
-
-}
->>>>>>> bffa6e162df193d0eb5744a3e9973456acbecdae
->>>>>>> 812b650bec08de4f128121721d1b57fb7328746c
