@@ -2,11 +2,10 @@
 layout: default
 title: Advertising Agency, Green Bay, WI
 ---
-
-        <div class="jumbotron">
-          <div class="jumbotron-background">
-          </div>
-          <div class="container jumbotron-caption">
+        
+        <div class="bg"></div>
+        <div class="jumbotron affix">
+          <div class="container">
             <h1>Full-service creativity and marketing.</h1>
             <div class="col-md-9 center-block">
               <p>Creative insight to help you achieve your goals, from big picture strategy to fine details of design, copywriting, social media and media buying, all in-house.</p>
@@ -14,7 +13,7 @@ title: Advertising Agency, Green Bay, WI
           </div>
         </div>
         
-        <div class="container">
+        <div class="container" id="main2">
           
           <div class="row thumbnail-gallery">
             {% for post in site.categories.work limit: 7 %}
