@@ -32,9 +32,7 @@ iframe {
   margin-top: 375px;
   padding-top: 20px;
 }
-.animation {
-  visibility: hidden;
-}
+
 /*
  * Typography
  */
@@ -164,6 +162,7 @@ a:focus {
 }
 .jumbotron h1 {
   color: #BDBE5A;
+  margin-top: 140px;
 }
 .jumbotron p {
   font-size: 1.2rem;
@@ -420,46 +419,8 @@ body:before {
   }
 }
 
-.fadeIn{
-	animation-name: fadeIn;
-	-webkit-animation-name: fadeIn;	
-
-	animation-duration: 1.2s;	
-	-webkit-animation-duration: 1.2s;
-
-	animation-timing-function: ease-in-out;	
-	-webkit-animation-timing-function: ease-in-out;		
-
-	visibility: visible !important;	
-}
-
-@keyframes fadeIn {
-	0% {
-		opacity: 0.0;		
-	}
-  70% {
-    opacity: 0.0;
-  }
-	100% {
-		opacity: 1;	
-	}		
-}
-
-@-webkit-keyframes fadeIn {
-	0% {
-		opacity: 0.0;		
-	}
-  70% {
-    opacity: 0.0;
-  }
-	100% {
-		opacity: 1;	
-	}		
-}
-
-
-@media (min-width: 768px) {
-  .slideDown{
+@media (min-width: 992px) {
+  .slideDown {
     animation-name: slideDown;
     -webkit-animation-name: slideDown;
 
@@ -495,8 +456,7 @@ body:before {
       -webkit-transform: translateY(0%);
     }
   }
-}
-
+  
   .fadeIn {
   	animation-name: fadeIn;
   	-webkit-animation-name: fadeIn;
@@ -506,10 +466,10 @@ body:before {
 
   	animation-timing-function: ease-in-out;
   	-webkit-animation-timing-function: ease-in-out;
-
+  
   	visibility: visible !important;
   }
-
+  
   @keyframes fadeIn {
   	0% {
   		opacity: 0.0;
@@ -521,7 +481,7 @@ body:before {
   		opacity: 1;
   	}
   }
-
+  
   @-webkit-keyframes fadeIn {
   	0% {
   		opacity: 0.0;
@@ -533,3 +493,4 @@ body:before {
   		opacity: 1;
   	}
   }
+}
