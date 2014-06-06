@@ -361,7 +361,7 @@ html, body {height: 100%;}
 footer {position: relative;
   margin-top: -310px; /* negative value of footer height */
   height: 310px;
-  clear:both;} 
+  clear:both;}
 
 /* Opera Fix */
 body:before {
@@ -377,47 +377,61 @@ body:before {
  */
 
 
+<<<<<<< HEAD
+.fadeIn {
+  animation-name: fadeIn;
+  -webkit-animation-name: fadeIn;
+
+  animation-duration: .7s;
+  -webkit-animation-duration: .7s;
+=======
 .pop {
   animation-name: pop;
-  -webkit-animation-name: pop; 
+  -webkit-animation-name: pop;
 
-  animation-duration: 1.7s;  
+  animation-duration: 1.7s;
   -webkit-animation-duration: 1.7s;
+>>>>>>> bffa6e162df193d0eb5744a3e9973456acbecdae
 
-  animation-timing-function: ease-in-out; 
-  -webkit-animation-timing-function: ease-in-out;   
+  animation-timing-function: ease-in-out;
+  -webkit-animation-timing-function: ease-in-out;
 
   visibility: visible !important;
 }
 
 @keyframes pop {
   0% {
-    transform: scale(0);  
+    transform: scale(0);
   }
+<<<<<<< HEAD
+  60% {
+    transform: scale(0);
+=======
   80% {
-    transform: scale(0);  
+    transform: scale(0);
+>>>>>>> bffa6e162df193d0eb5744a3e9973456acbecdae
   }
   90% {
     transform: scale(1.1);
-  } 
+  }
   100% {
     transform: scale(1);
-  }   
+  }
 }
 
 @-webkit-keyframes pop {
   0% {
-    -webkit-transform: scale(0);  
+    -webkit-transform: scale(0);
   }
   80% {
     -webkit-transform: scale(0);
   }
   90% {
     -webkit-transform: scale(1.1);
-  } 
+  }
   100% {
-    -webkit-transform: scale(1);  
-  }   
+    -webkit-transform: scale(1);
+  }
 }
 
 .fadeIn{
@@ -461,38 +475,84 @@ body:before {
 @media (min-width: 768px) {
   .slideDown{
     animation-name: slideDown;
-    -webkit-animation-name: slideDown;  
-  
-    animation-duration: .7s;  
+    -webkit-animation-name: slideDown;
+
+    animation-duration: .7s;
     -webkit-animation-duration: .7s;
-  
-    animation-timing-function: ease;  
-    -webkit-animation-timing-function: ease;  
-  
-    visibility: visible !important;           
+
+    animation-timing-function: ease;
+    -webkit-animation-timing-function: ease;
+
+    visibility: visible !important;
   }
-  
+
   @keyframes slideDown {
     0% {
       transform: translateY(-100%);
     }
     60% {
       transform: translateY(-100%);
-    } 
+    }
     100% {
       transform: translateY(0%);
-    }   
+    }
   }
-  
+
   @-webkit-keyframes slideDown {
     0% {
       -webkit-transform: translateY(-100%);
     }
     60% {
       -webkit-transform: translateY(-100%);
-    } 
+    }
     100% {
       -webkit-transform: translateY(0%);
     }
   }
+<<<<<<< HEAD
 }
+=======
+<<<<<<< HEAD
+}
+=======
+
+  .fadeIn{
+  	animation-name: fadeIn;
+  	-webkit-animation-name: fadeIn;
+
+  	animation-duration: 1.2s;
+  	-webkit-animation-duration: 1.2s;
+
+  	animation-timing-function: ease-in-out;
+  	-webkit-animation-timing-function: ease-in-out;
+
+  	visibility: visible !important;
+  }
+
+  @keyframes fadeIn {
+  	0% {
+  		opacity: 0.0;
+  	}
+    70% {
+      opacity: 0.0;
+    }
+  	100% {
+  		opacity: 1;
+  	}
+  }
+
+  @-webkit-keyframes fadeIn {
+  	0% {
+  		opacity: 0.0;
+  	}
+    70% {
+      opacity: 0.0;
+    }
+  	100% {
+  		opacity: 1;
+  	}
+  }
+
+}
+>>>>>>> bffa6e162df193d0eb5744a3e9973456acbecdae
+>>>>>>> 812b650bec08de4f128121721d1b57fb7328746c
