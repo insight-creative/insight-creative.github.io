@@ -32,7 +32,9 @@ iframe {
   margin-top: 375px;
   padding-top: 20px;
 }
-
+.animation {
+  visibility: hidden;
+}
 /*
  * Typography
  */
@@ -175,8 +177,6 @@ a:focus {
 .jumbotron > .container > .jumbotron-caption {
 	/* make the block inline */
 	display: inline-block;
-	/* reset container's center alignment */
-	text-align: left;
 }
 .jumbotron h1 {
   color: #BDBE5A;
@@ -374,27 +374,27 @@ body:before {
  */
 
 
-.fadeIn {
-  animation-name: fadeIn;
-  -webkit-animation-name: fadeIn; 
+.pop {
+  animation-name: pop;
+  -webkit-animation-name: pop; 
 
-  animation-duration: .7s;  
-  -webkit-animation-duration: .7s;
+  animation-duration: 1.7s;  
+  -webkit-animation-duration: 1.7s;
 
   animation-timing-function: ease-in-out; 
   -webkit-animation-timing-function: ease-in-out;   
 
-  visibility: visible !important; 
+  visibility: visible !important;
 }
 
-@keyframes fadeIn {
+@keyframes pop {
   0% {
     transform: scale(0);  
   }
-  60% {
+  80% {
     transform: scale(0);  
   }
-  80% {
+  90% {
     transform: scale(1.1);
   } 
   100% {
@@ -402,14 +402,14 @@ body:before {
   }   
 }
 
-@-webkit-keyframes fadeIn {
+@-webkit-keyframes pop {
   0% {
     -webkit-transform: scale(0);  
   }
-  60% {
+  80% {
     -webkit-transform: scale(0);
   }
-  80% {
+  90% {
     -webkit-transform: scale(1.1);
   } 
   100% {
@@ -454,4 +454,42 @@ body:before {
       -webkit-transform: translateY(0%);
     }
   }
+  
+  .fadeIn{
+  	animation-name: fadeIn;
+  	-webkit-animation-name: fadeIn;	
+
+  	animation-duration: 1.2s;	
+  	-webkit-animation-duration: 1.2s;
+
+  	animation-timing-function: ease-in-out;	
+  	-webkit-animation-timing-function: ease-in-out;		
+
+  	visibility: visible !important;	
+  }
+
+  @keyframes fadeIn {
+  	0% {
+  		opacity: 0.0;		
+  	}
+    70% {
+      opacity: 0.0;
+    }
+  	100% {
+  		opacity: 1;	
+  	}		
+  }
+
+  @-webkit-keyframes fadeIn {
+  	0% {
+  		opacity: 0.0;		
+  	}
+    70% {
+      opacity: 0.0;
+    }
+  	100% {
+  		opacity: 1;	
+  	}		
+  }
+  
 }
