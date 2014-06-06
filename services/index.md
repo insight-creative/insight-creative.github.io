@@ -92,7 +92,3 @@ You have so many choices when it comes to where to put your marketing resources.
 * Arbitron data (radio)
 
 Our respected media planners and buyers have diverse backgrounds and experience in broadcast, interactive, social media and more. They have the knowledge, inside information and skill needed to negotiate the best value for our clients. And the service doesn't stop with the buy. We place each spot we purchase - ensuring the best timing to reach your largest audience. Our media specialists' in-depth understanding of smart media planning will make your dollars work harder. We're also able to leverage our position as a major media buyer to negotiate the best rates and positions for your messages!
-
----
-
-Call to Action: Contact us or view our featured projects.

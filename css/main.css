@@ -3,7 +3,7 @@
  */
 
 html {
-  font-size: 15px;
+  font-size: 16px;
 }
 @media (min-width: 768px) {
   html {
@@ -77,9 +77,15 @@ a:focus {
  * Navbar
  */
 
+
 .navbar {
   background-color: #3F4142;
   border-bottom: 4px solid #BDBE5A;
+}
+.dropdown-menu {
+  background-color: #3F4142;
+  border-top: none;
+  border-radius: 5px;
 }
 .navbar-brand img {
   border-radius: 50%;
@@ -95,6 +101,9 @@ a:focus {
     margin-top: 0;
     margin-left: 0;
   }
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li:hover > a {
+  background: none;
 }
 .navbar-default .navbar-nav > li > a,
 .navbar-default .navbar-nav > li > a:focus,
@@ -263,6 +272,8 @@ a:focus {
 }
 .article-footer .btn {
   width: 100%;
+  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
 /*
