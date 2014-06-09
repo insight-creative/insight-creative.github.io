@@ -33,6 +33,9 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: subpixel-antialiased; /* Makes type display consistently in Safari */
 }
+#wrapper {
+  padding-bottom: 20px;
+}
 img {
   width: 100%;
   height: auto;
@@ -184,7 +187,7 @@ a:focus {
 .dropdown {
   margin-top: 20px;
 }
-@media (min-width: 992px) {
+@media (min-width: 763px) {
   .dropdown {
     margin-top: 0px;
   }
