@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When Considering Email Design Mobile is a Must.
+title: When Considering Email Design Mobile is a Must
 author: Bart Raboin
 ---
 

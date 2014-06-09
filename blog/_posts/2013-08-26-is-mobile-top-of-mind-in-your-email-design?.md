@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Mobil Top of Mind in Your Email Design?
+title: Is Mobile Top of Mind in Your Email Design?
 author: Bart Raboin
 ---
 

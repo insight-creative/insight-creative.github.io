@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where are people going to play their Video Games? As a marketer, you should know.
+title: Where are People Going to Play their Video Games? As a Marketer, you Should Know
 author: Jay Bauer
 ---
 
