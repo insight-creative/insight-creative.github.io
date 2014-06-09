@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quality Content Starts With The Idea
-author: Jim Von Hoff
+author: Jim von Hoff
 ---
 
 We’ve been hearing the word “content” more frequently over the last several years. This is most likely a result of the continued growth of the Internet. But what exactly is content?
