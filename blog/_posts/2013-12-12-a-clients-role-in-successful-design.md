@@ -23,7 +23,7 @@ Give your designer the background they need to approach the project from a strat
 - What do you want your audience to do? (Make a purchase? Contact you?)
 - What have you tried in the past?
 
-For more information on project input, see Molly’s article: [The Key to a Successful Campaign is in Your Briefs.]()
+For more information on project input, see Molly’s article: [The Key to a Successful Campaign is in Your Briefs.]({% post_url 2012-07-10-the-key-to-a-successful-campaign-is-in-your-briefs %})
 
 ##3. Don't Design by Committee.
 ![](/img/chunky-monkey.jpg)

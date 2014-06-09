@@ -14,7 +14,7 @@ What does this mean for your email marketing strategies?
 
 Mobile marketing is NOT a fad. As technology advances and the proliferation of mobile devices become ubiquitous throughout society, it stands to reason as marketers we want to provide the best user-friendly experience to our audience as possible. Providing relevant, timely content in a format that’s easy to access and engage with is key to a successful email marketing campaign.
 
-For more information on best practices that can be implemented in your email marketing, check out *[When Considering Email Design, Mobile is a Must.]()* If you have further questions, leave your comments below and we’ll be glad to answer them!
+For more information on best practices that can be implemented in your email marketing, check out [*When Considering Email Design, Mobile is a Must.*]({% post_url 2012-10-19-when-considering-email-design-mobile-is-a-must %}) If you have further questions, leave your comments below and we’ll be glad to answer them!
 
 
 [Check out Yesmail’s study for yourself and see where your industry stacks up.](http://www.yesmail.com/resources/benchmarks/yesmails-email-marketing-compass-mobile-effect)

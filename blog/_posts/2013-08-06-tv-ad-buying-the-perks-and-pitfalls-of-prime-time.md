@@ -34,4 +34,4 @@ It can be difficult to risk the expense of paying primetime prices if lower-cost
 
 Ultimately, if you have the budget to implement primetime spots into your schedule and the timing fits your campaign objectives, it can be a great option to test. Then, your next difficult task would be to decide in which of the addicting new shows to run ads.
 
-Want to learn even more about media buying? Shelly Shares insight on [ad buying during the Superbowl.]()
+Want to learn even more about media buying? Shelly Shares insight on [ad buying during the Superbowl.]({% post_url 2012-11-16-super-bowl-presents-super-opportunities-for-advertisers %})

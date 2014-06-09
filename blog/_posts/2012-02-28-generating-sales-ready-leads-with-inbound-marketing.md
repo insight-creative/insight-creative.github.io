@@ -10,7 +10,7 @@ Traditionally, ‘sales leads’ meant digging up that old phonebook or contacts
 
 The roles of sales & marketing have shifted. ***Content marketing*** is becoming a focus of lead generation.
 
-Today’s lead generation strategies shift the messaging from sales-oriented to buyer-centric. Providing free, relevant and relatable information [builds trust]() and your online authority in your industry. As you build trust with your prospective client, your content should continue to engage the discussion around the problem. People want to know that others identify with their problems and that a solution is truly focused on their needs.
+Today’s lead generation strategies shift the messaging from sales-oriented to buyer-centric. Providing free, relevant and relatable information builds trust and your online authority in your industry. As you build trust with your prospective client, your content should continue to engage the discussion around the problem. People want to know that others identify with their problems and that a solution is truly focused on their needs.
 
 ###**Here’s the plan:**
 
@@ -18,7 +18,7 @@ Build a history with your visitors, so they come to expect interesting, relevant
 
 Once they are in your system, you can review their activity on your site. Find out what they’ve looked at, downloaded, registered for––whatever data will be the most relevant to your sales team. Equipped with this existing knowledge, they are the ones who will reach out to website visitors with tailored messages addressing specific needs.
 
-The key is that your content is now more valuable than ever. How you present yourself –– your value proposition –– and how you demonstrate that through your content is how you can engage potential customers. People are going to research your company and services. The source of that information is up to you, but it would be advantageous if they can find the most relevant and [valuable content]() on your site or within your email campaigns.
+The key is that your content is now more valuable than ever. How you present yourself –– your value proposition –– and how you demonstrate that through your content is how you can engage potential customers. People are going to research your company and services. The source of that information is up to you, but it would be advantageous if they can find the most relevant and [valuable content]({% post_url 2012-02-06-quality-content-starts-with-the-idea %}) on your site or within your email campaigns.
 
 This leads us back to content marketing – the creation and sharing of content with the goal to engage a specific audience. In the past, proprietary information would be closely guarded and shared only in the most secure situations. Today, that idea is changing to make some or all of this unique, high-value content available to specific audiences who will provide some information in exchange.
 

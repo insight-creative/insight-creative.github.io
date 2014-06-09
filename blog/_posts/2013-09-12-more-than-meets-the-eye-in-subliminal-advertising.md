@@ -40,6 +40,6 @@ Here are several instances of subliminal messages that may or may not have been 
 
 Being sneaky and manipulative with subliminal messages is ineffective and prohibited by law. Using subliminal advertising for personal gain – as was done by Vicary in the New Jersey movie theaters – could damage a brand’s credibility and erode consumers’ trust.
 
-On the other hand, the Duke study proves advertisements do not need to “scream” in order to be effective. “Incidental brand exposures” can trigger people to “Think Differently.” To me, this same study also suggests the importance of building trust with consumers. Stay natural and [listen to what your consumers have to say.]() Otherwise they will put up their guard and shut you out.
+On the other hand, the Duke study proves advertisements do not need to “scream” in order to be effective. “Incidental brand exposures” can trigger people to “Think Differently.” To me, this same study also suggests the importance of building trust with consumers. Stay natural and [listen to what your consumers have to say.]({% post_url 2012-05-10-4-ways-to-gain-consumer-loyalty %}) Otherwise they will put up their guard and shut you out.
 
 What are your thoughts on subliminal advertising?
