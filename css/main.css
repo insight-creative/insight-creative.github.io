@@ -40,7 +40,7 @@ iframe {
 .center-block {
   float: none;
 }
-#main2 {
+#page-wrap {
   position: relative;
   background-color: white;
   margin-top: 375px;
@@ -225,21 +225,22 @@ a:focus {
 .jumbotron > .container > .jumbotron-caption {
 	/* make the block inline */
   margin: auto;
-    position: absolute;
-    top: 0; left: 0; bottom: 0; right: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
 }
 
 /*
  * Thumbnail Gallery
  */
 
-.thumbnail-gallery {
-  text-align: center;
-}
 .thumbnail {
   border-radius: 50%;
   position: relative;
 }
+
 .thumbnail-gallery .thumbnail:hover {
   border: 1px solid #BDBE5A;
 }
@@ -271,7 +272,6 @@ a:focus {
   opacity: 1;
 }
 .thumbnail .caption p {
-  font-size: 1.2rem;
   margin-top: auto;
   margin-bottom: auto;
   display: table;
