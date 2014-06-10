@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What exactly is Reputation Management?
+title: What Exactly is Reputation Management?
 author: Liz Van Asten
 ---
 

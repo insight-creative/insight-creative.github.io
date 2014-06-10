@@ -14,7 +14,7 @@ It doesn’t take long to run across poor content. Again, I believe that’s due
 
 The web is a content-hungry beast that continues to grow at an amazing rate. Lev Grossman broke down the numbers recently in [Time Magazine](http://content.time.com/time/magazine/article/0,9171,2104815,00.html#ixzz1krr6i4Qd):
 
-- For every minute that passes in real time, 60 hours of video are uploaded to YouTube. You can turn that number over in your mind as much as you want; at no point will it stop being incredible. Sixty hours every minute. That’s five months of video every hour. That’s 10 years of video every day. More video is uploaded to YouTube every month than has been broadcast by the three big TV networks in the past 60 years. And the pace is accelerating: last year the rate was only 48 hours per minute.
+> For every minute that passes in real time, 60 hours of video are uploaded to YouTube. You can turn that number over in your mind as much as you want; at no point will it stop being incredible. Sixty hours every minute. That’s five months of video every hour. That’s 10 years of video every day. More video is uploaded to YouTube every month than has been broadcast by the three big TV networks in the past 60 years. And the pace is accelerating: last year the rate was only 48 hours per minute.
 
 Unfortunately, many content producers have developed a “quantity over quality” mentality. It’s interesting to note how a video can become exceedingly popular or go viral, even though it has poor lighting or audio. In most cases, what makes it stand out is its original idea or concept.
 
@@ -35,5 +35,3 @@ Here are a few tips to ensure that you create quality content.
 -  Use good audio recording techniques.
 
 How do you define “quality” content?
-
-![](/img/foundation.jpg)

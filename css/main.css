@@ -82,6 +82,13 @@ a:hover,
 a:focus {
   color: #BDBE5A;
 }
+blockquote {
+  border-left: 5px solid #D41E47;
+  font-style: italic;
+}
+blockquote p:last-child {
+  margin-bottom: 20px;
+}
 
 /*
  * Buttons
