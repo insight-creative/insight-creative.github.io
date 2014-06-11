@@ -369,12 +369,15 @@ article p {
   color: #999;
   font-style: italic;
 }
+.article-body img {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 3px;
+}
 @media (min-width: 992px) {
   .article-body img {
     width: 120%;
     margin-left: -10%;
-    margin-top: 30px;
-    margin-bottom: 30px;
   }
 }
 .article-footer {
