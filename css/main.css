@@ -281,6 +281,7 @@ blockquote p:last-child {
   left: 0;
   border-radius: 50%;
   text-decoration: none;
+  height: 100%;
 }
 .thumbnail-gallery .thumbnail .project-caption {
   background: rgba(189, 190, 90, 0.75);
