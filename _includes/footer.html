@@ -65,7 +65,7 @@
     <!-- Widon't, removes widows in text -->
     <script>
       jQuery(function($) {
-        $('.jumbotron-header').each(function() {
+        $('.jumbotron-header,.jumbotron-text').each(function() {
           $(this).html($(this).html().replace(/\s([^\s<]+)\s*$/,'&nbsp;$1'));
         });
       });
