@@ -4,12 +4,12 @@ title:  Matthews Tire Branding
 client: Matthews Tire
 image: matthews-branding-thumbnail.jpg
 tags:
-- Video
-- Social Media
-- Case Study
-- Branding
-- Radio
-- Print
+- video
+- social-media
+- case-study
+- branding
+- radio
+- print
 ---
 
 How to develop and maintain a unique brand—as well as offering monthly, themed promotional print, TV, radio, social media, public relations and more—to drive traffic to an established chain of tire and auto repair shops?

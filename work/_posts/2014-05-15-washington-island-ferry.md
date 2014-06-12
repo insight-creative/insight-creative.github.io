@@ -4,12 +4,12 @@ title:  Washington Island Ferry Marketing
 client: Washington Island Ferry
 image: washington-island-ferry-thumbnail.jpg
 tags:
-- Case study
-- Social media
-- Print
-- Web
-- Copywriting
-- Media buying
+- case-study
+- social-media
+- print
+- web
+- copywriting
+- media-buying
 ---
 
 The Ferry, the only source of transport from mainland Door County, Wisconsin—an upscale vacation destination—to Washington Island in Lake Michigan, was in need of a marketing overhaul to more effectively communicate with visitors who increasingly rely on technology for information and vacation planning.

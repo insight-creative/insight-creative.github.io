@@ -4,7 +4,7 @@ title:  Valley Custom Door Product Catalog
 client: Valley Custom Door
 image: valley-custom-door-product-catalog-thumbnail.jpg
 tags:
-- Print
+- print
 ---
 
 Catalog design for Valley Custom Door, a quality cabinet door manufacturer in De Pere, Wisconsin.

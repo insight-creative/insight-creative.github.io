@@ -4,5 +4,5 @@ title:  CommunityConnect Logo
 client: CIVICTechnologies
 image: communityconnect-logo-thumbnail.jpg
 tags:
-- Identity
+- identity
 ---

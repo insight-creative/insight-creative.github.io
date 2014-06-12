@@ -3,11 +3,11 @@ layout: project
 title:  Domino Printing Sciences Campaign
 client: Domino Printing Sciences
 image: domino-campaign-thumbnail.jpg
-tags:
-- Case study
-- Video
-- Web
-- Copywriting
+categories:
+- case-study
+- video
+- web
+- copywriting
 ---
 
 Domino Printing Sciences, currently a global market leader in coding and marking for the food and beverage industry, identified a niche-market opportunity within pharmaceutical packaging after the announcement of an impending e-Pedigree law requiring serialization and specialized coding on all pharmaceuticals by January 2015.

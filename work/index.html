@@ -25,7 +25,7 @@ title: Work
           <div class="row thumbnail-gallery">
             <div id="Container">
               {% for post in site.categories.work %}
-              <div class="mix col-md-3 col-sm-4 col-xs-6 {% for tag in post.tags %}{{ tag | downcase | replace: " ", "-" | append: " " }}{% endfor %}">
+              <div class="{{ post.tags | join: " " }} mix col-md-3 col-sm-4 col-xs-6">
                 <div class="thumbnail">
                   <a href="{{ post.url }}">
                     <img class="img-responsive img-circle" src="/img/{{ post.image }}">

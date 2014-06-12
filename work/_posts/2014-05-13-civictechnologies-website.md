@@ -4,6 +4,6 @@ title:  CIVICTechnologies Website
 client: CIVICTechnologies
 image: civictechnologies-website-thumbnail.jpg
 tags:
-- Case Study
-- Web
+- case-study
+- web
 ---
