@@ -1,13 +1,10 @@
 ---
 layout: project
-title:  Domino Printing Sciences Campaign
-client: Domino Printing Sciences
-image: domino-campaign-thumbnail.jpg
+title:  Goodwill Media Placement
+client: Goodwill NCW
+image: goodwill-logo.jpg
 tags:
-- case-study
-- video
-- web
-- copywriting
+- Media buying
 ---
 
 Domino Printing Sciences, currently a global market leader in coding and marking for the food and beverage industry, identified a niche-market opportunity within pharmaceutical packaging after the announcement of an impending e-Pedigree law requiring serialization and specialized coding on all pharmaceuticals by January 2015.

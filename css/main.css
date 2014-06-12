@@ -237,6 +237,7 @@ blockquote p:last-child {
  */
 
 .thumbnail-gallery {
+  /* remove white space to make mixitup work */
   font-size: 0;
 }
 .thumbnail-gallery .thumbnail {
