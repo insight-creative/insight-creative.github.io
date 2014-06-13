@@ -1,7 +1,7 @@
         </div> <!-- /.container -->
       </div> <!-- /#main -->
     </div> <!-- /#wrap -->
-    
+
     <footer>
       <div class="container">
         <div class="row">
@@ -31,24 +31,24 @@
         </div>
       </div>
     </footer>
-  
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-    
+
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/holder.js"></script>
-    
+
     <!-- MixItUp jQuery Plugin -->
   	<script src="http://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
     <script src="/js/scripts.js"></script>
-    
+
     <!-- Rotate header graphic -->
     <script type="text/javascript">
      var images = ['circles.png', 'molecules.png'];
      $('.bg').css({'background-image': 'url(img/' + images[Math.floor(Math.random() * images.length)] + ')'});
     </script>
-    
+
     <!-- Parallax jumbotron -->
     <script>
       var jumboHeight = $('.jumbotron').outerHeight();
@@ -56,12 +56,12 @@
           var scrolled = $(window).scrollTop();
           $('.bg').css('height', (jumboHeight-scrolled) + 'px');
       }
-      
+
       $(window).scroll(function(e){
           parallax();
       });
     </script>
-    
+
     <!-- Widon't, removes widows in text -->
     <script>
       jQuery(function($) {
@@ -70,6 +70,6 @@
         });
       });
     </script>
-    
+
   </body>
 </html>
