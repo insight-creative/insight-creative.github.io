@@ -39,6 +39,7 @@ body {
 img {
   width: 100%;
   height: auto;
+  border-radius: 3px;
 }
 iframe {
   width: 100%;
@@ -375,7 +376,8 @@ article p {
   border-radius: 3px;
 }
 @media (min-width: 992px) {
-  .article-body img {
+  .article-body img,
+  .article-body iframe {
     width: 120%;
     margin-left: -10%;
   }
@@ -396,12 +398,10 @@ article p {
  * Staff Bio
  */
 
-.staff-bio .thumbnail {
-  border-radius: 50%;
-}
 @media (min-width: 992px) {
-  .staff-bio .thumbnail {
+  .staff-bio img {
     margin-top: 20px;
+    border: 4px solid #E7E7E7;
     margin-bottom: 0;
   }
 }
