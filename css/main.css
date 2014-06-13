@@ -95,15 +95,26 @@ blockquote p:last-child {
  * Buttons
  */
 
-.btn-default {
+.btn {
   border: 0;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #E7E7E7;
   color: #D41E47;
 }
-.btn-default:hover,
-.btn-default:focus {
+.btn:hover,
+.btn:focus {
   color: #BDBE5A;
 }
+.btn-inverse {
+  background-color: #D41E47;
+  color: white;
+}
+.btn-inverse:hover,
+.btn-inverse:focus {
+  color: #E7E7E7;
+}
+
 
 /*
  * Navbar
@@ -378,6 +389,7 @@ article p {
   width: 100%;
   margin-bottom: 10px;
   margin-top: 10px;
+  font-size: 1.15rem;
 }
 
 /*
