@@ -251,6 +251,7 @@ blockquote p:last-child {
 .jumbotron p {
   font-size: 1.2rem;
   line-height: 1.6;
+  margin-top: 15px;
 }
 
 /*
@@ -351,6 +352,9 @@ blockquote p:last-child {
 .post-list li {
   margin-top: 20px;
   margin-bottom: 20px;
+}
+.post-list li p {
+  margin: 0px;
 }
 .post-list .archive-year {
   margin-top: 50px;
