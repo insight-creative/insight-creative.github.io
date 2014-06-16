@@ -3,4 +3,6 @@ markdown: redcarpet
 highlighter: pygments
 permalink: none
 
+future: false
+
 twitter: insightwi
