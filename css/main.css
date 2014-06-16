@@ -20,7 +20,7 @@ html {
   font-size: 16px;
   height: 100%;
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   html {
     font-size: 20px;
   }
@@ -32,9 +32,6 @@ body {
   font-size: 1rem;
   line-height: 1.5;
   -webkit-font-smoothing: subpixel-antialiased; /* Makes type display consistently in Safari */
-}
-#wrapper {
-  padding-bottom: 20px;
 }
 img {
   width: 100%;
@@ -53,6 +50,16 @@ iframe {
   -webkit-transform: translateY(-50%);
   	  -ms-transform: translateY(-50%);
   	      transform: translateY(-50%);
+}
+/* Stop content from expanding too wide on tablets */
+#wrapper {
+  padding-bottom: 20px;
+  max-width: 550px;
+}
+@media (min-width: 992px) {
+  #wrapper {
+    max-width: 100%;
+  } 
 }
 
 /*
@@ -305,6 +312,7 @@ blockquote p:last-child {
 .thumbnail-gallery .thumbnail .project-caption p {
   color: white;
   font-size: 1rem;
+  margin: 0;
 }
 .thumbnail-gallery .thumbnail-button {
   position: relative;
@@ -318,6 +326,7 @@ blockquote p:last-child {
 .thumbnail-gallery .thumbnail-button p {
   color: #D41E47;
   font-size: 1rem;
+  margin: 0;
 }
 .thumbnail-gallery .thumbnail-button:hover p {
   color: #BDBE5A;
@@ -383,6 +392,7 @@ blockquote p:last-child {
   border-radius: 3px;
   margin-top: 15px;
   margin-bottom: 15px;
+  border: 4px solid #E7E7E7;
 }
 .article-body iframe {
   margin-bottom: 30px;
@@ -433,10 +443,12 @@ blockquote p:last-child {
  * Staff Bio
  */
 
+.staff-bio img {
+  border: 4px solid #E7E7E7;
+}
 @media (min-width: 992px) {
   .staff-bio img {
     margin-top: 20px;
-    border: 4px solid #E7E7E7;
     margin-bottom: 0;
   }
 }
