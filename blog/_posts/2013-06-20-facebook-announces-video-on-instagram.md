@@ -10,4 +10,4 @@ What do you think of this new feature? Watch the [full announcement event](http:
 
 <iframe src="http://new.livestream.com/accounts/4371393/events/2174163/videos/22041761/player?width=640&height=360&autoPlay=false&mute=false" width="640" height="360" frameborder="0" scrolling="no"></iframe>
 
-![Insight Creative Instagram Video](/img/Insight-Creative-Instagram-Video-e1371754171952-764x1024.jpg)
+![Insight Creative Instagram Video](/img/Insight-Creative-Instagram-Video-e1371754171952-764x1024.jpg){: .img-narrow}

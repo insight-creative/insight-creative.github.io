@@ -76,10 +76,16 @@ h2 {
 }
 p {
   color: #3F4142;
-  margin-bottom: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 ul, ol, ul ul, ol ol, ul ol, ol ul {
   margin-bottom: 30px;
+  padding-left: 25px;
+}
+article ul li,
+article ol li {
+  margin-bottom: 20px;
 }
 a {
   color: #D41E47;
@@ -91,6 +97,9 @@ a:focus {
 blockquote {
   border-left: 4px solid #D41E47;
   font-style: italic;
+}
+blockquote p:last-child {
+  margin-bottom: 20px;
 }
 /*
  * Buttons
@@ -371,22 +380,37 @@ blockquote {
   margin-top: 15px;
   margin-bottom: 15px;
 }
+.article-body iframe {
+  margin-bottom: 30px;
+}
+.article-body .img-left {
+  width: 33.333333%;
+  float: left;
+  margin-right: 20px;
+  margin-top: 5px;
+}
+.article-body .img-right {
+  width: 33.333333%;
+  float: right;
+  margin-left: 20px;
+  margin-top: 5px;
+}
 @media (min-width: 992px) {
-  .article-body img,
-  .article-body iframe {
+  .article-body img {
     width: 120%;
     margin-left: -10%;
   }
   .article-body .img-left {
-    width: 50%;
-    float: left;
-    margin-right: 20px;
+    width: 40%;
+    margin-left: -15%;
   }
   .article-body .img-right {
-    width: 50%;
-    float: right;
-    margin-left: 20px;
-    margin-right: -20%;
+    width: 40%;
+    margin-right: -15%;
+  }
+  .article-body .img-narrow {
+    width: 100%;
+    margin-left: 0;
   }
 }
 .article-footer {

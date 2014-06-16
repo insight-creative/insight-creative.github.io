@@ -13,5 +13,3 @@ Combining traditional and social media tools will also educate your customers. W
 A more concise marketing campaign that uses social media in a traditional marketing world will provide greater reach for your dollars, more sales opportunities and a better-educated customer.
 
 How are you using social media with your traditional marketing efforts?
-
-![](/img/TVFacebook-300x200.jpg)

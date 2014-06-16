@@ -6,7 +6,7 @@ author: Shawna Dubois
 
 Insight Creative recently hired two new employees to expand their team and meet the needs of their growing client base. Shawna Frisque-DuBois joins the business development team as senior account executive and Jenny Brandenburg joins the media team as media/traffic coordinator.
 
-![](/img/Shawna_0029cropWeb.jpg)
+![](/img/Shawna_0029cropWeb.jpg){: .img-right}
 
 Shawna brings more than 20 years of sales and customer service experience to Insight’s business development department. Prior to accepting the position at Insight, Shawna was a senior account consultant at LAMAR Advertising for 16 years where she was top seller and sales team leader. Shawna started her career as a retail store manager before taking on the role of an account development specialist at Frontier Communications.
 

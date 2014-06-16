@@ -4,7 +4,7 @@ title: Mulling Motivation
 author: Stacy Allen
 ---
 
-**What Motivates People?**
+What motivates people?
 
 I’ve been thinking about efficiency and productivity lately and wondering how those things can be improved within the context of a “really cool place to work.”
 
@@ -13,12 +13,10 @@ It’s often thought that cash is the best way to motivate people (think Wall St
 Maximum motivation to perform at a high technical or creative level requires three things:
 
 - **Autonomy**—Stop the micro managing already!
-
 - **Mastery**—Give people the resources needed to become really good at what they do.
-
 - **Purpose**—This is the tough one, but roughly it means allow people to feel that they are making a difference.
 
-***It’s important to note that these motivators don’t kick in until after a minimum level of financial incentive is supplied, so this research isn’t a green light for underpaying yet over expecting.***
+It’s important to note that these motivators don’t kick in until after a minimum level of financial incentive is supplied, so this research isn’t a green light for underpaying yet over expecting.
 
 This video does a darn impressive job of explaining this recent research into motivation. Plus it’s really cool to watch.
 

@@ -22,4 +22,4 @@ As you can imagine, the list of information from the creative brief would contin
 
 Bottom line: Not everyone is organized, and that’s okay. However, in the world of advertising, being organized with a clear, concise, yet thorough Creative Brief makes all the difference in a successful campaign.
 
-![](/img/MOLLYSBLOGGRAPHIC1.jpg)
+![](/img/MOLLYSBLOGGRAPHIC1.jpg){: .img-narrow}

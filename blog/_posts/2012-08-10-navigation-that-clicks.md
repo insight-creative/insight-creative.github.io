@@ -8,19 +8,19 @@ Recently I had the honor of being a presenter for Web920, a group of web develop
 
 Here are four of the styles we discussed:
 
-1. **STANDARD BUTTON**
+**1. Standard button**
 
 - Pros: Quick to create and your audience will easily recognize the button as something they should click.
 
 - Cons: Too many buttons can overwhelm your audience or make your site look outdated. Use sparingly.
 
-- Tips:The Illustrator Symbols Palette contains many ready-to-go button designs and icons which you can then customize. Make sure to use “trigger words” on your buttons so that it is very clear to the user what will happen when they click.
+- Tips: The Illustrator Symbols Palette contains many ready-to-go button designs and icons which you can then customize. Make sure to use “trigger words” on your buttons so that it is very clear to the user what will happen when they click.
 
 - Example: [Illustrator’s Web Symbols Palette](http://www.smashingmagazine.com/2011/09/16/an-in-depth-study-of-symbols-in-illustrator-cs5/)
 
-![](/img/symbols-palette.jpg)
+![](/img/symbols-palette.jpg){: .img-narrow}
 
-2. **LIST WITH ICONS**
+**2. List with icons**
 
 - Pros: Icons make it easier for your audience to quickly find the link they are looking for. This style also allows you to write slightly more descriptive text than you would be able to fit on a standard button.
 
@@ -30,9 +30,7 @@ Here are four of the styles we discussed:
 
 - Example: [musiquenomade.com](http://www.musiquenomade.com/#!/northern-collection)
 
-![](/img/musiquenomade,jpg)
-
-3. **BUCKETS**
+**3. Buckets**
 
 - Pros: Buckets are much larger than a button, so they have a stronger presence on the page and they give your audience more of a preview of what they will get if they click. People are drawn to great photography, so buckets are not only functional but also can be great eye candy.
 
@@ -42,9 +40,9 @@ Here are four of the styles we discussed:
 
 - Example: [indirasalonspa.com](http://indirasalonspa.com/)
 
-![](/img/indirasalonspa.jpg)
+![](/img/indirasalonspa.jpg){: .img-narrow}
 
-4. **ANIMATED**
+**4. Animated**
 
 - Pros: Animation has potential to increase user engagement.
 
@@ -53,8 +51,6 @@ Here are four of the styles we discussed:
 - Tips: Use animation as a progressive enhancement. Your site should still be navigable if the user does not have Javascript or Flash on their device. Also don’t allow animation to interfere with [accessibility](http://www.w3.org/standards/webdesign/accessibility).
 
 - Example: [k2.pl](http://www.k2.pl/#!/pl/strona-glowna/)
-
-![](/img/k2.jpg)
 
 This is just the tip of the iceberg. Is there a navigation style or tip that you would like to share? We would love to hear from you.
 

@@ -19,5 +19,3 @@ I was pleasantly surprised to come away with the realization that Pinterest hold
 5. **The Power of SEO:** Pinterest brings a plethora of information to users automatically, but also allows them to search for specific items. Analytics are showing that pinners have started to use the Pinterest search function in place of traditional search engines like Google, Yahoo! or Bing. If you’re concerned about appearing above the fold on Google, you should certainly share the same concern on Pinterest. This active, engaged and positive audience of 105+ million users is searching, perhaps even for your product right now. By creating a presence on Pinterest, your business is that much more likely to be found.
 
 If you would like to have a conversation to learn more about Pinterest and if it’s right for your marketing plan, please contact [Insight Creative](http://www.insightcreative.com).
-
-![](/img/pinterest2-300x225.jpg)

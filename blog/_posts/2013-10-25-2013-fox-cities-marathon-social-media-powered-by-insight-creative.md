@@ -22,14 +22,10 @@ During the marathon, half marathon and relay marathon events on Sunday, the Insi
 
 We encourage you to re-live the action by viewing the [highlights in our Facebook album](https://www.facebook.com/insightcreativeinc) or check out Fox Cities Marathon’s social media channels below.
 
-[Facebook](https://www.facebook.com/foxcitiesmarathon)
-
-[Twitter](https://twitter.com/foxcities)
-
-[YouTube](https://www.youtube.com/user/fcmarathon)
-
-[Instagram](http://instagram.com/foxcities#)
-
-[Pinterest](http://www.pinterest.com/foxcitiesmarath/)
+* [Facebook](https://www.facebook.com/foxcitiesmarathon)
+* [Twitter](https://twitter.com/foxcities)
+* [YouTube](https://www.youtube.com/user/fcmarathon)
+* [Instagram](http://instagram.com/foxcities#)
+* [Pinterest](http://www.pinterest.com/foxcitiesmarath/)
 
 ![](/img/Social-Media-Fox-Cities-Marathon.jpg)

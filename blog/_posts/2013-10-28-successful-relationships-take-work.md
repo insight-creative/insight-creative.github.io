@@ -8,7 +8,7 @@ Recently we had a client consider ending their social media retainer with the ag
 
 Step back and think of your own life. When the chips are down, you know exactly whom you can count on. You know who—among your family, friends and coworkers—will be there for you and help you through the bad times. What makes you trust your relationships with these select people over others? It all boils down to trust. Over time they have consistently earned your trust and allegiance.
 
-![](/img/like-trust.jpg)
+![](/img/like-trust.jpg){: .img-narrow}
 
 It’s the same way with a brand. The relationship between a brand and consumers is based on trust. Over time—through consistent performance—a successful brand earns the trust and allegiance of its loyal customers. They will purchase that brand over all others, even if it costs more. They will tell others about the brand and extol its virtues. They become the proverbial (at least in marketing circles) brand ambassadors. Even in tough times—such as recessions, changing trends or bouts of bad publicity—brand ambassadors remain loyal to their brand.
 

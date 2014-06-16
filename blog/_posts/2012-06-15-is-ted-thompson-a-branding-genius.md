@@ -23,5 +23,3 @@ The team’s history as one of the most hallowed franchises, not being embarrass
 After controversially trading the quarterback to another team and potentially making a colossal branding mistake, the Packers’ history and on-field strategies have enabled the team to come through it with a successful, potentially even stronger, brand. So if Ted Thompson retires … he may have a future in marketing?
 
 Dare I continue with Donald’s Driver recent mirror ball trophy win on Dancing with the Stars?
-
-![](/img/Packer1-300x144.jpg)

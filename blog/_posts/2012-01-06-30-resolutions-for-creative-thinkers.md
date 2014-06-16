@@ -67,5 +67,3 @@ Regardless of your profession, it’s good to step back from your work periodica
 30. Stop procrastinating. Seize the day!
 
 ***What are you going to create, accomplish, experience and experiment with in 2012?***
-
-![](/img/angela-resolutions.jpg)

@@ -15,5 +15,3 @@ As a business owner, marketer or employee there are things you can do to increas
 3. **Make it easy for customers to connect with you.** Your business hours might be 8-5 but your customer might be researching you at 7pm. Make sure you have a website (and a mobile site) and make it easy for them to contact you from the site. You don’t need to sit by your email and wait for their questions but at least your customer can check “contacting you” off their to-do list. This is where a lot of business is lost—customers can’t get information easily at the time they need it so they move on to the next business.
 
 4. **Make it easy for people to air out their issues with you.** Don’t wait until they get home and write a poor review on Google, Angie’s List, etc.  because now you’ve got twice the cleanup.  Give them an opportunity to clear the air before they leave your establishment.  It shows you care about their business and also saves you from bad reviews.  Hotels are a good example of this—they often have signage indicating that if something isn’t right, give us the chance to fix it.
-
-![](/img/LoyalCustomer1-149x300.jpg)

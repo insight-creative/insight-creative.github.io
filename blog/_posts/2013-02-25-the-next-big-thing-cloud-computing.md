@@ -14,4 +14,4 @@ There are some concerns with cloud computing. My biggest concerns are speed, ava
 
 I am still unsure of the cloud and it’s speed. I would need to see it in action before I would trust it. With that said, I feel that this will be our reality in the future and it will provide many benefits so I look forward to that.
 
-![](/img/CloudGraphic-295x300.jpg)
+![](/img/CloudGraphic-295x300.jpg){: .img-narrow}

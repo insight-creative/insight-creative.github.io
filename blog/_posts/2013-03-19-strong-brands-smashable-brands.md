@@ -4,11 +4,11 @@ title: Strong Brands = Smashable Brands
 author: Angela Schumacher
 ---
 
-##What does it mean to have a smashable brand?
+## What does it mean to have a smashable brand?
 
 In 1915, a designer at from the Root Glass Company in Indiana was given an assignment: “Design a bottle that is still recognizable when broken into pieces.” Can you identify this bottle?
 
-![](/img/bottle.jpg)
+![](/img/bottle.jpg){: .img-narrow}
 
 If you said Coke, you are absolutely right. The designer of this bottle absolutely succeeded in his assignment. In fact, the shape of the Coke bottle has become one of the elements that makes the Coke brand so strong. The shape is so unique and is used so consistently that people can identify the brand without seeing the label.
 
@@ -16,79 +16,67 @@ The Coke bottle example helps illustrate what Martin Lindstrom coined as a “Sm
 
 Below are some other brands that also have a smashable shape. Can you identify them by shape alone?
 
-![](/img/bottles.gif)
+![](/img/bottles.gif){: .img-narrow}
 
-##You can smash a brand in more than one way.
+## You can smash a brand in more than one way.
 
-###**Can you identify this clothing brand that has smashed their photography?**
+### Can you identify this clothing brand that has smashed their photography?
 
-![](/img/benneton.gif)
+![](/img/benneton.gif){: .img-narrow}
 
 This clothing brand doesn’t even need to show their product. Their fans identify them immediately. The brand’s ideals and personality rings loud and clear in each photo and the color palette/lighting is always very similar too.
 
 *(Answer: United Colors of Benetton)*
 
-###**Can you identify this fast food chain that has smashed their colors?**
+### Can you identify this fast food chain that has smashed their colors?
 
-![Jimmy John's Color Palette](/img/color-300x108.gif)
+![Jimmy John's Color Palette](/img/color-300x108.gif){: .img-narrow}
 
 Everything from their building’s awning, to the employee uniforms to the packaging and print ads are dominated by these three colors.
 
 *(Answer: Jimmy John’s)*
 
-###**Can you identify this fast food chain that has smashed their name?**
+### Can you identify this fast food chain that has smashed their name?
 
-###*McRestaurant*
+### *"McRestaurant"*
 
 *(Answer: I could put an “Mc” in front of just about any word and McDonald’s will probably come to your mind. We’ve been conditioned to make this association through McDonald’s clever food naming strategy: McNuggets, McDoubles, McRibs, McBites, etc.)*
 
-###**Brands can also smash language.**
+## Brands can also smash language.
 
 By using a consistent vocabulary and message, people will begin to identify specific words with their brand.
 
-**Which movie studio owns this word:**
+### Which movie studio owns this word:
 
-###*Fantasy*
+### *Fantasy*
 
 *(Answer: According to the book, Brand Sense, 80% of the world population associates the following words with Disney: Fantasy, Dreams, Creativity, Magic & Smiles.)*
 
-**Which razor owns this word:**
+### Which razor owns this word:
 
-###*Masculine*
+### *Masculine*
 
 *(Answer: According to the book, Brand Sense, 59% of consumers associated the word “Masculine” with Gillette.)*
 
-**Which soda owns this word:**
+### Which soda owns this word:
 
-###*Uncola*
+### *Uncola*
 
 *(Answer: This word helped 7UP identify itself in the citrus-flavored soda category.)*
 
-###**Here are some sound smashing tests you can try on your friends.**
+## Here are some sound smashing tests you can try on your friends.
 
-1. **Pour milk over Rice Krispies and see if they can identify the Snap Crackle Pop!**
+* **Pour milk over Rice Krispies and see if they can identify the Snap Crackle Pop!** This unique sound was actually engineered into the cereal in a lab to help it stand apart from the competition. The brand fully leverages the Snap Crackle and Pop in all of their advertising and packaging.
 
-    This unique sound was actually engineered into the cereal in a lab to help it stand apart from the competition. The brand fully leverages the Snap Crackle and Pop in all of their advertising and packaging.
-
-2. **Twist off the cap on on a Snapple bottle. Can your friends identify the beverage?**
-
-    This bottle cap sound was also carefully engineered in a lab. The sound communicates that the product is fresh so effectively that Snapple no longer needs to put the plastic seal around their bottle caps. This sound goes hand in hand with their advertising which talks about Snapple being made from the best stuff on Earth. See how they leverage the sound of the bottle cap in this commercial:
+* **Twist off the cap on on a Snapple bottle. Can your friends identify the beverage?** This bottle cap sound was also carefully engineered in a lab. The sound communicates that the product is fresh so effectively that Snapple no longer needs to put the plastic seal around their bottle caps. This sound goes hand in hand with their advertising which talks about Snapple being made from the best stuff on Earth. See how they leverage the sound of the bottle cap in this commercial:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/Zoh0tHRXOvE" frameborder="0" allowfullscreen></iframe>
 
-3. **Can your friends identify this sound?**
+* **Can your friends identify this sound?**
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/QRLyMjvug1M" frameborder="0" allowfullscreen></iframe>
 
-###**Can a brand smash a ritual?**
-
-Which beer does this lime make you think of?
-
-![](/img/lime-corona.gif)
-
-*(Answer: Corona)*
-
-**So this leaves us with the question, how did all these brands become smashable?**
+## So this leaves us with the question, how did all these brands become smashable?
 
 The answer is consistency coupled with engagement of the senses. According to brand expert Lindstrom, “83% of brand communications currently rely on sight alone.” Allow your customers to get to know your brand through more than just visuals.
 
@@ -98,4 +86,4 @@ Here is another example of a campaign that leveraged the power of the senses. Th
 
 Ask yourself, what sensory memories could your brand evoke? Make sure all your messages communicate a consistent message. The result will be a more recognizable brand. The more positive sensory memories your customers associate with your brand, the more trustworthy they will consider your brand to be.
 
-![](/img/strength-of-brands.gif)
+![](/img/strength-of-brands.gif){: .img-narrow}

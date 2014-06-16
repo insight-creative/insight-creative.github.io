@@ -12,8 +12,6 @@ Will this continue? I would guess yes and so would the people at [Tap.Me](http:/
 
 The moral of the story? Know where your audience is heading and then try to find a way to reach them.
 
-![](/img/InsightMobileBlogGraphic-157x300.jpg)
-
 Source: [Flurry](http://www.flurry.com/).
 
 Source: [AppData](http://www.appdata.com/).

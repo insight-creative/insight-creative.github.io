@@ -18,5 +18,5 @@ Much like the specialty brew Guinness creates, the brand has remained a successf
 
 You may wonder how does this apply to me and my business? Despite Guinness being one of the largest brands worldwide, the same marketing rules apply. The core elements of consistency, longevity, depth and repetition should be always present in your brand’s messaging regardless of the size, location or nature of your business.I encourage you to [visit the advertising portion of the Guinness site](http://www.guinness-storehouse.com/en/Advertisements.aspx?tid=4&decade=1930) to browse the print and TV ads from all decades. You’ll probably spot even more components to the Guinness brand that make it truly one-of-a-kind.
 
-![](/img/545126_982948636603_1763785750_n-300x225.jpg)
-![](/img/539633_982948671533_1886215955_n-300x225.jpg)
+![](/img/545126_982948636603_1763785750_n-300x225.jpg){: .img-narrow}
+![](/img/539633_982948671533_1886215955_n-300x225.jpg){: .img-narrow}

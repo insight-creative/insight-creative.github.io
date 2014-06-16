@@ -19,5 +19,3 @@ Start by asking yourself if advertising is necessary during the political campai
 5.  Lastly, consider the platforms the candidates are running on. Are people worried about the economy? Social issues? Global concerns? Is there a way your product/service can alleviate these concerns? For example, if people are worried about looming debt and this is a hot topic in the debates, can you advertise the lowest price or how customers can pay with cash? A bank could advertise lower interest rates on loans. A home builder could discuss how mortgage rates actually make now a good time to buy. Turn the political discussion into a chance to highlight your strengths.
 
 In short, you can still advertise in a political climate and stand out from the crowd. You just need to plan sooner and smarter.
-
-![](/img/icon-political-fight-tv.jpg)
