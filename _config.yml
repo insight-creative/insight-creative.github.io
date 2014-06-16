@@ -3,4 +3,6 @@ markdown: kramdown
 highlighter: pygments
 permalink: pretty
 
+future: false
+
 twitter: insightwi
