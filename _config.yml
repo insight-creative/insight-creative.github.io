@@ -1,6 +1,6 @@
 name: Insight Creative
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
-permalink: none
+permalink: pretty
 
 twitter: insightwi

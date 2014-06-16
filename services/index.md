@@ -5,8 +5,6 @@ title: Services
 
 # Services
 
-Introductory paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et urna nunc. Aenean consectetur mauris vel consectetur tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra.
-
 ---
 
 ## Branding

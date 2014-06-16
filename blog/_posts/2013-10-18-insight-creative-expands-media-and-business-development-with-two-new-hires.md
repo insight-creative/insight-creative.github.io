@@ -10,7 +10,7 @@ Insight Creative recently hired two new employees to expand their team and meet 
 
 Shawna brings more than 20 years of sales and customer service experience to Insight’s business development department. Prior to accepting the position at Insight, Shawna was a senior account consultant at LAMAR Advertising for 16 years where she was top seller and sales team leader. Shawna started her career as a retail store manager before taking on the role of an account development specialist at Frontier Communications.
 
-![](/img/Jenny_0020cropWeb.jpg)
+![](/img/Jenny_0020cropWeb.jpg){: .img-left}
 
 Jenny joins Insight with over five years of experience at the Oshkosh Northwestern as an account relationship specialist. Prior to working with the Oshkosh Northwestern, Jenny gained experience in marketing and sales at the Milwaukee Brewers Baseball Club. Jenny is a University of Wisconsin—Oshkosh graduate holding a Bachelor of Arts degree in Journalism with an emphasis in Advertising and Public Relations.
 
