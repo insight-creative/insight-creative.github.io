@@ -59,7 +59,7 @@ iframe {
 @media (min-width: 992px) {
   #wrapper {
     max-width: 100%;
-  } 
+  }
 }
 
 /*
@@ -205,7 +205,7 @@ blockquote p:last-child {
             transform: translateY(0%);
     -webkit-transition: all 300ms ease;
             transition: all 300ms ease;
-  }  
+  }
 }
 .navbar .navbar-nav .open .dropdown-menu > li > a {
   color: white;
@@ -330,6 +330,15 @@ blockquote p:last-child {
 }
 .thumbnail-gallery .thumbnail-button:hover p {
   color: #BDBE5A;
+}
+.thumbnail-text {
+  position: absolute;
+  white-space: nowrap;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%,-50%);
+      -ms-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
 }
 
 /*
@@ -587,8 +596,8 @@ body:before {
     100% {
       -webkit-transform: translateY(0%);
     }
-  }  
-  
+  }
+
   .fadeIn {
   	animation-name: fadeIn;
   	-webkit-animation-name: fadeIn;
@@ -598,10 +607,10 @@ body:before {
 
   	animation-timing-function: ease-in-out;
   	-webkit-animation-timing-function: ease-in-out;
-  
+
   	visibility: visible !important;
   }
-  
+
   @keyframes fadeIn {
   	0% {
   		opacity: 0.0;
@@ -613,7 +622,7 @@ body:before {
   		opacity: 1;
   	}
   }
-  
+
   @-webkit-keyframes fadeIn {
   	0% {
   		opacity: 0.0;
