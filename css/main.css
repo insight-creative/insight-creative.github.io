@@ -85,6 +85,15 @@ h3 {
   font-size: 1rem !important;
   font-weight: bold;
 }
+@media (min-width: 481px) {
+  h2 {
+    font-size: 1.4rem;
+  }
+  h3 {
+    font-size: 1.2rem !important;
+    font-weight: normal;
+  }
+}
 p {
   color: #3F4142;
   margin-top: 20px;
@@ -111,15 +120,6 @@ blockquote {
 }
 blockquote p:last-child {
   margin-bottom: 20px;
-}
-@media (min-width: 481px) {
-  h2 {
-    font-size: 1.4rem;
-  }
-  h3 {
-    font-size: 1.2rem !important;
-    font-weight: normal;
-  }
 }
 /*
  * Buttons
