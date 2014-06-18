@@ -3,7 +3,7 @@ description: "An Advertising Agency with a Vision to bring complete strategic de
 url: http://insight-creative.github.io/blog
 markdown: kramdown
 highlighter: pygments
-permalink: pretty
+permalink: none
 
 future: false
 

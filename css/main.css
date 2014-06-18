@@ -82,15 +82,14 @@ h2 {
   color: #D41E47;
 }
 h3 {
-  font-size: 1rem !important;
-  font-weight: bold;
+  font-size: 1rem;
 }
 @media (min-width: 481px) {
   h2 {
     font-size: 1.4rem;
   }
   h3 {
-    font-size: 1.2rem !important;
+    font-size: 1.2rem;
     font-weight: normal;
   }
 }
@@ -358,6 +357,10 @@ blockquote p:last-child {
  * MixItUp Filtering
  */
 
+#Container {
+  /* Bug fix to stop scroll bars from showing up while filtering */
+  overflow: hidden;
+}
 #Container .mix {
 	display: none;
   float: none;
@@ -475,7 +478,6 @@ blockquote p:last-child {
   }
 }
 .staff-bio h3 {
-  font-size: 1.3rem;
   color: #7E7E7E;
   margin-top: 0;
 }
