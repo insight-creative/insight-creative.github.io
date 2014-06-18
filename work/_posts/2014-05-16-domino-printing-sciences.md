@@ -6,7 +6,6 @@ image: domino-campaign-thumbnail.jpg
 tags:
 - case-study
 - video
-- web
 - copywriting
 ---
 

@@ -22,6 +22,7 @@ There are several helper classes to help lay out images in the blog.
 * To pull an image left, use `![Alt text](/path/to/image){: .img-left}`
 * To pull an image right, use `![Alt text](/path/to/image){: .img-right}`
 * To confine an image to the text margins (rather than the default wider margins), use `![Alt text](/path/to/image){: .img-narrow}`
+* To make the image larger, use `![Alt text](/path/to/image){: .img-large}`
 
 ### Staff Bios
 
