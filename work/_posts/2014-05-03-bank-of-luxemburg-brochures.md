@@ -1,10 +1,15 @@
 ---
 layout: project
-title:  Bank of Luxemburg Brochures
+
+title: Bank of Luxemburg Brochures
 client: Bank of Luxemburg
+
 image: bank-of-luxemburg-brochures-thumbnail.jpg
+
 tags:
 - print
+
+featured: true
 ---
 
 ![Bank of Luxemburg Brochures](/img/bank-of-luxemburg-brochures-1.jpg)

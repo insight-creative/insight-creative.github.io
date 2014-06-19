@@ -21,7 +21,8 @@ title: Advertising Agency, Green Bay, WI
 
           <div class="row thumbnail-gallery">
 
-            {% for post in site.categories.work limit: 7 %}
+            {% for post in site.categories.work %}
+            {% if post.featured %}
             <div class="col-md-3 col-sm-4 col-xs-6">
               <div class="thumbnail">
                 <a href="{{ post.url }}">
@@ -32,6 +33,7 @@ title: Advertising Agency, Green Bay, WI
                 </a>
               </div>
             </div>
+            {% endif %}
             {% endfor %}
 
             <div class="col-md-3 col-sm-4 col-xs-6">

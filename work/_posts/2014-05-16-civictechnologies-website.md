@@ -1,12 +1,16 @@
 ---
 layout: project
+
 title:  CIVICTechnologies Website
 client: CIVICTechnologies
+
 image: civictechnologies-website-thumbnail.jpg
 address: civictechnologies.com
+
 tags:
-- Case Study
 - Web
+
+featured: true
 ---
 
 ![CIVICTechnologies Website](/img/civictechnologies-website.jpg){: .img-large}
