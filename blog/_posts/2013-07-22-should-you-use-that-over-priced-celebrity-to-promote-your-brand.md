@@ -4,9 +4,9 @@ title: Should You Use That Over-Priced Celebrity to Promote Your Brand?
 author: Niki Petit
 ---
 
-When developing creative for a brand campaign, many companies incur the expense of high-priced celebrity spokespeople. Local radio DJs and TV news staff, national actors and athletes, even politicians have supplemented their income with brand gigs.
+![high-priced-spokesperson](/img/high-priced-spokesperson.jpg){: .img-right}
 
-![high-priced-spokesperson](/img/high-priced-spokesperson.jpg)
+When developing creative for a brand campaign, many companies incur the expense of high-priced celebrity spokespeople. Local radio DJs and TV news staff, national actors and athletes, even politicians have supplemented their income with brand gigs.
 
 Working at an ad agency in Green Bay, Wisconsin the most prominent celebrity spokespeople are of course the Green Bay Packers. Every company, large and small, wants to use a Packer to promote their brand. Is this strategy really worth the high-price expense? Perhaps, however there are several factor you must consider.
 

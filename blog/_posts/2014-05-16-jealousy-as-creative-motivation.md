@@ -4,7 +4,7 @@ title:  Jealousy as Creative Motivation?
 author: Stacy Allen
 ---
 
-![Creative Print Ads](/img/creative-motivation.jpg)
+![Creative Print Ads](/img/creative-motivation.jpg){: .img-xl}
 
 I *love* these [print ads](http://viralnova.com/creative-print-ads/). (For the most part.)  
 They make you think.  

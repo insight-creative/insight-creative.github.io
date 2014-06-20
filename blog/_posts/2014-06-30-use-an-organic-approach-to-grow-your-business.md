@@ -10,7 +10,7 @@ My neighbor warned me that the mosquitoes are unusually thick this season so I p
 
 It got me thinking … just how much mosquito spray did each store go through before running out? Should they have raised their prices? Should they have ordered more products to be prepared for the rush in demand? The answers are yes, yes and yes.
 
-![create-demand](/img/create-demand.jpg)
+![create-demand](/img/create-demand.jpg){: .img-lg}
 
 As a marketer, I am often asked how to sell more of the tertiary products located on the bottom shelves, or fill the restaurant at 3pm, or book a spa schedule during the workday. The reality is marketers cannot create a need … no matter how hard they try. Needs are driven by consumer demand based on season, weather, economy, personal habits, trends and extenuating circumstances. If you want to grow your business, spend time anticipating your consumer’s needs, then provide the products and services to meet them.
 

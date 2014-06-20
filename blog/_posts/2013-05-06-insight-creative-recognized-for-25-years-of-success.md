@@ -14,7 +14,7 @@ As stated in the company name, creativity is a key component of business operati
 
 “When it comes to developing strong creative strategies, there really is no such thing as a bad idea,” said Jim von Hoff, president of Insight Creative, Inc. “Some of the silliest ideas turn into such great, strong creative campaigns.” Von Hoff believes providing a safe, family-like atmosphere in which everyone is comfortable with contributing is essential to both customer and employee satisfaction. “We need to have an environment where people can be themselves and feel like they can put themselves out there,” he said.
 
-![Insight Creative 25 years](/img/BashGroup2013-1024x745.jpg)
+![Insight Creative 25 years](/img/BashGroup2013-1024x745.jpg){: .img-lg}
 
 With a focus on strategic development, Insight Creative is a marketing communications agency that serves businesses seeking innovative advertising plans. Service areas include media planning, website design and social media management, public and media relations, copywriting, graphic design and commercial photography, video and audio production.
 

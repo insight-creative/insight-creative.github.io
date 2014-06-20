@@ -8,4 +8,4 @@ In the pioneering days of web design, clients more often than not treated their 
 
 So what should you include on your homepage? Rand Fishkin of [Moz.com](http://www.moz.com) shares his advice on [what it takes to develop an effective homepage](http://moz.com/blog/what-should-i-put-on-the-homepage-whiteboard-friday) today.
 
-![SEOmoz Effective Homepage](/img/52b890a8554da2.07186970.jpg)
+![SEOmoz Effective Homepage](/img/52b890a8554da2.07186970.jpg){: .img-lg}

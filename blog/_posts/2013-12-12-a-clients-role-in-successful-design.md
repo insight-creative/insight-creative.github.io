@@ -7,7 +7,7 @@ author: Angela Schumacher
 Of all the projects I have worked on over the years, I’ve noticed some common threads among the projects that were most successful. Below I’ll share five tips that will help your next design project be all that it can be.
 
 ##1. Don't Wait Until Last Minute!
-![](/img/bull-by-the-horns.jpg)
+![](/img/bull-by-the-horns.jpg){: .no-border}
 
 It’s an unfortunate reality: sometimes there just aren’t enough hours in the day. Time can get away from us and next thing you know, that project you have been putting off is now becoming quite urgent. It happens. However, it’s important to understand that rushing will often dampen the creative process. Take the bull by the horns and get the project started early. Allow ample time for designers  and writers to brainstorm, create layouts, make revisions, proofread, get team approvals and send artwork out for final production.
 
@@ -26,7 +26,7 @@ Give your designer the background they need to approach the project from a strat
 For more information on project input, see Molly’s article: [The Key to a Successful Campaign is in Your Briefs.]({% post_url 2012-07-10-the-key-to-a-successful-campaign-is-in-your-briefs %})
 
 ##3. Don't Design by Committee.
-![](/img/chunky-monkey.jpg)
+![](/img/chunky-monkey.jpg){: .no-border}
 
 You are always welcome to gather outside feedback on your project, but be selective about which changes you choose to make. Ask yourself “Does this campaign/design convey our message effectively?” and “Does the designer’s work represent my brand appropriately?”
 
@@ -39,7 +39,7 @@ Verbal communication is still great, but written communication solidifies key po
 Whether you print out the layout and mark your changes directly on the paper copy, prefer to write a list, or, if the designer’s layout is in PDF format, mark up the layout digitally, it’s important to spell out your thoughts.
 
 ##5. The Problem vs. The Solution.
-![](/img/diagnosis.jpg)
+![](/img/diagnosis.jpg){: .no-border}
 
 Last but not least, remember that a large part of a designer’s job is problem solving. If there is something you think can be improved, tell your designer ***why*** you think it needs improvement so that they can help you find the best solution.
 

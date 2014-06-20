@@ -8,9 +8,9 @@ Before coming to Insight, I spent six years in the newspaper world. At Insight, 
 
 There are so many ways to advertise and market your business, and the list continues to grow and change, from traditional media—such as radio and TV—to the newest player, mobile. Several factors should go into selecting the right media for your client.
 
-![media-buying-basics](/img/media-buying-basics.jpg)
+![media-buying-basics](/img/media-buying-basics.jpg){: .img-lg}
 
-### Here are some things to think about:
+## Here are some things to think about:
 
 1. Balancing Customer Base
 

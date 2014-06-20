@@ -16,7 +16,7 @@ You can even narrow your target audience by household income, education, past bu
 
 Once these factors are determined Fancy Schmancy Cars ‘R Us can place online ads directed to the people that meet this criteria. Working with a reputable vendor, their ads appear on popular websites like:
 
-![Media Buying in a Digital Age](/img/media-buying-in-a-digital-age.jpg)
+![Media Buying in a Digital Age](/img/media-buying-in-a-digital-age.jpg){: .img-lg}
 
 Online advertisements can be as simple or as advanced as Fancy Schmancy Cars ‘R Us’s budget will allow.
 

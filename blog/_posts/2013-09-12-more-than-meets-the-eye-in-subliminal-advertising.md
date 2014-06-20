@@ -10,7 +10,7 @@ About a month ago, my colleague showed me what appeared to be a hidden message i
 
 Turns out, the [message created by Wendy’s ruffled collar](https://shine.yahoo.com/photos/wendys-logo-secret-slideshow/-photo-2658188-181000689.html) was an “accident”. It got us thinking though. How many intentional hidden messages are we exposed to every day without even knowing it? More important, is it possible that we are subconsciously influenced by them? We investigated further to find hidden messages, otherwise known as subliminal messages, are more common than you think.
 
-![Subliminal message definition](/img/subliminal-message-defined.gif)
+![Subliminal message definition](/img/subliminal-message-defined.gif){: .no-border}
 
 ##Subliminal Samples
 

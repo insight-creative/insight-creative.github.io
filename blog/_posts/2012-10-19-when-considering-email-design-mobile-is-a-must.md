@@ -23,7 +23,7 @@ Because real estate is limited on a mobile device, try to be concise in your mes
 
 Below is an example of the same email with different layouts as viewed on an iPhone. The mobile version on the left is simply easier to navigate and read. It really boils down to providing the best experience for your audience and allowing them the ability to choose what format works best for them to receive your content.
 
-![](/img/iphone-comparison-email.jpg)
+![](/img/iphone-comparison-email.jpg){: .no-border}
 
 If current technology trends aren’t enough to motivate you to consider your mobile audience, what’s the best way to find out if a mobile friendly format is right for you? Go directly to the source and ask your audience what they prefer. There are several options available for creating online polls to ask you subscriber list about their email viewing preferences. Once you have your own data, you can decide what course of action is best.
 

@@ -12,4 +12,4 @@ We are only a couple months away from the [Super Bowl](http://www.nfl.com/superb
 
 High profile programming can be an excellent part of a campaign. It’s great to launch a new product, highlight a new location, or just show off your new commercial. However, in order to see lasting success, the high profile programming should not be your entire campaign. Make sure you follow up with your target audience and reinforce the message you used to grab their attention.
 
-![](/img/Super-Bowl-XLVII-011-300x300.png)
+![](/img/Super-Bowl-XLVII-011-300x300.png){: .no-border}

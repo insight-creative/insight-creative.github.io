@@ -18,7 +18,7 @@ Here are four of the styles we discussed:
 
 - Example: [Illustrator’s Web Symbols Palette](http://www.smashingmagazine.com/2011/09/16/an-in-depth-study-of-symbols-in-illustrator-cs5/)
 
-![](/img/symbols-palette.jpg){: .img-narrow}
+![](/img/symbols-palette.jpg){: .no-border}
 
 **2. List with icons**
 
@@ -40,7 +40,7 @@ Here are four of the styles we discussed:
 
 - Example: [indirasalonspa.com](http://indirasalonspa.com/)
 
-![](/img/indirasalonspa.jpg){: .img-narrow}
+![](/img/indirasalonspa.jpg){: .no-border}
 
 **4. Animated**
 

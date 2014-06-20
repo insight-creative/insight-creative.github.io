@@ -14,10 +14,16 @@ layout: page
 {{ content }}
                     
                 </div>
+                <hr>
                 <div class="article-footer">
                   <a href="http://twitter.com/insightwi" target="_blank" class="btn btn-lg btn-inverse">Discuss this post on Twitter</a>
                   <a href="/blog#archives" target="_blank" class="btn btn-lg btn-default">See all posts</a>
-                </div>
+                  {% if page.previous.url %} 
+                    <p>Previous post: <a class="prev" href="{{page.previous.url}}"> {{page.previous.title}}</a></p>
+                  {% endif %} 
+                  {% if page.next.url %} 
+                    <p>Next post: <a href="{{page.next.url}}">{{page.next.title}}</a></p>
+                  {% endif %}
               </article>
               
               {% for staff in site.data.staff %}

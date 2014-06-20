@@ -8,6 +8,6 @@ Whether your business is already using social media, just beginning or not quite
 
 What social media platform does your business use the most? What objectives are you trying to achieve through the use social media?
 
-![Selling Social: How Companies Are Connecting with Social Media](/img/social-business.jpg)
+![Selling Social: How Companies Are Connecting with Social Media](/img/social-business.jpg){: .img-lg}
 
 Source: [Selling Social: How Companies Are Connecting with Social Media](http://www.topwebdesignschools.org/selling-social/)

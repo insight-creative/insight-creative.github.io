@@ -8,7 +8,7 @@ Insight Creative’s graphic designer and web developer Kevin McGillivray presen
 
 *Tall Wild World* will be on display at [The Attic](http://www.theatticcorner.com/) through November 30th.
 
-![Tall Wild World children's illustrations by Kevin McGillivray](/img/IMG_4271_Kevin-Art-1024x799.jpg)
+![Tall Wild World children's illustrations by Kevin McGillivray](/img/IMG_4271_Kevin-Art-1024x799.jpg){: .img-lg}
 
 ###1. Tell us about your collection and the technique you used.
 
