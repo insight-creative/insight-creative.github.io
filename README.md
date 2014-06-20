@@ -45,7 +45,18 @@ The current staff bios are kept in a data file in `_data/staff.yml`. The format 
 
 To include an author bio, add `author: First Lastname` to the front matter of the post. It will automatically pull in the bio from `_data/staff.yml` using the markup in `_includes/staff-bio.html`.
 
-### Project Formatting
+### Projects
+
+#### Naming
+
+Set all posts to the year 2000 and order them using the month and date fields in the name. This keeps them out of the blog posts and allows ordering.
+
+Example:
+```
+2000-06-30-name-of-project.md
+```
+
+#### View this site button
 
 To add a "View this site" button to the end of a web project post, add `address: example.com` to the front matter of the post. It will automatically generate the button at the end of the post.
 
