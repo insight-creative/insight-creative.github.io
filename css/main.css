@@ -121,6 +121,12 @@ blockquote {
 blockquote p:last-child {
   margin-bottom: 20px;
 }
+/* Remove bullets and padding on a list */
+.basic-list {
+  list-style: none;
+  padding: 0;
+}
+
 /*
  * Buttons
  */
@@ -498,10 +504,6 @@ footer {
   font-size: .9rem;
   background-color: #3F4142;
   border-top: 5px solid #BDBE5A;
-}
-footer ul {
-  list-style: none;
-  padding: 0;
 }
 footer h3 {
   color: #BDBE5A;
