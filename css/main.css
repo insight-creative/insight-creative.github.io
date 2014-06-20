@@ -495,7 +495,7 @@ blockquote p:last-child {
  */
 
 footer {
-  color: white;
+  font-size: .9rem;
   background-color: #3F4142;
   border-top: 5px solid #BDBE5A;
 }
@@ -508,6 +508,14 @@ footer h3 {
 }
 footer ul a {
   color: white;
+}
+.copyright {
+  margin-top: 25px;
+}
+.copyright p {
+  color: #7E7E7E;
+  margin-top: 0px;
+  margin-bottom: 5px;
 }
 
 /* Sticky Footer */
@@ -524,7 +532,8 @@ footer {
   position: relative;
   margin-top: -310px; /* negative value of footer height */
   height: 310px;
-  clear:both;}
+  clear:both;
+}
 
 /* Opera Fix */
 body:before {

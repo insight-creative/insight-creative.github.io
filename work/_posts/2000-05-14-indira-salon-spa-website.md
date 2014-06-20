@@ -9,8 +9,6 @@ image: indira-thumbnail.jpg
 
 tags:
 - Web
-
-featured: true
 ---
 
 Indira Aveda Lifestyle Salon Spa recently modernized their brand to better exemplify their luxury products and services, appeal to their upscale and diverse client base, and properly represent AVEDA’s natural, organic approach. In addition to the brand overhaul, the salon also expanded their locations and menu of services.
