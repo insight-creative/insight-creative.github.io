@@ -13,6 +13,6 @@ tags:
 featured: true
 ---
 
-![CIVICTechnologies Website](/img/civictechnologies-website.jpg){: .img-large}
+![CIVICTechnologies Website](/img/civictechnologies-website.jpg){: .img-xl}
 ![CIVICTechnologies Website](/img/civictechnologies-website-2.jpg)
-![CIVICTechnologies Website](/img/civictechnologies-website-3.jpg){: .img-large}
+![CIVICTechnologies Website](/img/civictechnologies-website-3.jpg){: .img-xl}

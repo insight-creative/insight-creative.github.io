@@ -15,18 +15,31 @@ Info about how the site is organized here.
 
 ## Components
 
-### Blog Images
+### Images
 
-There are several helper classes to help lay out images in the blog.
+There are several helper classes to help lay out images across the site.
 
-* To pull an image left, use `![Alt text](/path/to/image){: .img-left}`
-* To pull an image right, use `![Alt text](/path/to/image){: .img-right}`
-* To confine an image to the text margins (rather than the default wider margins), use `![Alt text](/path/to/image){: .img-narrow}`
-* To make the image larger, use `![Alt text](/path/to/image){: .img-large}`
+* `.img-left` – This will float an image to the left and make it smaller so the text wraps around it.
+* `.img-right`– This will float an image to the right and make it smaller so the text wraps around it.
+* `.img-lg` – This will make the image wider to fill 120% of the default content container and center it.
+* `.img-xl` – This will make the image even wider to fill 160% of the default content container and center it.
+* `.no-border` – This will only work on the blog and work posts, and it will remove the default grey border.
+
+To use these classes in markdown, use the following syntax:
+
+```
+![Image Alt Text](/path/to/image.jpg){: .class }
+```
+
+If you want to use more than one class, simply include it with the first class like this:
+
+```
+![Image Alt Text](/path/to/image.jpg){: .class1 .class2}
+```
 
 ### Staff Bios
 
-The current staff bios are kept in a data file in `_data/staff.yml`.
+The current staff bios are kept in a data file in `_data/staff.yml`. The format of the staff bios is kept in an `include` in `_includes/staff-bio.html`.
 
 #### How to use author bios on the blog
 

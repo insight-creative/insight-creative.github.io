@@ -8,5 +8,5 @@ tags:
 - Web
 ---
 
-![Fox Cities Builders Website](/img/fox-cities-builders-website-1.jpg)
-![Fox Cities Builders Website](/img/fox-cities-builders-website-2.jpg)
+![Fox Cities Builders Website](/img/fox-cities-builders-website-1.jpg){: .img-lg}
+![Fox Cities Builders Website](/img/fox-cities-builders-website-2.jpg){: .img-lg}

@@ -12,7 +12,7 @@ tags:
 featured: true
 ---
 
-![Jolly Wolly Fun Dips Packaging](/img/jolly-wolly-packaging.jpg){: .img-large}
-![Jolly Wolly Fun Dips Packaging](/img/jolly-wolly-packaging-3.jpg){: .img-large}
-![Jolly Wolly Fun Dips Packaging](/img/jolly-wolly-packaging-1.jpg){: .img-large}
-![Jolly Wolly Fun Dips Packaging](/img/jolly-wolly-packaging-2.jpg){: .img-large}
+![Jolly Wolly Fun Dips Packaging](/img/jolly-wolly-packaging.jpg){: .img-lg}
+![Jolly Wolly Fun Dips Packaging](/img/jolly-wolly-packaging-3.jpg){: .img-lg}
+![Jolly Wolly Fun Dips Packaging](/img/jolly-wolly-packaging-1.jpg){: .img-lg}
+![Jolly Wolly Fun Dips Packaging](/img/jolly-wolly-packaging-2.jpg){: .img-lg}

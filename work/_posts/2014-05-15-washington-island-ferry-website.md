@@ -7,6 +7,6 @@ tags:
 - Web
 ---
 
-![Washington Island Ferry Website](/img/washington-island-ferry-website-1.jpg){: .img-large}
-![Washington Island Ferry Website](/img/washington-island-ferry-website-2.jpg)
-![Washington Island Ferry Website](/img/washington-island-ferry-website-3.jpg)
+![Washington Island Ferry Website](/img/washington-island-ferry-website-1.jpg){: .img-xl}
+![Washington Island Ferry Website](/img/washington-island-ferry-website-2.jpg){: .img-lg}
+![Washington Island Ferry Website](/img/washington-island-ferry-website-3.jpg){: .img-lg}

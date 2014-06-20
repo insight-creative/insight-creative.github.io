@@ -9,13 +9,13 @@ tags:
 
 How to develop and maintain a unique brand—as well as offering monthly, themed promotional print, TV, radio, social media, public relations and more—to drive traffic to an established chain of tire and auto repair shops?
 
-![Matthews Logo](/img/matthews-logo.jpg){: .no-border}
+![Matthews Logo](/img/matthews-logo.jpg){: .no-border .img-lg}
 
 ## Goal
 
 In business since 1952, Matthews Tire is a successful chain of tire and automotive repair shops in Northeast Wisconsin. The tire business is extremely competitive—with constant pressure from car dealerships, big box stores and internet sales. Insight was determined to help Matthews consistently build on their reputation as a locally owned company known for great service, value and a unmatched tire expertise.
 
-![Matthews Billboards](/img/matthews-billboards.jpg){: .no-border}
+![Matthews Billboards](/img/matthews-billboards.jpg){: .no-border .img-lg}
 
 ## Result
 

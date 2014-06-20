@@ -8,7 +8,7 @@ tags:
 - print
 ---
 
-![Valley Custom Door Product Catalog](/img/valley-custom-door-product-catalog-1.jpg)
-![Valley Custom Door Product Catalog](/img/valley-custom-door-product-catalog-2.jpg)
-![Valley Custom Door Product Catalog](/img/valley-custom-door-product-catalog-3.jpg)
-![Valley Custom Door Product Catalog](/img/valley-custom-door-product-catalog-4.jpg)
+![Valley Custom Door Product Catalog](/img/valley-custom-door-product-catalog-1.jpg){: .img-lg}
+![Valley Custom Door Product Catalog](/img/valley-custom-door-product-catalog-2.jpg){: .img-lg}
+![Valley Custom Door Product Catalog](/img/valley-custom-door-product-catalog-3.jpg){: .img-lg}
+![Valley Custom Door Product Catalog](/img/valley-custom-door-product-catalog-4.jpg){: .img-lg}
