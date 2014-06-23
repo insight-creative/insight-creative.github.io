@@ -30,29 +30,25 @@
           </div>
           <div class="copyright col-md-6 col-xs-12">
             <p>&copy; 2014 Insight Creative, Inc. All rights reserved.</p>
-            <p>Made with love in Green Bay, Wisconsin.</p>
         </div>
       </div>
     </footer>
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <!-- jQuery and Bootstrap -->
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/holder.js"></script>
 
     <!-- MixItUp jQuery Plugin -->
   	<script src="http://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
-    <script src="/js/scripts.js"></script>
+    <script src="/js/mixitup-options.js"></script>
 
     <!-- Rotate header graphic -->
     <script type="text/javascript">
      var images = ['circles.png', 'molecules.png'];
-     $('.bg').css({'background-image': 'url(img/' + images[Math.floor(Math.random() * images.length)] + ')'});
+     $('.jumbotron').css({'background-image': 'url(img/' + images[Math.floor(Math.random() * images.length)] + ')'});
     </script>
 
-    <!-- Parallax jumbotron -->
+    <!-- Parallax jumbotron
     <script>
       var jumboHeight = $('.jumbotron').outerHeight();
       function parallax(){
@@ -63,7 +59,7 @@
       $(window).scroll(function(e){
           parallax();
       });
-    </script>
+    </script>-->
 
     <!-- Widon't, removes widows in text -->
     <script>

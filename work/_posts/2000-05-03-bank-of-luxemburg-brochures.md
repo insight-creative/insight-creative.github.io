@@ -8,8 +8,6 @@ image: bank-of-luxemburg-brochures-thumbnail.jpg
 
 tags:
 - print
-
-featured: true
 ---
 
 ![Bank of Luxemburg Brochures](/img/bank-of-luxemburg-brochures-1.jpg){: .img-lg}

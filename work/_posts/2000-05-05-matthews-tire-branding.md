@@ -2,7 +2,7 @@
 layout: project
 title:  Matthews Tire Branding
 client: Matthews Tire
-image:
+image: matthews-tv-commercial-thumbnail.jpg
 tags:
 - Case Study
 ---

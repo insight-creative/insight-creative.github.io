@@ -1,6 +1,6 @@
 /* TOC
 
-1. Global Styles
+1. Global Styles and Layout
 2. Typography
 3. Buttons
 4. Navbar
@@ -14,12 +14,12 @@
 12. Animations
 
 /*
- * Global Styles
+ * Global Styles and Layout
  */
 
 html {
-  font-size: 16px;
   height: 100%;
+  font-size: 16px;
 }
 @media (min-width: 992px) {
   html {
@@ -32,7 +32,8 @@ body {
   font-family: "lato", sans-serif;
   font-size: 1rem;
   line-height: 1.5;
-  -webkit-font-smoothing: subpixel-antialiased; /* Makes type display consistently in Safari */
+  /* Makes type display consistently in Safari */
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 img {
   width: 100%;
@@ -42,9 +43,11 @@ img {
 iframe {
   width: 100%;
 }
+/* Helper class to center a set of columns */
 .center-block {
   float: none;
 }
+/* Helper class to center things vertically */
 .vertical-center {
   position: relative;
   top: 50%;
@@ -54,8 +57,8 @@ iframe {
 }
 /* Stop content from expanding too wide on tablets */
 #wrapper {
-  padding-bottom: 20px;
   max-width: 600px;
+  padding-bottom: 20px;
 }
 @media (min-width: 992px) {
   #wrapper {
@@ -70,11 +73,10 @@ iframe {
 h1, h2, h3, h4 {
   line-height: 1.2;
 }
-
 h1 {
-  color: #BDBE5A;
-  font-weight: 300;
   font-size: 2.8rem;
+  font-weight: 300;
+  color: #BDBE5A;
   text-align: center;
 }
 h2 {
@@ -86,6 +88,7 @@ h3 {
   font-size: 1rem;
   color: #7E7E7E;
 }
+/* Adjust heading sizes on mobile to make the staff titles fit */
 @media (min-width: 481px) {
   h2 {
     font-size: 1.4rem;
@@ -95,8 +98,22 @@ h3 {
   }
 }
 p {
-  color: #3F4142;
   margin-top: 20px;
+  margin-bottom: 20px;
+  color: #3F4142;
+}
+a {
+  color: #D41E47;
+}
+a:hover,
+a:focus {
+  color: #BDBE5A;
+}
+blockquote {
+  font-style: italic;
+  border-left: 4px solid #D41E47;
+}
+blockquote p:last-child {
   margin-bottom: 20px;
 }
 ul, ol, ul ul, ol ol, ul ol, ol ul {
@@ -107,24 +124,10 @@ article ul li,
 article ol li {
   margin-bottom: 20px;
 }
-a {
-  color: #D41E47;
-}
-a:hover,
-a:focus {
-  color: #BDBE5A;
-}
-blockquote {
-  border-left: 4px solid #D41E47;
-  font-style: italic;
-}
-blockquote p:last-child {
-  margin-bottom: 20px;
-}
 /* Remove bullets and padding on a list */
 .basic-list {
-  list-style: none;
   padding: 0;
+  list-style: none;
 }
 
 /*
@@ -132,19 +135,19 @@ blockquote p:last-child {
  */
 
 .btn {
-  border: 0;
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #E7E7E7;
   color: #D41E47;
+  background-color: #E7E7E7;
+  border: 0;
 }
 .btn:hover,
 .btn:focus {
   color: #BDBE5A;
 }
 .btn-inverse {
-  background-color: #D41E47;
   color: white;
+  background-color: #D41E47;
 }
 .btn-inverse:hover,
 .btn-inverse:focus {
@@ -166,10 +169,10 @@ blockquote p:last-child {
   }
 }
 .navbar-brand img {
-  border-radius: 50%;
-  border: 4px solid #BDBE5A;
   width: 80px;
   margin-top: -25px;
+  border: 4px solid #BDBE5A;
+  border-radius: 50%;
 }
 @media (min-width: 992px) {
   .navbar-brand img {
@@ -192,6 +195,17 @@ blockquote p:last-child {
     background-color: #3F4142;
   }
 }
+.navbar .navbar-nav .open .dropdown-menu > li > a {
+  color: white;
+}
+.navbar .navbar-nav .open .dropdown-menu > li:hover > a {
+  color: #BDBE5A;
+  background: none;
+}
+.navbar-collapse {
+  border: none;
+}
+/* Animate the caret symbol in dropdown menus */
 .dropdown .caret {
   -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0);
@@ -210,6 +224,7 @@ blockquote p:last-child {
   border-radius: 5px;
   box-shadow: none;
 }
+/* Animate the entrance of the dropdown menu itself */
 @media (min-width: 992px) {
   .dropdown > .dropdown-menu {
     display: block;
@@ -226,19 +241,7 @@ blockquote p:last-child {
             transition: all 300ms ease;
   }
 }
-.navbar .navbar-nav .open .dropdown-menu > li > a {
-  color: white;
-}
-.navbar .navbar-nav .open .dropdown-menu > li:hover > a {
-  color: #BDBE5A;
-  background: none;
-}
-.navbar-collapse {
-  border: none;
-}
-
 /* Push down the navbar on mobile */
-
 .dropdown {
   margin-top: 20px;
 }
@@ -253,31 +256,19 @@ blockquote p:last-child {
  */
 
 .jumbotron {
-  background-color: transparent;
   height: 375px;
   max-width: 1864px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
 }
-.bg {
-  background: url(/img/molecules.png) no-repeat center center;
-  position: fixed;
-  width: 100%;
-  height: 375px;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  margin-top: 54px;
-}
 .jumbotron h1 {
-  color: #BDBE5A;
   margin-top: 0px;
+  color: #BDBE5A;
 }
 .jumbotron p {
   font-size: 1.2rem;
   line-height: 1.6;
-  margin-top: 15px;
 }
 
 /*
@@ -291,20 +282,20 @@ blockquote p:last-child {
 .thumbnail-gallery .thumbnail {
   position: relative;
   padding: 0px;
+  text-align: center;
   border: 4px solid #E7E7E7;
   border-radius: 50%;
   background-color: #E7E7E7;
-  text-align: center;
 }
 .thumbnail-gallery .thumbnail:hover {
   border: 4px solid #BDBE5A;
 }
 .thumbnail-gallery .thumbnail:hover img {
+  opacity: 0.4;
   -webkit-filter: blur(1px);
        -o-filter: blur(1px);
       -ms-filter: blur(1px);
           filter: blur(1px);
-  opacity: 0.4;
 }
 .thumbnail-gallery .thumbnail .caption {
   position: absolute;
@@ -312,13 +303,13 @@ blockquote p:last-child {
   bottom: 0;
   right: 0;
   left: 0;
-  border-radius: 50%;
-  text-decoration: none;
   height: 100%;
+  text-decoration: none;
+  border-radius: 50%;
 }
 .thumbnail-gallery .thumbnail .project-caption {
-  background: rgba(189, 190, 90, 0.75);
   visibility: hidden;
+  background: rgba(189, 190, 90, 0.75);
   opacity: 0;
   -webkit-transition: all 0.4s;
      -moz-transition: all 0.4s;
@@ -329,9 +320,9 @@ blockquote p:last-child {
   opacity: 1;
 }
 .thumbnail-gallery .thumbnail .project-caption p {
+  margin: 0;
   color: white;
   font-size: 1rem;
-  margin: 0;
 }
 .thumbnail-gallery .thumbnail-button {
   position: relative;
@@ -350,6 +341,7 @@ blockquote p:last-child {
 .thumbnail-gallery .thumbnail-button:hover p {
   color: #BDBE5A;
 }
+/* Alternate vertical centering technique to fix centering on mobile browsers */
 .thumbnail-text {
   position: absolute;
   white-space: nowrap;
@@ -407,8 +399,8 @@ blockquote p:last-child {
  */
 
 .article-heading {
-  text-align: center;
   margin-bottom: 20px;
+  text-align: center;
 }
 @media (min-width: 992px) {
   .article-heading {
@@ -421,18 +413,18 @@ blockquote p:last-child {
   font-style: italic;
 }
 .article-body img {
-  border-radius: 3px;
   margin-top: 15px;
   margin-bottom: 15px;
   border: 4px solid #E7E7E7;
+  border-radius: 3px;
 }
 .article-body iframe {
   margin-bottom: 30px;
 }
 .article-footer {
-  text-align: center;
   margin-bottom: 40px;
   margin-top: 40px;
+  text-align: center;
 }
 .article-footer .btn {
   width: 100%;
@@ -446,16 +438,26 @@ blockquote p:last-child {
  */
 
 .img-left {
-  width: 33.333333%;
   float: left;
+  width: 33.333333%;
   margin-right: 20px;
   margin-top: 5px;
 }
 .img-right {
-  width: 33.333333%;
   float: right;
+  width: 33.333333%;
   margin-left: 20px;
   margin-top: 5px;
+}
+@media (min-width: 992px) {
+  .img-left {
+    width: 40%;
+    margin-left: -15%;
+  }
+  .img-right {
+    width: 40%;
+    margin-right: -15%;
+  }
 }
 .article-body .no-border {
   border: 0px;
@@ -468,14 +470,6 @@ blockquote p:last-child {
   .img-xl {
     width: 160%;
     margin-left: -30%;
-  }
-  .img-left {
-    width: 40%;
-    margin-left: -15%;
-  }
-  .img-right {
-    width: 40%;
-    margin-right: -15%;
   }
 }
 
@@ -515,9 +509,9 @@ footer ul a {
   margin-top: 25px;
 }
 .copyright p {
-  color: #7E7E7E;
   margin-top: 0px;
   margin-bottom: 5px;
+  color: #7E7E7E;
 }
 
 /* Sticky Footer */
@@ -527,29 +521,28 @@ footer ul a {
   padding-bottom: 25px;
 }
 #main {
-  overflow:auto;
+  overflow: auto;
   padding-bottom: 285px;
 }
 footer {
   position: relative;
   margin-top: -310px; /* negative value of footer height */
   height: 310px;
-  clear:both;
+  clear: both;
 }
 
 /* Opera Fix */
 body:before {
-  content:"";
-  height:100%;
-  float:left;
-  width:0;
-  margin-top:-32767px;/
+  content: "";
+  height: 100%;
+  float: left;
+  width: 0;
+  margin-top: -32767px;/
 }
 
 /*
  * Animations
  */
-
 
 .pop {
   animation-name: pop;
