@@ -44,8 +44,7 @@ Services include: Creative concepting, brochures, newsletters, direct mail, cata
 You have so many choices when it comes to where to put your marketing resources. With our expertise and knowledge of emerging platforms, Insight can design a plan just for your business, to reach your targeted customer base and make multiple, lasting impressions. We make a study of media, using careful research, professional software and a variety of media sources to craft a strategy and plan uniquely effective for you. Our media services include:
 
 * Media neutral planning, placement and analysis
-* Nielsen ratings (TV)
-* Arbitron data (radio)
+* Nielsen ratings (TV and radio)
 
 Our respected media planners and buyers have diverse backgrounds and experience in broadcast, interactive, social media and more. They have the knowledge, inside information and skill needed to negotiate the best value for our clients. And the service doesn't stop with the buy. We place each spot we purchase - ensuring the best timing to reach your largest audience. Our media specialists' in-depth understanding of smart media planning will make your dollars work harder. We're also able to leverage our position as a major media buyer to negotiate the best rates and positions for your messages!
 
@@ -90,3 +89,9 @@ Services include: Concept development, script writing, storyboarding, on-locatio
 Our interactive development capabilities bring you quickly to the forefront of current marketing practices. Websites designed by Insight load quickly, are user-friendly, and bring a contemporary look and feel to your online presence.
 
 Services include: Website development, hosting, graphics, animation, banners, links, maintenance, informational and training CDs and DVDs, email marketing and online research and surveying.
+
+---
+
+## Learn more
+
+[Contact us](/contact) or learn more by checking out examples of our [projects and case studies](/work).

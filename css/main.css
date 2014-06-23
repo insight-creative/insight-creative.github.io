@@ -498,6 +498,7 @@ footer {
   font-size: .9rem;
   background-color: #3F4142;
   border-top: 5px solid #BDBE5A;
+  color: white;
 }
 footer h3 {
   color: #BDBE5A;
@@ -505,13 +506,9 @@ footer h3 {
 footer ul a {
   color: white;
 }
-.copyright {
-  margin-top: 25px;
-}
-.copyright p {
+footer p {
+  color: white;
   margin-top: 0px;
-  margin-bottom: 5px;
-  color: #7E7E7E;
 }
 
 /* Sticky Footer */
@@ -522,13 +519,22 @@ footer ul a {
 }
 #main {
   overflow: auto;
-  padding-bottom: 285px;
+  padding-bottom: 730px;
 }
 footer {
   position: relative;
-  margin-top: -310px; /* negative value of footer height */
-  height: 310px;
+  margin-top: -750px; /* negative value of footer height */
+  height: 750px;
   clear: both;
+}
+@media (min-width: 980px) {
+  #main {
+    padding-bottom: 320px;
+  }
+  footer {
+    margin-top: -350px; /* negative value of footer height */
+    height: 350px;
+  }
 }
 
 /* Opera Fix */
