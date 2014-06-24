@@ -47,6 +47,10 @@ To include an author bio, add `author: First Lastname` to the front matter of th
 
 ### Projects
 
+#### Featured Projects
+
+To feature a project on the home page, add `featured: true` to the front matter of the post.
+
 #### Naming
 
 Set all posts to the year 2000 and order them using the month and date fields in the name. This keeps them out of the blog posts and allows ordering.
