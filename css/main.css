@@ -43,7 +43,7 @@ img {
 iframe {
   width: 100%;
 }
-/* Helper class to center a set of columns */
+/* Helper class to center a set of columns horizontally */
 .center-block {
   float: none;
 }
@@ -88,7 +88,6 @@ h3 {
   font-size: 1rem;
   color: #7E7E7E;
 }
-/* Adjust heading sizes on mobile to make the staff titles fit */
 @media (min-width: 481px) {
   h2 {
     font-size: 1.4rem;
@@ -153,7 +152,6 @@ article ol li {
 .btn-inverse:focus {
   color: #E7E7E7;
 }
-
 
 /*
  * Navbar
@@ -341,7 +339,8 @@ article ol li {
 .thumbnail-gallery .thumbnail-button:hover p {
   color: #BDBE5A;
 }
-/* Alternate vertical centering technique to fix centering on mobile browsers */
+/* Alternate vertical centering technique to fix thumbnail
+   text centering on mobile browsers */
 .thumbnail-text {
   position: absolute;
   white-space: nowrap;
@@ -357,7 +356,7 @@ article ol li {
  */
 
 #Container {
-  /* Bug fix to stop scroll bars from showing up while filtering */
+  /* Stop scroll bars from appearing while filtering */
   overflow: hidden;
 }
 #Container .mix {
@@ -510,6 +509,8 @@ footer p {
   color: white;
   margin-top: 0px;
 }
+/* Change the embedded contact form background color to
+   match the footer and align it correctly */
 .footer-contact-form {
   background-color: #3F4142;
   margin-top: -54px;
