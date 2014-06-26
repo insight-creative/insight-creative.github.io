@@ -8,14 +8,13 @@ title: Work
           <h1>Projects and Case Studies</h1>
           
           <div class="row gallery-filter">
-            <div class="col-md-12 center-block">
+            <div class="col-md-12">
               <ul class="nav nav-pills nav-justified">
                 <li><a type="button" class="filter btn btn-default" data-filter="all">Show All</a></li>
                 <li><a type="button" class="filter btn btn-default" data-filter=".case-study">Case Studies</a></li>
                 <li><a type="button" class="filter btn btn-default" data-filter=".media-buying">Media Buying</a></li>
                 <li><a type="button" class="filter btn btn-default" data-filter=".web">Web</a></li>
-                <li><a type="button" class="filter btn btn-default" data-filter=".print">Print</a></li>
-                <li><a type="button" class="filter btn btn-default" data-filter=".packaging">Packaging</a></li>
+                <li><a type="button" class="filter btn btn-default" data-filter=".print,.packaging">Print and Packaging</a></li>
                 <li><a type="button" class="filter btn btn-default" data-filter=".social-media">Social Media</a></li>
                 <li><a type="button" class="filter btn btn-default" data-filter=".identity">Identity</a></li>
                 <li><a type="button" class="filter btn btn-default" data-filter=".video">Video</a></li>
@@ -26,7 +25,7 @@ title: Work
           <div class="row thumbnail-gallery">
             <div id="Container">
               {% for post in site.categories.work %}
-              <div class="mix col-md-3 col-sm-4 col-xs-6 {% for tag in post.tags %}{{ tag | downcase | replace: " ", "-" | append: " " }}{% endfor %}">
+              <div data-name="{{ post.title}}" class="mix col-md-3 col-sm-4 col-xs-6 {% for tag in post.tags %}{{ tag | downcase | replace: " ", "-" | append: " " }}{% endfor %}">
                 <div class="thumbnail">
                   <a href="{{ post.url }}">
                     <img class="img-responsive img-circle" src="/img/{{ post.image }}">

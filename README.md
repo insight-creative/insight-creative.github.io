@@ -51,15 +51,6 @@ To include an author bio, add `author: First Lastname` to the front matter of th
 
 To feature a project on the home page, add `featured: true` to the front matter of the post.
 
-#### Naming
-
-Set all posts to the year 2000 and order them using the month and date fields in the name. This keeps them out of the blog posts and allows ordering.
-
-Example:
-```
-2000-06-30-name-of-project.md
-```
-
 #### View this site button
 
 To add a "View this site" button to the end of a web project post, add `address: example.com` to the front matter of the post. It will automatically generate the button at the end of the post.
