@@ -44,16 +44,19 @@
     <!-- jQuery and Bootstrap -->
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-
+    
+    {% if page.title contains 'Work' %}<!-- Only load MixItUp on the work page -->
     <!-- MixItUp jQuery Plugin -->
   	<script src="http://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
     <script src="/js/mixitup-options.js"></script>
+    {% endif %}
 
-    <!-- Rotate header graphic -->
+    {% if page.title contains 'Advertising Agency, Green Bay, WI' %}<!-- Only load jumbotron related javascript on the home page -->
+    <!-- Rotate header graphic
     <script type="text/javascript">
      var images = ['circles.png', 'molecules.png'];
      $('.jumbotron').css({'background-image': 'url(img/' + images[Math.floor(Math.random() * images.length)] + ')'});
-    </script>
+    </script> -->
 
     <!-- Parallax jumbotron
     <script>
@@ -68,7 +71,7 @@
       });
     </script>-->
 
-    <!-- Widon't, removes widows in text -->
+    <!-- Widon't, removes widows in jumbotron text -->
     <script>
       jQuery(function($) {
         $('.jumbotron-header,.jumbotron-text').each(function() {
@@ -76,6 +79,7 @@
         });
       });
     </script>
+    {% endif %}
 
   </body>
 </html>

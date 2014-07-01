@@ -254,6 +254,7 @@ article ol li {
  */
 
 .jumbotron {
+  background-image: url(/img/molecules.png);
   height: 375px;
   max-width: 1864px;
   margin-left: auto;
