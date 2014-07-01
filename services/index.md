@@ -62,11 +62,15 @@ Services include: Multiple on-staff stylists, designers, and photographers, in-h
 
 ## Public Relations
 
+### Sharp. Reputable. Persistent.
+
 Although the tools are constantly evolving, we believe the fundamentals of good public relations remain the same; Insight can help you strengthen relationships, share your message and create a greater impact for the people who matter most to your organization. Whether you want to build or repair your image, plan and promote a special event or learn to communicate effectively with your target audience, we have the experience and creativity to help you reach your goals.
 
 ---
 
 ## Social Media
+
+### Strategic. Conversational. Engaging. 
 
 Social media and social network marketing are changing at a rapid pace. Let us keep up with the latest advancements; we'll work with you to determine the trends that will affect you and your customers. From LinkedIn profiles, Facebook pages and Google ads to Foursquare, blogging and more—a successful social media presence starts with strategy. We'll outline measurable objectives and integrate a strong social media program with your "traditional" marketing efforts.
 

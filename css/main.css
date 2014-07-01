@@ -170,7 +170,6 @@ article ol li {
   width: 80px;
   margin-top: -25px;
   border: 4px solid #BDBE5A;
-  border-radius: 50%;
 }
 @media (min-width: 992px) {
   .navbar-brand img {
