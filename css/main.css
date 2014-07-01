@@ -261,11 +261,14 @@ article ol li {
   margin-right: auto;
   text-align: center;
 }
-.jumbotron h1 {
+.jumbotron .jumbotron-header {
   margin-top: 0px;
   color: #BDBE5A;
 }
-.jumbotron p {
+.jumbotron .jumbotron-text {
+  max-width: 830px;
+}
+.jumbotron .jumbotron-text p {
   font-size: 1.2rem;
   line-height: 1.6;
 }
@@ -359,6 +362,7 @@ article ol li {
 #Container {
   /* Stop scroll bars from appearing while filtering */
   overflow: hidden;
+  min-height: 500px;
 }
 #Container .mix {
 	display: none;
@@ -371,6 +375,17 @@ article ol li {
 .gallery-filter .nav-pills > li > a {
   margin-right: 3px;
   margin-left: 3px;
+}
+.gallery-filter .large-filter {
+  display: none;
+}
+@media (min-width: 992px) {
+  .gallery-filter .large-filter {
+    display: block;
+  }
+  .gallery-filter .small-filter {
+    display: none;
+  }
 }
 
 /*
