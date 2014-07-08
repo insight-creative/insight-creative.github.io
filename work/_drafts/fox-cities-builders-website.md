@@ -2,7 +2,7 @@
 layout: project
 title:  Fox Cities Builders Website
 client: Fox Cities Builders
-image: fox-cities-builders-website-thumbnail.jpg
+thumbnail: fox-cities-builders-website-thumbnail.jpg
 address: foxcitiesbuilders.com
 tags:
 - Web

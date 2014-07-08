@@ -22,24 +22,28 @@
     <script type="text/javascript" src="//use.typekit.net/lba2uki.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
     
-    {% if page.card == "summary" %}
+    {% if page.card %}
+      {% if page.card == "summary" %}
       <meta name="twitter:card" content="summary">
-    {% elsif page.card == "summary large image" %}
+      {% elsif page.card == "summary large image" %}
       <meta name="twitter:card" content="summary_large_image">
-    {% elsif page.card == "gallery" %}
+      {% elsif page.card == "gallery" %}
       <meta name="twitter:card" content="gallery">
       <meta name="twitter:image0:src" content="{{ site.url }}/img/{{ page.image1 }}">
       <meta name="twitter:image1:src" content="{{ site.url }}/img/{{ page.image2 }}">
       <meta name="twitter:image2:src" content="{{ site.url }}/img/{{ page.image3 }}">
       <meta name="twitter:image3:src" content="{{ site.url }}/img/{{ page.image4 }}">
-    {% endif %}
-    {% if page.card %}
-    <meta name="twitter:site" content="{{ site.twitter }}">
-    <meta name="twitter:domain" content="insightcreative.com">
-    <meta name="twitter:creator" content="{{ site.twitter }}">
-    <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-    <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
-    <meta name="twitter:image:src" content="{{ site.url }}/img/{{ page.image }}">
+      {% endif %}
+      <meta name="twitter:site" content="{{ site.twitter }}">
+      <meta name="twitter:domain" content="insightcreative.com">
+      <meta name="twitter:creator" content="{{ site.twitter }}">
+      <meta name="twitter:title" content="{{ page.title }}">
+      <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+      <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+      {% if page.image %}
+      <meta name="twitter:image:src" content="{{ site.url }}/img/{{ page.image }}">
+      {% else %}
+      <meta name="twitter:image:src" content="{{ site.url }}/img/insight-creative.logo.gif">
+      {% endif %}
     {% endif %}
   </head>

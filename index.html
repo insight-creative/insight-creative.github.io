@@ -15,16 +15,7 @@ title: Advertising Agency, Green Bay, WI
         <div class="container fadeIn">
           <div class="row thumbnail-gallery">
             {% for post in site.categories.work %}{% if post.featured %}
-            <div class="col-md-3 col-sm-4 col-xs-6">
-              <div class="thumbnail">
-                <a href="{{ post.url }}">
-                  <img class="img-responsive img-circle" src="img/{{ post.image }}">
-                </a>
-                <a class="caption project-caption" href="{{ post.url }}">
-                  <p class="vertical-center">{{ post.title }}</p>
-                </a>
-              </div>
-            </div>
+              {% include thumbnail.html %}
             {% endif %}{% endfor %}
             <div class="col-md-3 col-sm-4 col-xs-6">
               <div class="thumbnail thumbnail-button">

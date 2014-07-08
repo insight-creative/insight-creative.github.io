@@ -1,13 +1,10 @@
 ---
 layout: project
-
 title:  Goodwill Media Placement
 client: Goodwill NCW
-
-image: goodwill-logo.jpg
-
+thumbnail: goodwill-logo.jpg
 tags:
-- Media buying
+- Media Buying
 
 featured: true
 ---

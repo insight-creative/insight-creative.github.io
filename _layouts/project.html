@@ -18,7 +18,19 @@ layout: page
                   {% if page.address %}<a href="http://{{ page.address }}" class="btn btn-lg btn-inverse">View this site</a>{% endif %}
                   <a href="/work" class="btn btn-lg btn-default">See all projects</a>
                 </div>
+                <hr>
               </article>
               
             </div> <!-- /.center-block -->
           </div><!-- /.row -->
+          
+          <div class="row thumbnail-gallery">
+            {% for tag in page.tags %}
+              <h1 id="{{ tag }}-ref">{{ tag }} Projects</h1>
+              {% for post in site.posts %}
+                {% if post.tags contains tag %}
+                  {% include thumbnail.html %}
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          </div>
