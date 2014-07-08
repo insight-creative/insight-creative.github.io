@@ -72,7 +72,9 @@ Although the tools are constantly evolving, we believe the fundamentals of good 
 
 ### Strategic. Conversational. Engaging. 
 
-Social media and social network marketing are changing at a rapid pace. Let us keep up with the latest advancements; we'll work with you to determine the trends that will affect you and your customers. From LinkedIn profiles, Facebook pages and Google ads to Foursquare, blogging and more—a successful social media presence starts with strategy. We'll outline measurable objectives and integrate a strong social media program with your "traditional" marketing efforts.
+The social media landscape is changing at a rapid pace. Let us keep up with the latest advancements; we’ll work with you to determine the strategies, tactics and trends that will best attract and engage your customers. We’ll outline measurable objectives and integrate a strong social media program with your traditional marketing efforts.
+
+Services include: Strategy development, platform set-up or optimization, content creation, community monitoring and response, social media advertising, analytics and reporting.
 
 ---
 
