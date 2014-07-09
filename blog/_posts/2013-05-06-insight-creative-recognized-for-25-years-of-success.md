@@ -2,6 +2,7 @@
 layout: post
 title: Insight Creative Recognized for 25 Years of Success
 author: Jim von Hoff
+tag: news
 ---
 
 Below is a feature article from the [Green Bay Area Chamber of Commerce](http://www.titletown.org/) written by Rachel Buhl.

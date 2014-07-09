@@ -2,6 +2,7 @@
 layout: post
 title: Insight Creative Expands Media and Business Development with Two New Hires
 author: Shawna Dubois
+tag: news
 ---
 
 Insight Creative recently hired two new employees to expand their team and meet the needs of their growing client base. Shawna Frisque-DuBois joins the business development team as senior account executive and Jenny Brandenburg joins the media team as media/traffic coordinator.

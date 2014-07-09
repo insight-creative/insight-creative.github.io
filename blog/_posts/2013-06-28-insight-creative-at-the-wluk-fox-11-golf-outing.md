@@ -2,6 +2,7 @@
 layout: post
 title: Insight Creative at the WLUK FOX 11 Golf Outing
 author: Andrea Parins
+tag: news
 ---
 
 Insight Team Members enjoyed a day on the golf course for the WLUK FOX 11 Golf Outing on June 26, 2013 at Thornberry Creek at Oneida Golf Course.

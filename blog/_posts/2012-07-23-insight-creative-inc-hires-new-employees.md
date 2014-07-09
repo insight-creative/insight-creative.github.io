@@ -2,6 +2,7 @@
 layout: post
 title: Insight Creative, Inc. Hires New Employees
 author: Emily Morehart
+tag: news
 ---
 
 Green Bay, WI, July 2, 2012—Insight Creative, Inc. is pleased to announce the addition of two new staff members to help meet the needs of the agency’s growing client list.

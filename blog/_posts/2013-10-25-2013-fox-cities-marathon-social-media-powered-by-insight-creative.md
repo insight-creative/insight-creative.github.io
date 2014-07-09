@@ -2,6 +2,7 @@
 layout: post
 title:  2013 Fox Cities Marathon Social Media Powered by Insight Creative
 author: Andrea Parins
+tag: news
 ---
 
 NEW in 2013! Insight Creative introduced the [Fox Cities Marathon’s](http://foxcitiesmarathon.org/) first social media command center, called Social Media HQ, during the festival of races September 20-22, 2013.

@@ -2,6 +2,7 @@
 layout: post
 title: McGillivray Brings Web and Design Talent to Insight Creative, Inc.
 author: Emily Morehart
+tag: news
 ---
 
 Green Bay, WI, September 15, 2012—Kevin McGillivray has joined Insight Creative, Inc., filling the role of graphic designer/web developer. He brings experience in responsive web design, print design and visual identity design. In addition to design projects, he will help Insight’s clients maximize the effectiveness of their web presence and take advantage of emerging technologies.

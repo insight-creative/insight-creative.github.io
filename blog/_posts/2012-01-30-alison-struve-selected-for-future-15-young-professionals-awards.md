@@ -2,6 +2,7 @@
 layout: post
 title: Alison Struve Selected for Future 15 Young Professionals Awards
 author: Jim von Hoff
+tag: news
 ---
 
 Congratulations to Insight Creative’s Public Relations/Social Media Specialist, Alison Struve, on her selection for the [Current Young Professionals Network's](http://www.titletown.org/programs/young-professionalscurrent) Future 15. In addition to helping our clients communicate more effectively, Alison gives her time to a number of community efforts. We were proud to celebrate her accomplishments at the awards ceremony Thursday evening.
