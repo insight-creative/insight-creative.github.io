@@ -2,6 +2,9 @@
 layout: post
 title: Media Buying Basics
 author: Jenny Brandenburg
+
+card: summary large image
+image: media-buying-basics.jpg
 ---
 
 Before coming to Insight, I spent six years in the newspaper world. At Insight, I jumped right into media buying and found myself gravitating toward wanting to buy print. While this came naturally to me, I knew I had to step out of the box and look into the endless possibilities available. I also learned there are smart ways to approach media buying.

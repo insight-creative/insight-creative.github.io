@@ -35,7 +35,7 @@ title: Advertising Agency, Green Bay, WI
                 {% for post in site.categories.blog limit: 3 %}
                 <li>
                   <a href="{{ post.url }}">{{ post.title }}</a>
-                  <p>{{ post.date | date: "%B %-d, %Y" }}</p>
+                  <p class="article-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
                 </li>
                 {% endfor %}
                 <a href="/blog#archives" class="btn btn-lg btn-default">View all blog posts</a>

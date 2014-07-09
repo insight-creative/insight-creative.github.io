@@ -3,6 +3,9 @@ layout: post
 title: Timber Rattlers Game with Insight Creative
 author: Andrea Parins
 tag: news
+
+card: summary
+image: Insight_Creative_Timber_Rattlers.jpg
 ---
 
 On June 20, 2013, Insight Creative team members, families and friends celebrated the beginning of summer with at the Timber Rattlers game at the Fox Cities Stadium.

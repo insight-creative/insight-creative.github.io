@@ -425,9 +425,8 @@ article ol li {
     margin-left: -10%;
   }
 }
-.article-meta p {
+.article-meta {
   color: #999;
-  font-style: italic;
 }
 .article-body img {
   margin-top: 15px;

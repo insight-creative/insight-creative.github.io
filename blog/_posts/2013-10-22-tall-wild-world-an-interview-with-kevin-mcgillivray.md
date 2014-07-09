@@ -3,6 +3,9 @@ layout: post
 title:  "Tall Wild World: An Interview with Kevin McGillivray"
 author: Andrea Parins
 tag: news
+
+card: summary large image
+image: IMG_4271_Kevin-Art-1024x799.jpg
 ---
 
 Insight Creative’s graphic designer and web developer Kevin McGillivray presented a children’s illustration and art exhibit, *Tall Wild World*, at [The Attic](http://www.theatticcorner.com/) in Green Bay on October 5, 2013. Hear from Kevin as he shares his technique, process and inspiration for the collection in the Q&A responses below.

@@ -3,6 +3,9 @@ layout: post
 title:  Insight Collaborates with Emergency Center of the Fox Valley
 author: Jenny Brandenburg
 tag: news
+
+card: summary
+image: ESFV-00875-Press-release.jpg
 ---
 
 [The Emergency Center of the Fox Valley](http://www.emergencyshelterfoxvalley.org/) is hosting their [Eighth Annual Benefit Gala](http://www.events.org/esfvgala/cpage.aspx?e=63290) Tuesday, November 12, 2013 at the Radisson Paper Valley Hotel in Appleton. The elegant evening includes a gourmet meal, live and silent auctions and an update on the shelter’s continuing community impact. Insight Creative, a full service marketing communications agency in Green Bay, has been donating their time and services in anticipation of the event to help further the shelter’s mission.Insight Creative President Jim von Hoff says, “We’re proud of the work we do at Insight, especially when it makes a positive impact in the community. When the Emergency Center of the Fox Valley approached us to help with the event, it was an easy decision to jump in and make a difference.”

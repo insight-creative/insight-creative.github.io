@@ -3,6 +3,9 @@ layout: post
 title:  Ira the Insight Elf
 author: Andrea Parins
 tag: news
+
+card: summary
+image: ira.jpg
 ---
 
 Happy Holidays from Ira the Elf! An elf’s job is to watch, listen and report back to the big guy. **Who sneaks out early? Who “borrows” yogurt from the fridge? Who leaves the copier in a jam?**
