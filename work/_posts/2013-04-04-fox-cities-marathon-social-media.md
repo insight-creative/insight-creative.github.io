@@ -2,7 +2,7 @@
 layout: project
 title:  Fox Cities Marathon Social Media
 client: Fox Cities Marathon
-thumbnail: fox-cities-marathon-social-media-thumbnail.jpg
+thumbnail: fox-cities-marathon-thumbnail.jpg
 tags:
 - Social Media
 - Case Study

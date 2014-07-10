@@ -23,8 +23,10 @@ layout: page
           </div><!-- /.row -->
           
           <div class="row thumbnail-gallery">
-            {% for tag in page.tags %}
-              <h1 id="{{ tag }}-ref">{{ tag }} Projects</h1>
+            {% for tag in page.tags limit: 1 %}
+            <div class="col-md-12">
+              <h2>More {{ tag }} Projects</h2>
+            </div>
               {% for post in site.posts %}
                 {% if post.tags contains tag %}
                   {% include thumbnail.html %}
