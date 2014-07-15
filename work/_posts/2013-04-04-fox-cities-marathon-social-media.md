@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Fox Cities Marathon Social Media
+title:  "Fox Cities Marathon Social&nbsp;Media"
 client: Fox Cities Marathon
 thumbnail: fox-cities-marathon-thumbnail.jpg
 tags:

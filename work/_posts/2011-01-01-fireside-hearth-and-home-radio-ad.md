@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Fireside Hearth and Home Radio Ad
+title:  "Fireside Hearth and Home Radio&nbsp;Ad"
 client: Fireside Hearth and Home
 thumbnail: audio-thumbnail.jpg
 tags:
