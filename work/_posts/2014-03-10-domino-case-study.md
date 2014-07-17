@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  Domino Printing Sciences Case Study
+title:  "Domino Printing Sciences Case&nbsp;Study"
 client: Domino Printing Sciences
 thumbnail: domino-thumbnail.jpg
 tags:
@@ -17,7 +17,9 @@ To develop an integrated marketing strategy that targets a select group within t
 
 Together, Insight and Domino have helped to cure many of pharma’s serialization headaches through the educational campaign Coding for Compliance. Insight’s campaign efforts, including blogging, social media, trade show support, media relations, email marketing and educational videos, have shown great success and continue to generate revenue within Domino’s pharmaceutical sector.
 
-The campaign’s blog was established as the primary hub for pharma packaging communication, educational resources and a forum for pharma professionals to talk directly with Domino’s experts. Social media channels including Twitter and Facebook pushed the Coding for Compliance name and message out to the appropriate audience. Facebook ads allowed for extremely detailed targeting to build campaign awareness and conversation with key decision makers.
+<iframe width="640" height="360" src="//www.youtube.com/embed/FEOcVkXRzcs?rel=0" frameborder="0" allowfullscreen></iframe>
+
+The [campaign’s blog](http://codingforcompliance.com) was established as the primary hub for pharma packaging communication, educational resources and a forum for pharma professionals to talk directly with Domino’s experts. Social media channels including Twitter and Facebook pushed the Coding for Compliance name and message out to the appropriate audience. Facebook ads allowed for extremely detailed targeting to build campaign awareness and conversation with key decision makers.
 
 ![Coding for Compliance](/img/coding-for-compliance-website.jpg){: .img-lg}
 
