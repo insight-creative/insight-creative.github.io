@@ -65,6 +65,11 @@ iframe {
   max-width: 682px;
   padding-bottom: 20px;
 }
+@media (min-width: 980px) {
+  #wrapper {
+    max-width: 1140px;
+  }
+}
 
 /*
  * Typography
@@ -282,6 +287,10 @@ article ol li {
 .thumbnail-gallery {
   /* remove white space to make mixitup work */
   font-size: 0;
+}
+.thumbnail-gallery .gallery-heading {
+  text-align: center;
+  margin-bottom: 30px;
 }
 .thumbnail-gallery .thumbnail {
   position: relative;

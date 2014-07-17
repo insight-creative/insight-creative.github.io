@@ -25,7 +25,11 @@ layout: page
           <div class="row thumbnail-gallery">
             {% for tag in page.tags limit: 1 %}
             <div class="col-md-12">
-              <h2>More {{ tag }} Projects</h2>
+              {% if tag == "Case Study" %}
+              <h2 class="gallery-heading">More Case Studies</h2>
+              {% else if %}
+              <h2 class="gallery-heading">More {{ tag }} Projects</h2>
+              {% endif %}
             </div>
               {% for post in site.posts %}
                 {% if post.tags contains tag %}
