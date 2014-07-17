@@ -3,6 +3,7 @@ layout: post
 title:  "Tall Wild World: An Interview with Kevin McGillivray"
 author: Andrea Parins
 tag: news
+redirect_from: /blog/2013/10/tall-wild-world-a-qa-with-kevin-mcgillivray/
 
 card: summary large image
 image: IMG_4271_Kevin-Art-1024x799.jpg

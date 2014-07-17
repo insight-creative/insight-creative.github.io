@@ -2,6 +2,9 @@
 layout: post
 title:  A Client's Role in Successful Design
 author: Angela Schumacher
+redirect_from: /blog/2013/12/a-clients-role-in-successful-design/
+card: summary
+image: bull-by-the-horns.jpg
 ---
 
 Of all the projects I have worked on over the years, I’ve noticed some common threads among the projects that were most successful. Below I’ll share five tips that will help your next design project be all that it can be.

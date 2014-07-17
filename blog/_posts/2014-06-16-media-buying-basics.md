@@ -2,6 +2,7 @@
 layout: post
 title: Media Buying Basics
 author: Jenny Brandenburg
+redirect_from: /blog/2014/06/media-buying-basics/
 
 card: summary large image
 image: media-buying-basics.jpg

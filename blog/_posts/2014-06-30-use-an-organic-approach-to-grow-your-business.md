@@ -2,7 +2,7 @@
 layout: post
 author: Niki Petit
 title: Use an Organic Approach to Grow Your Business
-redirect_from: /test/
+redirect_from: /blog/2014/06/use-an-organic-approach-to-grow-your-business/
 card: summary large image
 image: create-demand.jpg
 ---

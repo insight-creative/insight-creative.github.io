@@ -2,6 +2,9 @@
 layout: post
 title:  Jealousy as Creative Motivation?
 author: Stacy Allen
+redirect_from: /blog/2014/05/jealousy-as-creative-motivation/
+card: summary
+image: creative-motivation.jpg
 ---
 
 ![Creative Print Ads](/img/creative-motivation.jpg){: .img-xl}

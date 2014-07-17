@@ -2,6 +2,8 @@
 layout: post
 title:  How to Create an Effective Homepage
 author: Bart Raboin
+redirect_from: /blog/2014/01/how-to-create-effective-homepage/
+card: summary
 ---
 
 In the pioneering days of web design, clients more often than not treated their homepage as a one-stop-shop to present as much information as possible (basically cramming 25 pounds of “stuff” into a 5 pound bag). As web developers and search engines have matured, we’ve come to understand that your homepage content requires purpose and priority.

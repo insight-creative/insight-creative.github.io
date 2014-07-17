@@ -2,6 +2,8 @@
 layout: post
 title:  Be More Productive at Work in 2014
 author: Emily Morehart
+redirect_from: /blog/2014/01/be-more-productive-at-work-in-2014/
+card: summary
 ---
 
 Each year the majority of working Americans set personal goals as New Year’s resolutions, often electing to slim down, eat healthier or break bad habits in hopes of bettering their wellbeing. Such personal resolutions undoubtedly affect our personal life, but I wonder… because most full-time employees spend the majority of their conscious time at work, why don’t more people set work resolutions? If we could make changes at work to be a little more efficient and organized, how would it affect our personal wellbeing and life at home? I’m guessing we’d have a little less stress, a little more free time, and an increased sense of ease.

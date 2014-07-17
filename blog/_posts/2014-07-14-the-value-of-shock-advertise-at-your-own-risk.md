@@ -2,8 +2,7 @@
 layout: post
 author: Emily Morehart
 title: "The Value of Shock: Advertise at Your Own Risk"
-redirect_from: 
-- /blog/2014/07/shock-advertise-at-your-own-risk/
+redirect_from: /blog/2014/07/shock-advertise-at-your-own-risk/
 card: summary large image
 image: shock-vertising.jpg
 ---

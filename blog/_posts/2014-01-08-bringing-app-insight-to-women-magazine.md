@@ -2,6 +2,8 @@
 layout: post
 title: Bringing App Insight to Women Magazine
 author: Emily Morehart
+redirect_from: /blog/2014/01/bringing-app-insight-to-women-magazine/
+card: summary
 ---
 
 I recently enjoyed the opportunity to contribute to the January issue of [Women magazine](http://www.mywomenmagazine.com/) on behalf of Insight Creative. As an avid iPhone user, I’m always discovering new ways to simply my life using the conveniences available on my phone. While researching for the article I found so many useful and innovative apps ([MyFitnessPal](http://www.myfitnesspal.com/) is my favorite!), it was difficult to narrow them down. After reading [the article](http://www.mywomenmagazine.com/sections/specialsection/508-downloads-to-update-your-life-jan2014.html), I encourage you to browse your provider’s store for apps to enhance your career, home, health and more in 2014. Also, don’t forget to share with us! What are your resolutions? Are you utilizing technology to achieve them? If so, how?

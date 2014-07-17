@@ -2,6 +2,9 @@
 layout: post
 title:  Media Buying in a Digital Age
 author: Molly Setzer
+redirect_from: /blog/2014/05/media-buying-in-a-digital-age/
+card: summary
+image: media-buying-in-a-digital-age.jpg
 ---
 
 It’s Monday morning, and you’re easing into the work week. First you check Facebook to see what you missed Sunday night. Next you check the upcoming week’s forecast. And finally, you do a little research on the new car you’d like to buy. Later on, when you’re reading an interesting news story, an advertisement pops up for exactly the vehicle you researched! Who’s monitoring your computer? Is this just a coincidence? Does the universe know exactly what you need when you need it? You could say that. A better explanation is that media buying in a digital age offers extremely targeted advertising!

@@ -2,6 +2,8 @@
 layout: post
 title:  Winning Super Bowl Ads
 author: Emily Morehart
+redirect_from: /blog/2014/02/winning-super-bowl-ads/
+card: summary
 ---
 
 It’s that time of year again! It’s the Monday when employees in offices across the nation gather around the water cooler to discuss the good, the bad and the ugly… of commercials, that is. While most people discuss which ads were their favorites based on emotion (which ones made them feel nostalgic, laugh out loud or even cry), the conversation at our office is a little different. While recognizing the importance of emotional impact on consumers, our staff is more often noticing all the creative and strategic elements that made each commercial great (or not so great) by assessing creativity, video production, writing, editing, social media, branding and more. To capture this conversation, we’ve compiled a list of our 2014 Super Bowl Commercial favorites with expert insights from members of our staff.

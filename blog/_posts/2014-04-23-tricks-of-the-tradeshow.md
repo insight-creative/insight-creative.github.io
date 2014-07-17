@@ -2,6 +2,9 @@
 layout: post
 title:  "Tricks of the Trade(show): How to Build a Standout Booth"
 author: Bart Raboin
+redirect_from: /blog/2014/04/tricks-of-the-tradeshow-how-to-build-a-standout-booth/
+card: summary large image
+image: Domino.jpg
 ---
 
 I recently had the opportunity to work at the [INTERPHEX 2014](http://www.interphex.com) tradeshow in New York City for one of our clients. INTERPHEX is the Indy 500 of tradeshows for the pharmaceutical industry. Businesses from around the world attend to demonstrate their services within biopharmaceutical and pharmaceutical manufacturing.

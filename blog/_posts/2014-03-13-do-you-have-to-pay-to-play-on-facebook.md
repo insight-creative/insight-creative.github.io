@@ -2,6 +2,8 @@
 layout: post
 title:  Do You Have to Pay to Play on Facebook?
 author: Andrea Parins
+redirect_from: /blog/2014/03/do-you-have-to-pay-to-play-on-facebook/
+card: summary
 ---
 
 If you’re an avid Facebook user, you may notice that sometimes you miss out on friends’ content in your News Feed. For example, while browsing Facebook, you may find out your friend got engaged, but then discover her post has already accumulated 300 likes and was posted a week ago. Similarly, you may manage a Facebook page for a business eventually realizing that only about 200 of the 1,000 fans of the page actually see the content. You may be wondering … WHY does this happen?

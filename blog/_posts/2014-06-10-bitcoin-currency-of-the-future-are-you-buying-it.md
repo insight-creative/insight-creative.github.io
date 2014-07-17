@@ -2,6 +2,8 @@
 layout: post
 title: "Bitcoin: Currency of the Future … Are You Buying It?"
 author: Zane Statz
+redirect_from: /blog/2014/06/bitcoin-currency-of-the-future-are-you-buying-it/
+card: summary
 ---
 
 Bitcoin, a digital currency invented in 2009, has recently gained increased popularity worldwide, but still remains a mystery to many. Even those who consider themselves tech savvy, have questions about how bitcoin was developed, how they can “mine” it, and where to use it. Because of the many benefits of using bitcoins – they are convenient, universal, and totally anonymous – I believe that the popularity of bitcoins will continue to grow and someday could be the primary form of payment around the world. So, even if you are not quite ready to make a financial investment in bitcoin, I’d recommend making an investment in understanding it. Read the following breakdown to decide what the future of bitcoin will be for you.
