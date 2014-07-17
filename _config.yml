@@ -2,7 +2,7 @@
 markdown: kramdown
 highlighter: pygments
 gems:
-- jekyll-redirect-from
+  - jekyll-redirect-from
 
 # Permalinks
 permalink: none
