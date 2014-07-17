@@ -1,0 +1,133 @@
+body {
+  background: url(../img/trees.jpg) no-repeat center top fixed;
+  background-color: #0c0d11;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #0c0d11;
+  font-family: "adelle",serif;
+}
+
+.body-copy {
+  background-color: #f3ede5;
+  opacity: .9;
+  padding: 10px;
+  margin-left: -15px;
+  margin-right: -15px;
+  text-align: center;
+}
+
+a.jim {
+  color: #0c0d11;
+}
+a:hover.jim {
+  color: #0c0d11;
+  opacity: .7;
+}
+a.social {
+  color: #fff;
+  font-size: 20px;
+}
+a:hover.social {
+  color: #fff;
+  opacity: .7;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: 'homestead';
+  font-size: 60px;
+}
+h2 {
+  font-size: 35px;
+}
+
+h3 {
+  font-size: 35px;
+  margin-bottom: -12px;
+}
+
+h4 {
+  font-size: 40px;
+  margin-top: -10px;
+}
+h5 {
+  font-size: 28px;
+}
+
+hr {
+  color: #0c0d11;
+  background-color: #0c0d11;
+  height: 1px;
+}
+
+.container {
+  width: 980px !important;
+}
+
+.main-image {
+  margin-top: 20px;
+  position: relative;
+}
+
+#countdown {
+  display: block;
+  position: absolute;
+  top: 350px;
+  left: 0;
+  right: 0;
+  width: 550px;
+  margin: 0 auto;
+  font-family: 'homestead';
+  font-size: 130px;
+  color: #57381f;
+}
+#@media (max-width: 1199px) {
+  #countdown{
+  top: 340px;
+  width: 500px;
+  font-size: 120px;
+}
+}
+#@media (max-width: 991px) {
+  #countdown{
+  top: 260px;
+  width: 400px;
+  font-size: 95px;
+}
+}
+#@media (max-width: 774px) {
+  #countdown{
+  top: 20%;
+  width: 50%;
+  font-size: 80px;
+}
+}
+
+.rsvp {
+  width: 480px;
+  margin: auto;
+}
+
+.copyright {
+  padding-top: 10px;
+  opacity: .6;
+}
+
+footer {
+  color: #fff;
+  text-align: center;
+  padding-top: 10px;
+}
+
+@font-face {
+    font-family: 'homestead';
+    src: url('../fonts/homestead-regular-webfont.eot');
+    src: url('../fonts/homestead-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/homestead-regular-webfont.woff') format('woff'),
+         url('../fonts/homestead-regular-webfont.ttf') format('truetype'),
+         url('../fonts/homestead-regular-webfont.svg#homestead_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
