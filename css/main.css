@@ -118,10 +118,15 @@ a:focus {
 }
 blockquote {
   font-style: italic;
+  font-size: 1rem;
   border-left: 4px solid #D41E47;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
-blockquote p:last-child {
-  margin-bottom: 20px;
+blockquote p {
+  margin-top: 0;
 }
 ul, ol, ul ul, ol ol, ul ol, ol ul {
   margin-bottom: 30px;
@@ -444,7 +449,8 @@ article ol li {
   border-radius: 3px;
 }
 .article-body iframe {
-  margin-bottom: 30px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 .article-footer {
   margin-bottom: 40px;
