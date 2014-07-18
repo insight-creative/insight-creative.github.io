@@ -3,14 +3,14 @@ layout: post
 author: Kevin McGillivray
 title: "Collaborating with a Web Designer/Developer (Audio)"
 card: summary large image
-image: 
+image: collaborating-with-a-web-designer.jpg
 ---
 
 If you’re looking to have someone make a website for your company, it can be hard to know where to start. Even if you have a good understanding of websites in general, things can get confusing quickly, and you may not know exactly what questions to ask or what skills the developer you’re working with should have in order to create the website you need. 
 
 To help clear up the confusion, I sat down with my fellow web developers at Insight Creative, Zane Statz and Bart Raboin, to talk about a few things that we think are important to look for when you’re collaborating with a web designer/developer. You can listen to the recording of our conversation here, or read the highlights below.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/157869159&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="100%" height="550" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/157869159&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 
 Kevin on the importance of making sure the communication between client and developer is collaborative, flexible and fun:
 
