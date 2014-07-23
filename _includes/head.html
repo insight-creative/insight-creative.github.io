@@ -58,4 +58,10 @@
       <meta name="twitter:image:src" content="{{ site.url }}/img/insight-creative-logo.gif">
       {% endif %}
     {% endif %}
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:image" content="{{ site.url }}/img/{{ page.image }}">
   </head>
