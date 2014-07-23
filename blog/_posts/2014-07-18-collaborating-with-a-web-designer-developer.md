@@ -3,7 +3,7 @@ layout: post
 author: Kevin McGillivray
 title: "Collaborating with a Web Designer/Developer (Audio)"
 card: summary large image
-image: collaborating-with-a-web-designer.jpg
+image: collaborating-with-a-web-designer2.jpg
 ---
 
 If you’re looking to have someone make a website for your company, it can be hard to know where to start. Even if you have a good understanding of websites in general, things can get confusing quickly, and you may not know exactly what questions to ask or what skills the developer you’re working with should have in order to create the website you need. 
