@@ -51,7 +51,7 @@
       <meta name="twitter:creator" content="{{ site.twitter }}">
       <meta name="twitter:title" content="{{ page.title }}">
       <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-      <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+      <meta name="twitter:description" content="{{ page.excerpt | remove: "<p>" | remove: "</p>" | truncate: 200 }}">
       {% if page.image %}
       <meta name="twitter:image:src" content="{{ site.url }}/img/{{ page.image }}">
       {% else %}
@@ -61,6 +61,7 @@
     
     <!-- Open Graph -->
     <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.excerpt | remove: "<p>" | remove: "</p>" | truncate: 200 }}" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:image" content="{{ site.url }}/img/{{ page.image }}" />

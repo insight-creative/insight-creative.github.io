@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+redirect_from: /about-us/
 ---
 
 # Insight: Comprehensive Service Focused on You
