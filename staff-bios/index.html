@@ -1,0 +1,12 @@
+---
+layout: page
+title: Staff Bios
+---
+
+<h1>Meet the Insight Team</h1>
+
+{% for staff in site.data.staff %}
+
+{% include staff-bio.html %}
+
+{% endfor %}

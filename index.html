@@ -1,7 +1,49 @@
 ---
 layout: default
-title: Insight Creative
+title: Advertising Agency, Green Bay, WI
 ---
 
-<h1>Full-service creativity and marketing.</h1>
-<h2>From big picture strategy to fine details of design, copywriting, social media and media buying, all in-house.</h2>
+        <div class="jumbotron fadeIn">
+          <div class="jumbotron-caption vertical-center">
+            <h1 class="jumbotron-header">Full-service creativity and marketing.</h1>
+            <div class="col-md-8 center-block jumbotron-text">
+              <p>Insight to help you achieve your goals, from big picture strategy to fine details of design, copywriting, social media and media buying.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="container fadeIn">
+          <div class="row thumbnail-gallery">
+            {% for post in site.categories.work %}{% if post.featured %}
+              {% include thumbnail.html %}
+            {% endif %}{% endfor %}
+            <div class="col-md-3 col-sm-4 col-xs-6">
+              <div class="thumbnail thumbnail-button">
+                <a class="caption" href="/work">
+                  <p class="thumbnail-text">See all projects</p>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <hr>
+
+          <div class="row">
+            <div class="col-md-6">
+              <h1>Recent Posts</h1>
+              <ul class="post-list">
+                {% for post in site.categories.blog limit: 3 %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                  <p class="article-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+                </li>
+                {% endfor %}
+                <a href="/blog#archives" class="btn btn-lg btn-default">View all blog posts</a>
+              </ul>
+            </div>
+            <div class="col-md-6">
+              <h1>Our Services</h1>
+              <p>Insight Creative is a full service agency. We offer a complete range of services to help you reach your goals from big picture strategy to fine details of copywriting, design, photography, web development, social media and media buying.</p>
+              <p>Learn more on the <a href="/services">services</a> page or <a href="/contact">contact us</a> today.</p>
+            </div>
+          </div>

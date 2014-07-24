@@ -1,4 +1,56 @@
 ---
 layout: default
-title: Insight Creative
+title: Work
 ---
+
+        <div class="container">
+          
+          <h1>Projects and Case Studies</h1>
+          
+          <div class="row gallery-filter">
+            <div class="col-md-12">
+              <div class="small-filter">
+                <select class="form-control" id="small-filter">
+                  <option class="filter" value="all">View All</option>
+                  <option class="filter" value=".case-study">Case Studies</option>
+                  <option class="filter" value=".media-buying">Media Buying</option>
+                  <option class="filter" value=".web">Web</option>
+                  <option class="filter" value=".print,.packaging">Print and Packaging</option>
+                  <option class="filter" value=".social-media">Social Media</option>
+                  <option class="filter" value=".identity">Identity</option>
+                  <!--<option class="filter" value=".photography">Photography</option>-->
+                  <!--<option class="filter" value=".audio">Audio</option>-->
+                  <option class="filter" value=".video">Video</option>
+                </select>
+              </div>
+              <ul class="nav nav-pills nav-justified large-filter">
+                <li><a type="button" class="filter btn btn-default" data-filter="all">All</a></li>
+                <li><a type="button" class="filter btn btn-default" data-filter=".case-study">Case Studies</a></li>
+                <li><a type="button" class="filter btn btn-default" data-filter=".media-buying">Media Buying</a></li>
+                <li><a type="button" class="filter btn btn-default" data-filter=".web">Web</a></li>
+                <li><a type="button" class="filter btn btn-default" data-filter=".print,.packaging">Print and Packaging</a></li>
+                <li><a type="button" class="filter btn btn-default" data-filter=".social-media">Social Media</a></li>
+                <li><a type="button" class="filter btn btn-default" data-filter=".identity">Identity</a></li>
+                <!--<li><a type="button" class="filter btn btn-default" data-filter=".photography">Photography</a></li>-->
+                <!--<li><a type="button" class="filter btn btn-default" data-filter=".audio">Audio</a></li>-->
+                <li><a type="button" class="filter btn btn-default" data-filter=".video">Video</a></li>
+              </ul>
+            </div>
+          </div>
+          
+          <div class="row thumbnail-gallery">
+            <div id="Container">
+              {% for post in site.categories.work %}
+              <div data-name="{{ post.title}}" class="mix col-md-3 col-sm-4 col-xs-6 {% for tag in post.tags %}{{ tag | downcase | replace: " ", "-" | append: " " }}{% endfor %}">
+                <div class="thumbnail">
+                  <a href="{{ post.url }}">
+                    <img class="img-responsive img-circle" src="/img/{{ post.thumbnail }}">
+                  </a>
+                  <a class="caption project-caption" href="{{ post.url }}">
+                    <p class="vertical-center">{{ post.title }}</p>
+                  </a>
+                </div>
+              </div>
+              {% endfor %}
+            </div>
+          </div>

@@ -1,0 +1,85 @@
+        </div> <!-- /.container -->
+      </div> <!-- /#main -->
+    </div> <!-- /#wrap -->
+
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-2 col-xs-6">
+            <h3>Site Map</h3>
+            <ul class="basic-list">
+              <li><a href="{{ site.baseurl }}">Home</a></li>
+              <li><a href="/about">About Us</a></li>
+              <li><a href="/services">Services</a></li>
+              <li><a href="/work">Work</a></li>
+              <li><a href="/blog">Blog</a></li>
+              <li><a href="/contact">Contact</a></li>
+            </ul>
+          </div>
+          <div class="col-md-2 col-xs-6">
+            <h3>Follow Us</h3>
+            <ul class="basic-list">
+              <li><a href="http://www.facebook.com/insightcreativeinc">Facebook</a></li>
+              <li><a href="http://twitter.com/insightwi">Twitter</a></li>
+              <li><a href="http://instagram.com/insightwi">Instagram</a></li>
+              <li><a href="http://www.pinterest.com/insightinc/">Pinterest</a></li>
+              <li><a href="http://www.youtube.com/user/InsightCreativeWI/">YouTube</a></li>
+              <li><a href="/blog">Blog</a></li>
+              <li><a href="http://visitor.r20.constantcontact.com/manage/optin/ea?v=001nxNUBQroFr26-H-ECAwD8pmvSYh8P1LCZNXEOEwN0onqjNisPk-uCnU-ZXGKJe2QHb8cUJGLi2E%3D">Newsletter</a></li>
+            </ul>
+          </div>
+          <div class="col-md-4">
+            <h3>Our Location</h3>
+            <p>1816 Sal St.<br>Green Bay, WI 54302<br>920.468.7459</p>
+            <p>&copy; Insight Creative, Inc. All rights reserved.</p>
+          </div>
+          <div class="col-md-4 col-xs-12">
+            <h3>Contact Us</h3>
+            <iframe src="/contact-form.html" width="200" height="260" frameborder="0" scrolling="no"></iframe>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- jQuery and Bootstrap -->
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    
+    {% if page.title contains 'Work' %}<!-- Only load MixItUp on the work page -->
+    <!-- MixItUp jQuery Plugin -->
+  	<script src="http://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
+    <script src="/js/mixitup-options.js"></script>
+    {% endif %}
+
+    {% if page.title contains 'Advertising Agency, Green Bay, WI' %}<!-- Only load jumbotron related javascript on the home page -->
+    <!-- Rotate header graphic
+    <script type="text/javascript">
+     var images = ['circles.png', 'molecules.png'];
+     $('.jumbotron').css({'background-image': 'url(img/' + images[Math.floor(Math.random() * images.length)] + ')'});
+    </script> -->
+
+    <!-- Parallax jumbotron
+    <script>
+      var jumboHeight = $('.jumbotron').outerHeight();
+      function parallax(){
+          var scrolled = $(window).scrollTop();
+          $('.bg').css('height', (jumboHeight-scrolled) + 'px');
+      }
+
+      $(window).scroll(function(e){
+          parallax();
+      });
+    </script>-->
+
+    <!-- Widon't, removes widows in jumbotron text -->
+    <script>
+      jQuery(function($) {
+        $('.jumbotron-header,.jumbotron-text').each(function() {
+          $(this).html($(this).html().replace(/\s([^\s<]+)\s*$/,'&nbsp;$1'));
+        });
+      });
+    </script>
+    {% endif %}
+
+  </body>
+</html>

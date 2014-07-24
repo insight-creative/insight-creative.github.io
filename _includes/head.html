@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width">
+    <link href="/img/favicon.ico" rel="shortcut icon">
+    <link href="http://insightcreative.com/feed.xml" rel="alternate" type="application/atom+xml">
+    <title>{{ page.title }} | Insight Creative</title>
+
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/main.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Typekit -->
+    <script type="text/javascript" src="//use.typekit.net/lba2uki.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    
+    <!-- Google Analytics -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-13074741-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+    <!-- Twitter Card Info --> 
+    {% if page.card %}
+      {% if page.card == "summary" %}
+      <meta name="twitter:card" content="summary">
+      {% elsif page.card == "summary large image" %}
+      <meta name="twitter:card" content="summary_large_image">
+      {% elsif page.card == "gallery" %}
+      <meta name="twitter:card" content="gallery">
+      <meta name="twitter:image0:src" content="{{ site.url }}/img/{{ page.image1 }}">
+      <meta name="twitter:image1:src" content="{{ site.url }}/img/{{ page.image2 }}">
+      <meta name="twitter:image2:src" content="{{ site.url }}/img/{{ page.image3 }}">
+      <meta name="twitter:image3:src" content="{{ site.url }}/img/{{ page.image4 }}">
+      {% endif %}
+      <meta name="twitter:site" content="{{ site.twitter }}">
+      <meta name="twitter:domain" content="insightcreative.com">
+      <meta name="twitter:creator" content="{{ site.twitter }}">
+      <meta name="twitter:title" content="{{ page.title }}">
+      <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+      <meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 200 }}">
+      {% if page.image %}
+      <meta name="twitter:image:src" content="{{ site.url }}/img/{{ page.image }}">
+      {% else %}
+      <meta name="twitter:image:src" content="{{ site.url }}/img/insight-creative-logo.gif">
+      {% endif %}
+    {% endif %}
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 200 }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:image" content="{{ site.url }}/img/{{ page.image }}" />
+  </head>
