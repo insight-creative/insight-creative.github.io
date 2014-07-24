@@ -1,6 +1,16 @@
 ---
 layout: page
 title: Services
+redirect_from: 
+- /media/
+- /social-media-pr/
+- /branding/
+- /art-direction/
+- /copywriting/
+- /photography/
+- /audio-video/
+- /interactive-web/
+- /strategy/
 ---
 
 # Services
