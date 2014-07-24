@@ -1,26 +1,7 @@
 ---
-layout: page
+layout: default
 ---
-              
-              <article>
-                <div class="article-heading">
-                  <h1 class="article-title">{{ page.title }}</h1>
-                  <p class="article-meta">By {{ page.author }} — {{ page.date | date: "%B %-d, %Y" }}</p>
-                </div>
-                <div class="article-body">
-                    
+<h2>{{ page.title }}</h2>
+<p>{{ page.date | date_to_string }}</p>
+
 {{ content }}
-                    
-                </div>
-                <hr>
-                <div class="article-footer">
-                  <a href="http://twitter.com/insightwi" target="_blank" class="btn btn-lg btn-inverse">Discuss this post on Twitter</a>
-                  <a href="/blog#archives" target="_blank" class="btn btn-lg btn-default">See all posts</a>
-                </div>
-              </article>
-              
-              {% for staff in site.data.staff %}
-                {% if page.author == staff.name %}
-                {% include staff-bio.html %}
-                {% endif %}
-              {% endfor %}

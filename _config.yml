@@ -1,17 +1,3 @@
-# Dependencies
-markdown: kramdown
-highlighter: pygments
-gems:
-  - jekyll-redirect-from
-
-# Permalinks
-permalink: none
-
-# Setup
 name: Insight Creative
-description: "An Advertising Agency with a Vision to bring complete strategic development and creative execution capabilities into one  roll-up-your-sleeves, hard-working kind of ad agency."
-url: http://insightcreative.com
-future: false
-
-# Custom
-twitter: insightwi
+markdown: redcarpet
+pygments: true
