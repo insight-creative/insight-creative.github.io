@@ -15,3 +15,24 @@ future: false
 
 # Custom
 twitter: insightwi
+
+#Prose
+prose:
+  siteurl: http://insightcreative.com
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /_data
+    - /css
+    - /js
+    - /online-ads
+    - /staff-bios
+    - .editorconfig
+    - .gitignore
+    - 404.html
+    - CNAME
+    - README.md
+    - contact-form.html
+    - feed.xml
