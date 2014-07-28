@@ -19,8 +19,9 @@ twitter: insightwi
 #Prose
 prose:
   siteurl: http://insightcreative.com
+  media: 'img'
   ignore:
-    - index.md
+    - index.html
     - _config.yml
     - /_layouts
     - /_includes
@@ -36,3 +37,27 @@ prose:
     - README.md
     - contact-form.html
     - feed.xml
+    - /bash2014
+    - /news
+    - /contact
+    - /services
+    - /about
+  metadata:
+    blog/_posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "author"
+        field:
+          element:
+          value:
+      - name: "tag"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          options:
+            - name: 'News'
+              value: 'news'
+          alterable: true
+        
