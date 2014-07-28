@@ -43,7 +43,12 @@ prose:
     - /services
     - /about
   metadata:
-    blog/_posts:
+    work:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "project"
+    blog:
       - name: "layout"
         field:
           element: "hidden"
@@ -98,7 +103,7 @@ prose:
       - name: "image"
         field:
           element: "text"
-          label: "Featured image"
+          label: "Featured Image"
           help: "Type the name of the image file you would like to feature as the display image in social media posts."
           placeholder: "image-name.jpg"
       - name: "card"
