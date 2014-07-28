@@ -48,6 +48,51 @@ prose:
         field:
           element: "hidden"
           value: "project"
+      - name: "client"
+        field:
+          element: "text"
+          label: "Client"
+          placeholder: "Client name"
+      - name: "tag"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          options:
+            - name: 'Case Study'
+              value: 'Case Study'
+            - name: 'Media Buying'
+              value: 'Media Buying'
+            - name: 'Web'
+              value: 'Web'
+            - name: 'Print'
+              value: 'Print'
+            - name: 'Packaging'
+              value: 'Packaging'
+            - name: 'Social Media'
+              value: 'Social Media'
+            - name: 'Identity'
+              value: 'Identity'
+            - name: 'Photography'
+              value: 'Photography'
+            - name: 'Video'
+              value: 'Video'
+      - name: "image"
+        field:
+          element: "text"
+          label: "Featured Image"
+          help: "Type the name of the image file you would like to feature as the display image in social media posts."
+          placeholder: "image-name.jpg"
+      - name: "card"
+        field:
+          element: "select"
+          label: "Twitter Card"
+          options:
+            - name: 'Summary large image'
+              value: 'summary large image'
+            - name: 'Summary'
+              value: 'summary'
+            - name: 'Gallery'
+              value: 'gallery'
     blog:
       - name: "layout"
         field:
@@ -117,4 +162,3 @@ prose:
               value: 'summary'
             - name: 'Gallery'
               value: 'gallery'
-        
