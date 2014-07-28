@@ -48,10 +48,45 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          help: "Type the title exactly how it should appear."
+          placeholder: "Your Title Goes Here"
       - name: "author"
         field:
-          element:
-          value:
+          element: "select"
+          label: "Author"
+          options:
+            - name: "Jim von Hoff"
+              value: "Jim von Hoff"
+            - name: "Niki Petit"
+              value: "Niki Petit"
+            - name: "Shelly Hendricks"
+              value: "Shelly Hendricks"
+            - name: "Jenny Brandenburg"
+              value: "Jenny Brandenburg"
+            - name: "Jay Bauer"
+              value: "Jay Bauer"
+            - name: "Bart Raboin"
+              value: "Bart Raboin"
+            - name: "Kevin McGillivray"
+              value: "Kevin McGillivray"
+            - name: "Zane Statz"
+              value: "Zane Statz"
+            - name: "Andrea Parins"
+              value: "Andrea Parins"
+            - name: "Stacy Allen"
+              value: "Stacy Allen"
+            - name: "Emily Morehart"
+              value: "Emily Morehart"
+            - name: "Molly Setzer"
+              value: "Molly Setzer"
+            - name: "Liz Van Asten"
+              value: "Liz Van Asten"
+            - name: "Cindy Struensee"
+              value: "Cindy Struensee" 
       - name: "tag"
         field:
           element: "multiselect"
@@ -60,4 +95,21 @@ prose:
             - name: 'News'
               value: 'news'
           alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Featured image"
+          help: "Type the name of the image file you would like to feature as the display image in social media posts."
+          placeholder: "image-name.jpg"
+      - name: "card"
+        field:
+          element: "select"
+          label: "Twitter Card"
+          options:
+            - name: 'Summary large image'
+              value: 'summary large image'
+            - name: 'Summary'
+              value: 'summary'
+            - name: 'Gallery'
+              value: 'gallery'
         
