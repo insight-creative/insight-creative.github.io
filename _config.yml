@@ -48,6 +48,12 @@ prose:
         field:
           element: "hidden"
           value: "project"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          help: "Type the title exactly how it should appear."
+          placeholder: "Your Title Goes Here"
       - name: "client"
         field:
           element: "text"
