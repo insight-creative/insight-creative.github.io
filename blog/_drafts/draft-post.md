@@ -1,9 +1,12 @@
 ---
 layout: post
 author: Kevin McGillivray
-title:
-card:
-image:
+title: Untitled
+card: 
+  - null
+  - summary large image
+image: null
+published: true
 ---
 
-This is a draft post.
+This is a draft post. Changes.
