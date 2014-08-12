@@ -76,16 +76,14 @@ iframe {
  */
 
 h1 {
-  line-height: 1.25;
-}
-h2, h3, h4 {
-  line-height: 1.4;
-}
-h1 {
   font-size: 2.5rem;
+  line-height: 1.25;
   font-weight: 300;
   color: #BDBE5A;
   text-align: center;
+}
+h2, h3, h4 {
+  line-height: 1.4;
 }
 h2 {
   font-size: 1.2rem;
@@ -234,11 +232,11 @@ article ol li {
   border-radius: 5px;
   box-shadow: none;
 }
-/* Animate the entrance of the dropdown menu itself */
+/* Animate the entrance of the dropdown menu */
 @media (min-width: 992px) {
   .dropdown > .dropdown-menu {
     display: block;
-    z-index: -1;
+    z-index: -100;
     -webkit-transform: translateY(-200%);
             transform: translateY(-200%);
     -webkit-transition: all 300ms ease;
@@ -379,6 +377,7 @@ article ol li {
   /* Stop scroll bars from appearing while filtering */
   overflow: hidden;
   min-height: 500px;
+  margin-bottom: 25px;
 }
 #Container .mix {
 	display: none;
