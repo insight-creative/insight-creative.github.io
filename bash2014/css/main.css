@@ -74,10 +74,10 @@ hr {
 #countdown {
   display: block;
   position: absolute;
-  top: 350px;
+  top: 375px;
   left: 0;
   right: 0;
-  width: 350px;
+  width: 400px;
   margin: 0 auto;
   font-family: 'homestead';
   font-size: 130px;

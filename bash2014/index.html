@@ -52,43 +52,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="../js/bootstrap.min.js"></script>
-    <script>
-
-        CountDownTimer('08/15/2014 12:1 AM', 'countdown');
-
-        function CountDownTimer(dt, id)
-        {
-            var end = new Date(dt);
-
-            var _second = 1000;
-            var _minute = _second * 60;
-            var _hour = _minute * 60;
-            var _day = _hour * 24;
-            var timer;
-
-            function showRemaining() {
-                var now = new Date();
-                var distance = end - now;
-                if (distance < 0) {
-
-                    clearInterval(timer);
-                    document.getElementById(id).innerHTML = 'EXPIRED!';
-
-                    return;
-                }
-                var days = Math.floor(distance / _day);
-                var hours = Math.floor((distance % _day) / _hour);
-                var minutes = Math.floor((distance % _hour) / _minute);
-                var seconds = Math.floor((distance % _minute) / _second);
-
-                document.getElementById(id).innerHTML = days + ' day';
-            }
-
-            timer = setInterval(showRemaining, 1000);
-        }
-
-    </script>
-    <div id="countdown"></div>
+    <div id="countdown">today</div>
   </body>
   <footer>
     <div class="social-media">
