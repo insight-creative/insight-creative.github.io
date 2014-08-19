@@ -37,6 +37,8 @@ body {
   font-family: "lato", sans-serif;
   font-size: 1rem;
   line-height: 1.5;
+  /* Makes the background footer color for contact form iframe */
+  background-color: transparent;
   /* Makes type display consistently in Safari */
   -webkit-font-smoothing: subpixel-antialiased;
 }
@@ -555,8 +557,7 @@ footer p {
 }
 /* Change the embedded contact form background color to
    match the footer and align it correctly */
-.footer-contact-form {
-  background-color: #3F4142;
+.contact-form {
   margin-top: -54px;
 }
 
