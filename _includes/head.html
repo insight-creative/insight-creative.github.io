@@ -77,7 +77,7 @@
     <!-- Open Graph -->
     <meta property="og:title" content="{{ page.title }}" />
     {% if page.description %}
-    <meta name="twitter:description" content="{{ page.description | truncate: 200 }}">
+    <meta property="og:description" content="{{ page.description | truncate: 200 }}">
     {% else %}
     <meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 200 }}" />
     {% endif %}
