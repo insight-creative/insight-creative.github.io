@@ -8,7 +8,7 @@ image: insight-website.jpg
 
 ![Insight Creative Website](/img/insight-website.jpg){: .img-lg }
 
-We just finished up a major project at Insight Creative: a new website for our company.
+We just finished a major project at Insight Creative: a new website for our company.
 
 If you're reading this, you're probably looking at it (unless you're really cool and are reading it from the [RSS feed](/feed.xml) or are subscribed to the [newsletter](http://visitor.r20.constantcontact.com/manage/optin/ea?v=001nxNUBQroFr26-H-ECAwD8pmvSYh8P1LCZNXEOEwN0onqjNisPk-uCnU-ZXGKJe2QHb8cUJGLi2E%3D)). 
 
@@ -23,4 +23,6 @@ One of the most exciting parts of this new website is what happened behind the s
 
 These new tools also allowed us to be extremely flexible, experimental and agile in our design and development. This kept the project moving which made it very enjoyable, and also let us change things easily as we came up with ideas and tested them. If something ended up not working, we had enough time to change our minds and try something else, which in the end led to a much better site.
 
-Overall we are anxious to share this new site with you, we had a lot of fun building it, and we learned a lot of new things that we are now using to benefit our clients' web projects. Questions, comments, or feedback? Talk to us on [Twitter](http://twitter.com/insightwi) or [contact us](/contact).
+Overall we are anxious to share this new site with you, we had a lot of fun building it, and we learned a lot of new things that we are now using to benefit our clients' web projects.
+
+Questions, comments, or feedback? Talk to us on [Twitter](http://twitter.com/insightwi) or [contact us](/contact).
