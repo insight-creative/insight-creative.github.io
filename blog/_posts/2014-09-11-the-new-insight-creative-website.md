@@ -4,6 +4,7 @@ author: Kevin McGillivray
 title: "The New Insight Creative Website"
 card: summary large image
 image: insight-website.jpg
+description: "We just finished a major project at Insight Creative: a new website for our company."
 ---
 
 ![Insight Creative Website](/img/insight-website.jpg){: .img-lg }
