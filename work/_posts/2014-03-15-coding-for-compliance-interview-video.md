@@ -7,8 +7,6 @@ tags:
 - Video
 
 card: summary
-
-featured: true
 ---
 
 Headquartered in the UK, Domino Printing Sciences is the world’s largest manufacturer of digital printing solutions. After the passing of legislation to place stringent requirements on the production of pharmaceuticals, Insight created this tradeshow video for Domino, positioning them as a helpful partner to pharmaceutical manufacturers in a time of uncertainty. 

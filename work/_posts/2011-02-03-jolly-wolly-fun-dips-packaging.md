@@ -11,8 +11,6 @@ image1: jolly-wolly-packaging.jpg
 image2: jolly-wolly-packaging-3.jpg
 image3: jolly-wolly-packaging-1.jpg
 image4: jolly-wolly-packaging-2.jpg
-
-featured: true
 ---
 
 Jolly Wolly Fun Dips, located in Escanaba, Michigan, offers a regional fundraising program selling their tasty and original dip mixes. After developing the whimsical Jolly Wolly logo, Insight designed the colorful, food-focused packaging to showcase the delicious blends of herbs and spices inside.
