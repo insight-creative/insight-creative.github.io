@@ -5,6 +5,7 @@ author: Jen Haas
 
 card: summary
 image: the-power-of-asking-questions.jpg
+description: "'I have a question' has been my new mantra since beginning my Account Coordinator position at Insight Creative."
 ---
 
 ![The Power of Asking Questions](/img/the-power-of-asking-questions.jpg)
