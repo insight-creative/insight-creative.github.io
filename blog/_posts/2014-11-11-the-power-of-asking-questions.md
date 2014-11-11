@@ -9,7 +9,7 @@ image: the-power-of-asking-questions.jpg
 
 ![The Power of Asking Questions](/img/the-power-of-asking-questions.jpg)
 
-"I have a question" has been my new mantra since beginning my Account Coordinator position at Insight Creative. Many people know starting a new job leads to questions flying from all directions in your mind ... Am I doing this right? What is the process? Why is this important?  Often, people are afraid to ask questions because they think it makes them look underqualified or stupid. While most people consider asking questions to be a sign of weakness, I consider it to be a sign of strength. Asking questions shows that you are smart enough to dig deep, challenge the system and most importantly, do things right. 
+"I have a question" has been my new mantra since beginning my Account Coordinator position at Insight Creative. Many people know starting a new job leads to questions flying from all directions in your mind ... Am I doing this right? What is the process? Why is this important?  Often, people are afraid to ask questions because they think it will make them look underqualified or stupid. While most people consider asking questions to be a sign of weakness, I consider it to be a sign of strength. Asking questions shows that you are smart enough to dig deep, challenge the system and most importantly, do things right. 
 
 I encourage you to ask questions in all aspects of your life especially in the way you market your business. Don’t just assume you are doing it right or that other people will have the same opinion as you. You may think you know your target audience, but you could be ignoring a key demographic in your marketing. 
 
