@@ -10,7 +10,7 @@ description: 'As a social media specialist, I’m often told by business profess
 
 As a social media specialist, I’m often told by business professionals, "I don’t get Twitter" (or whatever social media platform we’re discussing at the time). They claim the reason behind this statement is that they don’t personally use it and therefore, they don’t see the value in using it for their business. However, just because you don’t use a certain social media platform for personal communication, doesn’t mean you should rule it out for your business. The key point to remember is … does your target audience use it? Each social media platform has it’s own niche and advantages for different audiences. It’s necessary to perform a social media landscape evaluation to determine which platforms are the best for your business. 
 
-Many brands are tapping into specific social media platforms for highly targeted audiences. IHOP’s recent Twitter strategy incorporates an authentic, hip-hop-inspired voice to speak to teenagers. 
+Many brands are tapping into specific social media platforms for highly targeted audiences. [IHOP’s recent Twitter strategy](http://www.adweek.com/news/technology/whos-behind-these-crazy-ihop-tweets-160955) incorporates an authentic, hip-hop-inspired voice to speak to teenagers. 
 
 <blockquote class="twitter-tweet" lang="en"><p>Pancakes or you&#39;re basic.</p>&mdash; IHOP (@IHOP) <a href="https://twitter.com/IHOP/status/480772386464079872">June 22, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -26,7 +26,7 @@ Many brands are tapping into specific social media platforms for highly targeted
 
 At first glance, and after taking a moment to decipher (or even Google) the slang, it may be unclear how these cheeky tweets impact IHOP’s bottom line. But don’t let that thought cause you to dismiss the campaign. Remember, the target audience is teens. You may not understand a campaign that was not intended for you. According to IHOP, within 60 days of launching the campaign, their Twitter following increased 18%. Whether you enjoy or understand the content or not, the numbers are clearly showing success.   
 
-Another food giant and social media trailblazer, Taco Bell, continues to publish young adult lingo on their social media platforms including Instagram—and the biggest teen sensation of them all—Snapchat. 
+Another food giant and social media trailblazer, Taco Bell, [continues to publish young adult lingo](http://mashable.com/2014/05/29/taco-bell-marketing-strategy/) on their social media platforms including Instagram—and the biggest teen sensation of them all—Snapchat. 
 
 ![Taco Bell Snapchat]({{ site.baseurl }}/img/taco-bell-snapchat.jpg){: .img-small }
 
@@ -43,8 +43,8 @@ Again, you might be wondering how these posts translate into direct sales at Tac
 
 Taco Bell President Brian Niccol says that on any marketing channel, Taco Bell seeks to create content that travels. “It's not just about likes, clicks or eyeballs,” he says. “Do people co-create off of our content? Do they repeat the story? Do you see the story show up in other places, like Saturday Night Live or in pop culture? Do you see all the people out there who are driving culture and vocabulary replaying the stories we're telling? That’s how I know we're connecting."
 
-While many social platforms are a natural fit for young adults, social media success is not exclusive to the younger crowd. AARP targets adult over 50 and has stepped up to connect with its members online, in addition to its print communication. 
+While many social platforms are a natural fit for young adults, social media success is not exclusive to the younger crowd. AARP targets adults over 50 and has stepped up to connect with its members online, in addition to its print communication. 
 
-AARP not only has a strong social media presence to reach current members and prospective clients via Facebook, Twitter and YouTube, they also recognize the importance of social media education. They know that the content they’re sharing on social media is only valuable if AARP members are actually using social media. Therefore, AARP has designated an [area of their website as the Social Media Education Center](http://www.aarp.org/home-family/personal-technology/tek/social-media-education-center/) with “How-Tos” on setting up and using specific social media platforms. They also host AARP TEK workshops onsite in many communities for hands-on technology learning events to support the education efforts.
+[AARP not only has a strong social media presence](http://digiday.com/brands/rocketfuel-inside-aarps-social-media-strategy/) to reach current members and prospective clients via Facebook, Twitter and YouTube, they also recognize the importance of social media education. They know that the content they’re sharing on social media is only valuable if AARP members are actually using social media. Therefore, AARP has designated an [area of their website as the Social Media Education Center](http://www.aarp.org/home-family/personal-technology/tek/social-media-education-center/) with “How-Tos” on setting up and using specific social media platforms. They also host AARP TEK workshops onsite in many communities for hands-on technology learning events to support the education efforts.
 
 No matter your target audience, it is important to analyze each social media platform to determine which one fits them and your brand, even if you don’t quite “get it,” and tailor your message accordingly. Which platforms have you experienced success reaching a targeted audience? Are there any platforms you struggle to understand?
