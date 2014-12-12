@@ -5,13 +5,21 @@ layout: page
               <article>
                 <div class="article-heading">
                   <h1 class="article-title">{{ page.title }}</h1>
-                  <p class="article-meta">By {{ page.author }} — {{ page.date | date: "%B %-d, %Y" }}</p>
+                  <p class="article-meta">By {{ page.author }}</p>
                 </div>
                 <div class="article-body">
                     
 {{ content }}
                     
                 </div>
+                <hr>
+                <p class="article-meta">Posted {{ page.date | date: "%B %-d, %Y" }} by {{ page.author }}.</p>
+                <p class="article-meta">Recent posts:</p>
+                <ul class="basic-list">
+                {% for post in site.related_posts | limit: 3 %}
+                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+                </ul>
                 <hr>
                 <div class="article-footer">
                   <a href="http://twitter.com/insightwi" target="_blank" class="btn btn-lg btn-inverse">Discuss this post on Twitter</a>
