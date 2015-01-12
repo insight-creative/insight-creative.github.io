@@ -13,22 +13,15 @@ layout: page
                     
                 </div>
                 <hr>
-                <p class="article-meta">Posted {{ page.date | date: "%B %-d, %Y" }} by {{ page.author }}.</p>
-                <p class="article-meta">Recent posts:</p>
-                <ul class="basic-list">
-                {% for post in site.related_posts | limit: 3 %}
-                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                <p class="article-meta">Posted {{ page.date | date: "%B %-d, %Y" }}</p>
+                {% for staff in site.data.staff %}
+                  {% if page.author == staff.name %}
+                  {% include staff-bio.html %}
+                  {% endif %}
                 {% endfor %}
-                </ul>
                 <hr>
                 <div class="article-footer">
                   <a href="http://twitter.com/insightwi" target="_blank" class="btn btn-lg btn-inverse">Discuss this post on Twitter</a>
                   <a href="/blog#archives" target="_blank" class="btn btn-lg btn-default">See all posts</a>
                 </div>
               </article>
-              
-              {% for staff in site.data.staff %}
-                {% if page.author == staff.name %}
-                {% include staff-bio.html %}
-                {% endif %}
-              {% endfor %}
