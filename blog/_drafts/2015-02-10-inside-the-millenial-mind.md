@@ -2,9 +2,9 @@
 layout: post
 title: Inside the Millenial Mind
 author: Jen Haas
-card: summary
-image: 
-description:
+card: summary large image
+image: millenials.jpg
+description: The average millennial has access to 7.1 electronic devices and consumes content across those multiple devices.
 ---
 
 ![Millenials](/img/millenials.jpg){: .img-lg}
