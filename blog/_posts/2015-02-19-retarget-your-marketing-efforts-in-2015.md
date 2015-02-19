@@ -2,7 +2,7 @@
 layout: post
 title: Retarget Your Marketing Efforts in 2015
 author: Niki Petit
-card: summary
+card: summary large image
 image: retargeting-2015.jpg
 description: Communication is changing and the world continues to change with it. Is your business changing too?
 ---
