@@ -3,7 +3,7 @@ layout: project
 title: Schmalz Landscaping Photography
 client: Schmalz Custom Landscaping and Garden Center
 thumbnail: schmalz-photography-thumbnail.jpg
-tags: 
+tags:
   - Photography
 card: summary large iamge
 image: schmalz-photography1.jpg
@@ -13,3 +13,5 @@ Schmalz Custom Landscaping and Garden Center has been the preferred landscape co
 
 ![Schmalz Landscaping](/img/schmalz-photography1.jpg){: .img-lg}
 ![Schmalz Landscaping](/img/schmalz-photography2.jpg){: .img-lg}
+![Schmalz Landscaping](/img/schmalz-photography3.jpg){: .img-lg}
+![Schmalz Landscaping](/img/schmalz-photography4.jpg){: .img-lg}

@@ -1,16 +1,16 @@
 ---
 layout: page
 ---
-              
+
               <article>
                 <div class="article-heading">
                   <h1 class="article-title">{{ page.title }}</h1>
                   <p class="article-meta">By {{ page.author }}</p>
                 </div>
                 <div class="article-body">
-                    
+
 {{ content }}
-                    
+
                 </div>
                 <hr>
                 <p class="article-meta">Posted {{ page.date | date: "%B %-d, %Y" }}</p>
@@ -22,6 +22,6 @@ layout: page
                 <hr>
                 <div class="article-footer">
                   <a href="http://twitter.com/insightwi" target="_blank" class="btn btn-lg btn-inverse">Discuss this post on Twitter</a>
-                  <a href="/blog#archives" target="_blank" class="btn btn-lg btn-default">See all posts</a>
+                  <a href="/blog#archives" class="btn btn-lg btn-default">See all posts</a>
                 </div>
               </article>

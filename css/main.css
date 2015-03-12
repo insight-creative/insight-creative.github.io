@@ -114,6 +114,7 @@ a {
 a:hover,
 a:focus {
   color: #BDBE5A;
+  text-decoration: none;
 }
 blockquote {
   font-style: italic;

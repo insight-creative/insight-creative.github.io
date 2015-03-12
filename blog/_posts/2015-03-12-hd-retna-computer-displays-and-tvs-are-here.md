@@ -17,7 +17,7 @@ Marketing professionals must also consider how changes to TV displays will affec
 
 In the short term, those wanting to watch 4k videos, films and TV shows on their TV will have to rely on streaming services such as Netflix and YouTube. Netflix showed off a 4k version of its streaming app on some new 4k TVs at the Consumer Electronics Show in Las Vegas in 2013 and announced that season two of its popular series House of Cards would be the first show that subscribers could watch in 4k.
 
-![SonyMasteredIn4K](/img/SonyMasteredIn4K.jpg){: .img-lg}
+![SonyMasteredIn4K](/img/SonyMasteredIn4K.jpg)
 
 Sony already offers “Mastered in 4k” Blu-ray discs, which offer movies that have
 been mastered in 4k, then downscaled to 2k to fit on a standard Blu-ray disc.
