@@ -41,35 +41,18 @@
       </div>
     </footer>
 
-    <!-- jQuery and Bootstrap -->
+    <!-- jQuery, Bootstrap and Holder -->
     <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    
-    {% if page.title contains 'Work' %}<!-- Only load MixItUp on the work page -->
+    <script src="/js/holder.js"></script>
+
+    {% if page.url contains "/work" %}<!-- Only load MixItUp on the work page -->
     <!-- MixItUp jQuery Plugin -->
   	<script src="http://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
     <script src="/js/mixitup-options.js"></script>
     {% endif %}
 
-    {% if page.title contains 'Advertising Agency, Green Bay, WI' %}<!-- Only load jumbotron related javascript on the home page -->
-    <!-- Rotate header graphic
-    <script type="text/javascript">
-     var images = ['circles.png', 'molecules.png'];
-     $('.jumbotron').css({'background-image': 'url(img/' + images[Math.floor(Math.random() * images.length)] + ')'});
-    </script> -->
-
-    <!-- Parallax jumbotron
-    <script>
-      var jumboHeight = $('.jumbotron').outerHeight();
-      function parallax(){
-          var scrolled = $(window).scrollTop();
-          $('.bg').css('height', (jumboHeight-scrolled) + 'px');
-      }
-
-      $(window).scroll(function(e){
-          parallax();
-      });
-    </script>-->
+    {% if page.url == "/index.html" %}<!-- Only load jumbotron related javascript on the home page -->
 
     <!-- Widon't, removes widows in jumbotron text -->
     <script>
@@ -79,7 +62,31 @@
         });
       });
     </script>
+
+    <script type="text/javascript">
+      document.getElementById("nav").style.boxShadow="0px 5px 10px rgba(8,8,8,.3)";
+    </script>
+    <script type="text/javascript">
+    $(function() {
+      //caches a jQuery object containing the header element
+      $(window).scroll(function() {
+          var scroll = $(window).scrollTop();
+
+          if (scroll <= 325) {
+            document.getElementById("nav").style.boxShadow="0px 5px 10px rgba(8,8,8,.3)";
+          } else {
+            document.getElementById("nav").style.boxShadow="none";
+          }
+      });
+    });
+    </script>
     {% endif %}
+
+    {% if page.url contains "/careers" %}
+
+    {% endif %}
+
+
 
   </body>
 </html>
