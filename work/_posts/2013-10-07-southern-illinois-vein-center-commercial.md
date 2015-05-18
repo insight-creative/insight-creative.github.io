@@ -7,8 +7,6 @@ tags:
 - Video
 
 card: summary
-
-featured: true
 ---
 
 Southern Illinois Vein Center uses cutting-edge treatments and technologies for minimally invasive vein treatment in Illinois and Kentucky. Insight wrote and produced this television commercial, which speaks to women in a relatable, everyday context that shows how simple vein treatment can be.
