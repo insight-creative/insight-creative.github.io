@@ -64,6 +64,11 @@ iframe {
   	  -ms-transform: translateY(-50%);
   	      transform: translateY(-50%);
 }
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
 /* Stop content from expanding too wide on tablets */
 #wrapper {
   max-width: 682px;
@@ -853,7 +858,13 @@ img.card-right {
 }
 .card-color {
   background-color: #BDBE5A;
-  font-color: #FFFFFF;
+  color: #FFFFFF;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  margin-top: 30px;
+}
+.card-color h3 {
+  color: #FFFFFF !important;
 }
 .card-gradient {
   background: -webkit-linear-gradient(top,rgba(63,65,66,.3),rgba(216,217,217,.3)); /*Safari 5.1-6*/
