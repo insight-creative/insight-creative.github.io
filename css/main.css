@@ -95,6 +95,9 @@ p {
   margin-top: 1rem;
   margin-bottom: 1rem;
 }
+p.quote {
+  color: #A0A0A0;
+}
 h1,
 h2,
 h3,
@@ -114,6 +117,7 @@ h1 {
 }
 h2 {
   font-size: 1.2rem;
+  line-height: 1.3;
   font-weight: 400;
   color: #D41E47;
 }
@@ -859,7 +863,7 @@ img.card-right {
 .card-color {
   background-color: #BDBE5A;
   color: #FFFFFF;
-  padding-top: 15px;
+  padding-top: 5px;
   padding-bottom: 25px;
   margin-top: 30px;
 }
