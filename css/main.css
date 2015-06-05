@@ -99,6 +99,9 @@ h1 {
   color: #BDBE5A;
   text-align: center;
 }
+.home h1 h2 {
+  padding-bottom: 1rem;
+}
 h2 {
   font-size: 1.2rem;
   font-weight: 400;
@@ -266,23 +269,58 @@ article ol li {
  */
 
 .jumbotron {
-  background-image: url(/img/molecules.png);
-  height: 375px;
-  max-width: 1864px;
-  margin-left: auto;
-  margin-right: auto;
+  background-image: url(/img/insight-building.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
   text-align: center;
+  margin-bottom: 0;
 }
-.jumbotron .jumbotron-header {
-  margin-top: 0px;
-  color: #BDBE5A;
+.jumbotron h1 {
+  color: #FFF;
+  font-size: 5rem;
+  font-weight: bold;
 }
-.jumbotron .jumbotron-text {
-  max-width: 830px;
+.jumbotron h2 {
+  color: #FFF;
+  font-size: 1.5 rem;
 }
-.jumbotron .jumbotron-text p {
-  font-size: 1.2rem;
-  line-height: 1.6;
+
+/*
+* Backround video embed
+*/
+#video_container {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+  opacity: 1;
+}
+#video_container #text {
+  position: absolute;
+  z-index: 6;
+  text-align: center;
+  opacity: 0;
+}
+#cover_all {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 5;
+  height: 100%;
+  width: 100%;
+}
+#main-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  backgroud-image: url(img/insight-building.jpg);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
 }
 
 /*
