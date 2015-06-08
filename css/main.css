@@ -168,6 +168,19 @@ article ol li {
 .btn-inverse:focus {
   color: #E7E7E7;
 }
+.btn-stroke {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: transparent;
+  color: #FFFFFF;
+  border: 2px solid #FFFFFF;
+  border-radius: .5rem;
+}
+.btn-stroke:hover,
+.btn-stroke:focus {
+  color: #3F4142;
+  background-color: #FFFFFF;
+}
 
 /*
  * Navbar
@@ -271,6 +284,7 @@ article ol li {
 .jumbotron {
   background-image: url(/img/insight-building.jpg);
   height: 500px;
+  margin-top: -20px;
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
@@ -279,12 +293,17 @@ article ol li {
 }
 .jumbotron h1 {
   color: #FFF;
-  font-size: 5rem;
-  font-weight: bold;
+  font-size: 3.5rem;
+  text-align: left;
 }
-.jumbotron h2 {
-  color: #FFF;
-  font-size: 1.5 rem;
+.and {
+  font-size: 2.5rem;
+}
+.jumbotron a {
+  font-size: 1.2rem;
+}
+.home h1 {
+  margin-top: 1rem;
 }
 
 /*
@@ -299,9 +318,9 @@ article ol li {
   opacity: 1;
 }
 #video_container #text {
-  position: absolute;
+  position: relative;
   z-index: 6;
-  text-align: center;
+  text-align: left;
   opacity: 0;
 }
 #cover_all {
