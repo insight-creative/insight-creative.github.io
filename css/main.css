@@ -175,6 +175,7 @@ article ol li {
   color: #FFFFFF;
   border: 2px solid #FFFFFF;
   border-radius: .5rem;
+  box-shadow: 3px 3px 8px rgba(8,8,8,.3);
 }
 .btn-stroke:hover,
 .btn-stroke:focus {
@@ -283,7 +284,7 @@ article ol li {
 
 .jumbotron {
   background-image: url(/img/insight-building.jpg);
-  height: 500px;
+  height: 500px !important;
   margin-top: -20px;
   background-repeat: no-repeat;
   background-position: 50% 50%;
@@ -293,14 +294,20 @@ article ol li {
 }
 .jumbotron h1 {
   color: #FFF;
-  font-size: 3.5rem;
+  font-size: 3.4rem;
   text-align: left;
+  text-shadow: 3px 3px 8px rgba(8,8,8,.3);
 }
 .and {
-  font-size: 2.5rem;
+  font-size: 2.4rem;
 }
 .jumbotron a {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
+  text-shadow: 3px 3px 8px rgba(8,8,8,.3);
+}
+.jumbotron a:hover,
+.jumbotron a:focus {
+  text-shadow: none;
 }
 .home h1 {
   margin-top: 1rem;
