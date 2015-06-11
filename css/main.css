@@ -99,7 +99,8 @@ h1 {
   color: #BDBE5A;
   text-align: center;
 }
-.home h1 h2 {
+.home h1 {
+  font-size: 2rem;
   padding-bottom: 1rem;
 }
 h2 {
@@ -294,12 +295,28 @@ article ol li {
 }
 .jumbotron h1 {
   color: #FFF;
-  font-size: 3.4rem;
+  font-size: 2.7rem;
   text-align: left;
   text-shadow: 3px 3px 8px rgba(8,8,8,.3);
 }
 .and {
-  font-size: 2.4rem;
+  font-size: 1.8rem;
+}
+@media (min-width: 450px) {
+  .jumbotron h1 {
+    font-size: 3rem;
+  }
+  .and {
+    font-size: 2rem;
+  }
+}
+@media (min-width: 768px) {
+  .jumbotron h1 {
+    font-size: 3.4rem;
+  }
+  .and {
+    font-size: 2.4rem;
+  }
 }
 .jumbotron a {
   font-size: 1.1rem;
@@ -329,6 +346,14 @@ article ol li {
   z-index: 6;
   text-align: left;
   opacity: 0;
+}
+#text {
+  left: 0 !important;
+}
+@media (min-width: 768px) {
+  #text {
+    padding-left: 30px;
+  }
 }
 #cover_all {
   position: absolute;
