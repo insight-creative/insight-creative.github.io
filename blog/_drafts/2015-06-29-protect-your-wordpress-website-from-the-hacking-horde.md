@@ -7,6 +7,8 @@ image: wordpress-zombies.jpg
 description: "There is a zombie horde out there in the digital world right now, constantly scratching at the door of your website, trying to get in and consume its delicate tasty bits."
 ---
 
+*This article was published in the June 2015 issue of [The Business News](http://www.thebusinessnewsonline.com).*
+
 ![Zombies](/img/wordpress-zombies.jpg)
 
 Zombies are relentless mindless horrors fixated on a single goal … consuming all life. They make for fun television, but if they existed, they would be an absolute nightmare. Fact is, there is a zombie horde out there in the digital world right now, constantly scratching at the door of your website, trying to get in and consume its delicate tasty bits. Hackers, bots, botnets, cross-site scripting, brute force attacks and more make up this nefarious group working day and night to gain access to your website. They aim only to take control, expand their efforts, or to inject questionable content that can’t be seen, but can significantly impact the credibility of your site. 
