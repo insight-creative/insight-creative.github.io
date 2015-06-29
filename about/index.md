@@ -13,3 +13,90 @@ Over the years we’ve found that the most effective and efficient approach to r
 *That’s the way we see it at Insight.*
 
 [Meet the people](/staff-bios "Staff Bios") who make a difference at Insight.
+
+<hr>
+
+## Client Experience
+<div class="row no-padding">
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-3">
+    <div class="card">
+      <img src="holder.js/100%x150/text:client logo">
+    </div>
+  </div>
+</div>
+<br>
