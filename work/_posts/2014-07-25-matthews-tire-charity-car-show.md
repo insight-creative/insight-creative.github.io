@@ -10,7 +10,6 @@ image1: "mustang-1.jpg"
 image2: "mustang-2.jpg"
 image3: "mustang-3.jpg"
 image4: "mustang-4.jpg"
-featured: true
 ---
 
 The Matthews Tire Charity Car Show is an annual fundraising event benefitting Make-A-Wish Wisconsin. Insight took photos of a classic 1968 Ford Mustang to help with promotional materials for the show.
