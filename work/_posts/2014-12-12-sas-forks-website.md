@@ -8,6 +8,7 @@ tags:
 - Web
 card: summary large image
 image: sas-forks-website-1.jpg
+featured: true
 ---
 
 SAS Forks is an auto salvage equipment manufacturer. Insight Creative collaborated with SAS Forks to create a new website to communicate their unique values and capabilities in the industry.
