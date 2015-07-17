@@ -4,7 +4,7 @@ title: Fueling My Addiction
 author: Stacy Allen
 card: summary large image
 image: fueling-my-addiction.jpg
-description: "There is a zombie horde out there in the digital world right now, constantly scratching at the door of your website, trying to get in and consume its delicate tasty bits."
+description: "Sometimes we focus too much on what we can give away, rather than simply making a customer more comfortable, satisfied or happier."
 ---
 
 ![Fueling My Addiction](/img/fueling-my-addiction.jpg)
