@@ -98,15 +98,13 @@ Services include: Concept development, script writing, storyboarding, on-locatio
 
 ---
 
-## Website Design and Development
+## Web Design and Development
 
 ### Intriguing. Animated. Integrated.
 
 Our interactive development capabilities bring you quickly to the forefront of current marketing practices. Websites designed by Insight load quickly, are user-friendly, and bring a contemporary look and feel to your online presence.
 
 Services include: Website development, hosting, graphics, animation, banners, links, maintenance, informational and training CDs and DVDs, email marketing and online research and surveying.
-
-Learn more about the [process](/services/website-design.html) we use to develop and design a website.
 
 ---
 
