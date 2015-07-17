@@ -7,6 +7,8 @@ image: wordpress-zombies.jpg
 description: "There is a zombie horde out there in the digital world right now, constantly scratching at the door of your website, trying to get in and consume its delicate tasty bits."
 ---
 
+*This article was published in the June 29, 2015 issue of [The Business News](http://www.thebusinessnewsonline.com).*
+
 ![Zombies](/img/wordpress-zombies.jpg)
 
 Zombies are relentless mindless horrors fixated on a single goal … consuming all life. They make for fun television, but if they existed, they would be an absolute nightmare. Fact is, there is a zombie horde out there in the digital world right now, constantly scratching at the door of your website, trying to get in and consume its delicate tasty bits. Hackers, bots, botnets, cross-site scripting, brute force attacks and more make up this nefarious group working day and night to gain access to your website. They aim only to take control, expand their efforts, or to inject questionable content that can’t be seen, but can significantly impact the credibility of your site. 
@@ -33,7 +35,7 @@ Every Wordpress installation uses a database. That database is usually the targe
 
 In the past, security was generally a concern for e-commerce sites and those with sensitive information, such as online banking. When you see the little lock icon next to URL bar, you know that you’re able to log in securely.  
 
-An SSL Certificate makes the connection between your computer and the server of the website you’re logging into secure, so nothing can snoop around when you hit the submit button and capture your username/password. SSL certificates cost $99-$500 annually, depending on your required level of security. An added benefit, Google now puts preference on websites that have SSL certificates over those that don’t.
+An SSL certificate makes the connection between your computer and the server of the website you’re logging into secure, so nothing can snoop around when you hit the submit button and capture your username/password. SSL certificates cost $99-$500 annually, depending on your required level of security. An added benefit, Google now puts preference on websites that have SSL certificates over those that don’t.
   
 ## Strength in Numbers
 
@@ -55,4 +57,4 @@ Just as it’s not good to go at it alone against zombies, it’s good to surrou
   
 Wordpress is often met by IT departments with furrowed brows and spiteful comments on its security, but if we take the time and effort to effectively lock the doors on the gaps used to compromise our websites, Wordpress is as reliable as any other platform. 
 
-Just like in the movies and TV shows, it’s usually when the humans take time to rest, close their eyes, or let their guard down that the zombie horde makes them their lunch. The same is true with a relentless swarm of hackers and bots that are always clawing at your digital doorstep to get at your information. There is no such thing as a totally secure site – but by taking the time to adhere to the steps outlined above, you will certainly be much more prepared and protected to fend off the enemy at your gates. 
+Just like in the movies and TV shows, it’s usually when the humans take time to rest, close their eyes, or let their guard down that the zombie horde makes them their lunch. The same is true with a relentless swarm of hackers and bots that are always clawing at your digital doorstep to get at your information. There is no such thing as a totally secure site, but by taking the time to adhere to the steps outlined above, you will certainly be much more prepared and protected to fend off the enemy at your gates. 

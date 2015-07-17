@@ -11,8 +11,6 @@ image1: ils-logo-2.jpg
 image2: omniview-logo-2.jpg
 image3: ils-logo-3.jpg
 image4: omniview-logo-4.jpg
-
-featured: true
 ---
 
 Integrated Legacy Solutions (ILS) is a software provider specializing in legacy data conversion and migration. Insight developed the geometric, multicolored ILS logo, signifying data migration, to be used as a standalone or in conjunction with their software product logo, Omniview. The Omniview logo, emulating a camera aperture to convey the product’s viewing capabilities, was designed to stand alone, or to complement ILS’s parent company logo.  
