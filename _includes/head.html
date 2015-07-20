@@ -13,13 +13,14 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/img/apple-touch-icon-72x72-precomposed.png">
     <!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
     <link rel="apple-touch-icon-precomposed" href="/img/apple-touch-icon-precomposed.png">
-    
+
     <link href="http://insightcreative.com/feed.xml" rel="alternate" type="application/atom+xml">
     <title>{{ page.title }} | Insight Creative</title>
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -31,7 +32,7 @@
     <!-- Typekit -->
     <script type="text/javascript" src="//use.typekit.net/lba2uki.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    
+
     <!-- Google Analytics -->
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -43,8 +44,8 @@
       ga('send', 'pageview');
 
     </script>
-    
-    <!-- Twitter Card Info --> 
+
+    <!-- Twitter Card Info -->
     {% if page.card %}
       {% if page.card == "summary" %}
       <meta name="twitter:card" content="summary">
@@ -73,7 +74,7 @@
       <meta name="twitter:image:src" content="{{ site.url }}/img/insight-creative-logo.gif">
       {% endif %}
     {% endif %}
-    
+
     <!-- Open Graph -->
     <meta property="og:title" content="{{ page.title }}" />
     {% if page.description %}

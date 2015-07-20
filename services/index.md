@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services
-redirect_from: 
+redirect_from:
 - /media/
 - /social-media-pr/
 - /branding/
@@ -80,7 +80,7 @@ Although the tools are constantly evolving, we believe the fundamentals of good 
 
 ## Social Media
 
-### Strategic. Conversational. Engaging. 
+### Strategic. Conversational. Engaging.
 
 The social media landscape is changing at a rapid pace. Let us keep up with the latest advancements; we’ll work with you to determine the strategies, tactics and trends that will best attract and engage your customers. We’ll outline measurable objectives and integrate a strong social media program with your traditional marketing efforts.
 
@@ -98,7 +98,7 @@ Services include: Concept development, script writing, storyboarding, on-locatio
 
 ---
 
-## Web Development
+## Web Design and Development
 
 ### Intriguing. Animated. Integrated.
 
