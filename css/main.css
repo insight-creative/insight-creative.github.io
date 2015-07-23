@@ -303,7 +303,7 @@ article ol li {
  */
 
 .jumbotron {
-  background: transparent;
+  background-image: url('/img/first-frame.jpg');
   height: 500px !important;
   margin-top: -20px;
   background-repeat: no-repeat;
