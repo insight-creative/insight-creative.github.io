@@ -18,84 +18,64 @@ Over the years we’ve found that the most effective and efficient approach to r
 
 ## Client Experience
 <div class="row no-padding">
-  <div class="col-xs-6 col-sm-3">
+  <div class="col-xs-6 col-sm-4">
     <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
+      <img src="/img/gray_affinity.jpg">
     </div>
   </div>
-  <div class="col-xs-6 col-sm-3">
+  <div class="col-xs-6 col-sm-4">
     <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
+      <img src="/img/gray_bol.jpg">
     </div>
   </div>
-  <div class="col-xs-6 col-sm-3">
+  <div class="col-xs-6 col-sm-4">
     <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
+      <img src="/img/gray_byoc.jpg">
     </div>
   </div>
-  <div class="col-xs-6 col-sm-3">
+  <div class="col-xs-6 col-sm-4">
     <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
+      <img src="/img/gray_civic.jpg">
     </div>
   </div>
-  <div class="col-xs-6 col-sm-3">
+  <div class="col-xs-6 col-sm-4">
     <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
+      <img src="/img/gray_domino.jpg">
     </div>
   </div>
-  <div class="col-xs-6 col-sm-3">
+  <div class="col-xs-6 col-sm-4">
     <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
+      <img src="/img/gray_doorcd.jpg">
     </div>
   </div>
-  <div class="col-xs-6 col-sm-3">
+  <div class="col-xs-6 col-sm-4">
     <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
+      <img src="/img/gray_dpw.jpg">
     </div>
   </div>
-  <div class="col-xs-6 col-sm-3">
+  <div class="col-xs-6 col-sm-4">
     <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
+      <img src="/img/gray_goodwill.jpg">
     </div>
   </div>
-  <div class="col-xs-6 col-sm-3">
+  <div class="col-xs-6 col-sm-4">
     <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
+      <img src="/img/gray_heid.jpg">
     </div>
   </div>
-  <div class="col-xs-6 col-sm-3">
+  <div class="col-xs-6 col-sm-4">
     <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
+      <img src="/img/gray_matthews.jpg">
     </div>
   </div>
-  <div class="col-xs-6 col-sm-3">
+  <div class="col-xs-6 col-sm-4">
     <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
+      <img src="/img/gray_p44.jpg">
     </div>
   </div>
-  <div class="col-xs-6 col-sm-3">
+  <div class="col-xs-6 col-sm-4">
     <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
-    </div>
-  </div>
-  <div class="col-xs-6 col-sm-3">
-    <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
-    </div>
-  </div>
-  <div class="col-xs-6 col-sm-3">
-    <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
-    </div>
-  </div>
-  <div class="col-xs-6 col-sm-3">
-    <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
-    </div>
-  </div>
-  <div class="col-xs-6 col-sm-3">
-    <div class="card">
-      <img src="holder.js/100%x150/text:client logo">
+      <img src="/img/gray_wbs.jpg">
     </div>
   </div>
 </div>
