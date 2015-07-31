@@ -3,8 +3,8 @@ var containerHeight = 0;
 
 fullScreenVideo = {
     name: 'fullScreenVideo',
-    backgroundVideo: '2sa3pv40z2',
-    backgroundVideoDiv: '#wistia_2sa3pv40z2',
+    backgroundVideo: 'kr5kajxq3j',
+    backgroundVideoDiv: '#wistia_kr5kajxq3j',
 
     embedVideo: function() {
         var videoOptions = {};

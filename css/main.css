@@ -192,15 +192,26 @@ article ol li {
   padding-top: 10px;
   padding-bottom: 10px;
   background-color: transparent;
-  color: #FFFFFF;
-  border: 2px solid #FFFFFF;
+  color: #3F4142;
+  border: 2px solid #3F4142;
   border-radius: .5rem;
-  box-shadow: 3px 3px 8px rgba(8,8,8,.3);
 }
 .btn-stroke:hover,
 .btn-stroke:focus {
-  color: #3F4142;
-  background-color: #FFFFFF;
+  color: #FFF;
+  background-color: #3F4142;
+}
+@media (min-width: 768px) {
+  .btn-stroke {
+    color: #FFF;
+    border: 2px solid #FFF;
+    box-shadow: 3px 3px 8px rgba(8,8,8,.3);
+  }
+  .btn-stroke:hover,
+  .btn-stroke:focus {
+    color: #3F4142;
+    background-color: #FFFFFF;
+  }
 }
 
 /*
@@ -301,10 +312,9 @@ article ol li {
 /*
  * Jumbotron
  */
-
 .jumbotron {
-  background-image: url(/img/insight-building.jpg);
-  height: 500px !important;
+  background-image: url('/img/molecules.png');
+  height: 400px !important;
   margin-top: -20px;
   background-repeat: no-repeat;
   background-position: 50% 50%;
@@ -313,13 +323,24 @@ article ol li {
   margin-bottom: 0;
 }
 .jumbotron h1 {
-  color: #FFF;
+  color: #3F4142;
   font-size: 2.7rem;
   text-align: left;
-  text-shadow: 3px 3px 8px rgba(8,8,8,.3);
 }
 .and {
   font-size: 1.8rem;
+}
+.jumbotron a {
+  font-size: 1.1rem;
+  text-shadow: none;
+  z-index: 4;
+}
+.jumbotron a:hover,
+.jumbotron a:focus {
+  text-shadow: none;
+}
+.home h1 {
+  margin-top: 1rem;
 }
 @media (min-width: 450px) {
   .jumbotron h1 {
@@ -330,24 +351,23 @@ article ol li {
   }
 }
 @media (min-width: 768px) {
+  .jumbotron {
+    background-image: url('/img/first-frame.jpg');
+    height: 500px !important;
+  }
   .jumbotron h1 {
     font-size: 3.4rem;
+    color: #FFF;
+    text-shadow: 3px 3px 8px rgba(8,8,8,.3);
   }
   .and {
     font-size: 2.4rem;
   }
+  .jumbotron a {
+    text-shadow: 3px 3px 8px rgba(8,8,8,.3);
+  }
 }
-.jumbotron a {
-  font-size: 1.1rem;
-  text-shadow: 3px 3px 8px rgba(8,8,8,.3);
-}
-.jumbotron a:hover,
-.jumbotron a:focus {
-  text-shadow: none;
-}
-.home h1 {
-  margin-top: 1rem;
-}
+
 
 /*
 * Backround video embed
@@ -368,12 +388,9 @@ article ol li {
 }
 #text {
   left: 0 !important;
+  z-index: 7;
 }
-@media (min-width: 768px) {
-  #text {
-    padding-left: 30px;
-  }
-}
+
 #cover_all {
   position: absolute;
   top: 0;
@@ -387,67 +404,25 @@ article ol li {
   top: 0;
   left: 0;
   z-index: 3;
-  backgroud-image: url(img/insight-building.jpg);
+  background-image: url('/img/molecules.png');
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
 }
-
-/*
- * CSS Shapes
- */
- #chevron {
-   position: relative;
-   text-align: center;
-   padding: 12px;
-   height: 120px;
-   width: 100%;
-   margin-bottom: -60px;
- }
- #chevron:before {
-   content: '';
-   position: absolute;
-   top: -30px;
-   left: 0;
-   height: 100%;
-   width: 100%;
-   z-index: 3;
-   background: #FFFFFF;
-   -webkit-transform: skew(0deg, 2deg);
-   -moz-transform: skew(0deg, 2deg);
-   -ms-transform: skew(0deg, 2deg);
-   -o-transform: skew(0deg, 2deg);
-   transform: skew(0deg, 2deg);
- }
- #chevron:after {
-   content: '';
-   position: absolute;
-   z-index: 2;
-   top: -40px;
-   right: 0;
-   height: 99%;
-   width: 100%;
-   background: #FFFFFF;
-   -webkit-transform: skew(0deg, -5deg);
-   -moz-transform: skew(0deg, -5deg);
-   -ms-transform: skew(0deg, -5deg);
-   -o-transform: skew(0deg, -5deg);
-   transform: skew(0deg, -5deg);
- }​
- #chevron.shadow {
-
- }
- #chevron.shadow:before {
-   box-shadow: 0px -5px 6px rgba(8,8,8,.3);
-   top: -90px;
-   z-index: 1;
- }
- #chevron.shadow:after {
-   box-shadow: 0px -5px 6px rgba(8,8,8,.3);
-   top: -100px;
-   z-index: 1;
- }
-
+.backgroundVideo {
+  display: none;
+}
+@media (min-width: 768px) {
+  #text {
+    padding-left: 30px;
+  }
+  #main-image {
+    background-image: url('/img/first-frame.jpg');
+  }
+  .backgroundVideo {
+    display: inline;
+  }
+}
 
 /*
  * Thumbnail Gallery
