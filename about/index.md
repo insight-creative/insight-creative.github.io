@@ -30,6 +30,11 @@ Over the years we’ve found that the most effective and efficient approach to r
   </div>
   <div class="col-xs-6 col-sm-4">
     <div class="card">
+      <img src="/img/gray_bchba.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
       <img src="/img/gray_byoc.jpg">
     </div>
   </div>
@@ -55,6 +60,16 @@ Over the years we’ve found that the most effective and efficient approach to r
   </div>
   <div class="col-xs-6 col-sm-4">
     <div class="card">
+      <img src="/img/gray_fvso.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_goldenhouse.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
       <img src="/img/gray_goodwill.jpg">
     </div>
   </div>
@@ -70,12 +85,12 @@ Over the years we’ve found that the most effective and efficient approach to r
   </div>
   <div class="col-xs-6 col-sm-4">
     <div class="card">
-      <img src="/img/gray_p44.jpg">
+      <img src="/img/gray_ministry.jpg">
     </div>
   </div>
   <div class="col-xs-6 col-sm-4">
     <div class="card">
-      <img src="/img/gray_wbs.jpg">
+      <img src="/img/gray_vans.jpg">
     </div>
   </div>
 </div>
