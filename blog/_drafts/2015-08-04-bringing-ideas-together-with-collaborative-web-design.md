@@ -4,7 +4,7 @@ title: Bringing Ideas Together With Collaborative Web Design
 author: Zane Statz
 card: summary large image
 image: "collaborative-web-design.jpg"
-description:
+description: ""
 ---
 
 ![Collaborative Web Design](/img/collaborative-web-design.jpg)
