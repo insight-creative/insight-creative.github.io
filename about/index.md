@@ -94,4 +94,4 @@ Over the years we’ve found that the most effective and efficient approach to r
     </div>
   </div>
 </div>
-<br>
+<p class="text-center">And many more...</p>
