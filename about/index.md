@@ -13,3 +13,85 @@ Over the years we’ve found that the most effective and efficient approach to r
 *That’s the way we see it at Insight.*
 
 [Meet the people](/staff-bios "Staff Bios") who make a difference at Insight.
+
+<hr>
+
+## Client Experience
+<div class="row no-padding">
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_affinity.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_bol.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_bchba.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_byoc.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_civic.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_domino.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_dpw.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_fvso.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_goldenhouse.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_goodwill.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_matthews.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_ministry.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_openstreets.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_packer.jpg">
+    </div>
+  </div>
+  <div class="col-xs-6 col-sm-4">
+    <div class="card">
+      <img src="/img/gray_vans.jpg">
+    </div>
+  </div>
+</div>
+<p class="text-center">And many more...</p>

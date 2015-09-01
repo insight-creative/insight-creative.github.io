@@ -106,6 +106,8 @@ Our interactive development capabilities bring you quickly to the forefront of c
 
 Services include: Website development, hosting, graphics, animation, banners, links, maintenance, informational and training CDs and DVDs, email marketing and online research and surveying.
 
+Learn more about the [process](/services/website-design.html) we use to develop and design a website.
+
 ---
 
 ## Learn more
