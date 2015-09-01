@@ -2,8 +2,8 @@
 layout: project
 title: "Matthews Tire Charity Car\_Show"
 client: Matthews Tire
-thumbnail: "matthews-car-show-thumbnail.jpg"
-tags: 
+thumbnail: "matthews-car-show-thumbnail2.jpg"
+tags:
   - Photography
 card: gallery
 image1: "mustang-1.jpg"
