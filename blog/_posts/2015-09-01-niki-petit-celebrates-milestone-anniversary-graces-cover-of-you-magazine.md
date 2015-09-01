@@ -3,7 +3,7 @@ layout: post
 title: Niki Petit Celebrates Milestone Anniversary, Graces Cover of <em>You</em> magazine
 author: Emily Morehart
 tag: news
-card: summary
+card: summary image
 image: nikiyoumagazine.jpg
 description: "Insight Creative, Inc. Director of Business Development Niki Petit is having a great year. Not only did she just return from leading over 40 teens on a mission trip in rural Tennessee, she was recently named one of <em>You</em> magazine’s “20 Women to Know” and now she is celebrating 10 years of employment at the job loves."
 ---
