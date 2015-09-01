@@ -2,7 +2,7 @@
 layout: project
 title: Matthews Tire Branding TV
 client: Matthews Tire
-thumbnail: "matthews-tire-branding-tv-thumbnail.jpg"
+thumbnail: "matthews-tire-branding-tv-thumbnail2.jpg"
 tags:
   - Video
 card: summary

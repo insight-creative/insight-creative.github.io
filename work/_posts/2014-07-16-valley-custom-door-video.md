@@ -2,7 +2,7 @@
 layout: project
 title: Valley Custom Door Video
 client: Valley Custom Door
-thumbnail: "valley-custom-door-video-thumbnail.jpg"
+thumbnail: "valley-custom-door-video-thumbnail2.jpg"
 tags:
   - Video
 card: summary
