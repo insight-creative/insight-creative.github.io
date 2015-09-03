@@ -2,6 +2,7 @@
 layout: post
 title: The Changing Definition of SEO
 author: Bart Raboin
+tag: blog
 ---
 
 For most of the Internet era, Search Engine Optimization (SEO) has been a rather technical process—something that involved your copywriter and your web developer to assign the proper meta tags within the site code, as well as add the right number of keywords/phrases into the content of your web page.

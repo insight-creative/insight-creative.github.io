@@ -2,6 +2,7 @@
 layout: post
 title: HD Retina Computer Displays and 4k/8k TVs are Here!
 author: Jay Bauer
+tag: blog
 card: summary large image
 image: SonyMasteredIn4K.jpg
 description: High-definition retina computer displays and 4k televisions have started to infiltrate the market.

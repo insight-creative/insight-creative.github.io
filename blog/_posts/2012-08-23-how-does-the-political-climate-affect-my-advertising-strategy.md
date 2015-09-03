@@ -2,6 +2,7 @@
 layout: post
 title: How Does the Political Climate Affect My Advertising Strategy?
 author: Niki Petit
+tag: blog
 ---
 
 We’ve all experienced it and lately more than ever … media burnout from all the negative political ads.  People all around the country turn off their TVs and tune out of their favorite radio station when the political ads dominate the airwaves. Wisconsinites have seen and heard more than their fair share of political ads this year and more is yet to come. With another presidential election on the horizon, the question marketers are asking is, “Should I advertise in the middle of a political season and if so, how can I make myself stand out?”

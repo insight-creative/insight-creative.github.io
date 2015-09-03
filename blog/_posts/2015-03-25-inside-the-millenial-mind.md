@@ -2,6 +2,7 @@
 layout: post
 title: Inside the Millenial Mind
 author: Jen Haas
+tag: blog
 card: summary large image
 image: millenials.jpg
 description: The average millennial has access to 7.1 electronic devices and consumes content across those multiple devices.
@@ -21,5 +22,4 @@ As we all should know, we cannot accurately and fairly label an entire demograph
 
 One of the most important facts to consider:
 
-**40% of survey respondents between the ages of 18-24 said brands don’t take young people seriously enough.** Why is this important? Because according to *Adweek* there are 74.3 million millennials in the U.S. with purchasing power of $170 billion. And like it or not, this generation may become your target audience in the future … or already is now. 
-
+**40% of survey respondents between the ages of 18-24 said brands don’t take young people seriously enough.** Why is this important? Because according to *Adweek* there are 74.3 million millennials in the U.S. with purchasing power of $170 billion. And like it or not, this generation may become your target audience in the future … or already is now.

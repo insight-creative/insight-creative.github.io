@@ -2,8 +2,9 @@
 layout: post
 title: Insight Creative Competes in Bellin Run Corporate Challenge
 author: Emily Morehart
-tag: news
-
+tag:
+  - news
+  - blog
 card: summary large image
 image: bellin-run-2014.jpg
 ---
@@ -12,6 +13,6 @@ Insight Creative, Inc. joined several local businesses to compete in the 2014 [B
 
 ![2014 Insight Creative Bellin Run](/img/bellin-run-2014.jpg)
 
-Bellin 10K Run Participants: Lexi Hermes, Molly Setzer, Liz Van Asten, Andrea Parins, Ryan Morehart, Niki Petit, Lisa Hermes and Emily Morehart. 
+Bellin 10K Run Participants: Lexi Hermes, Molly Setzer, Liz Van Asten, Andrea Parins, Ryan Morehart, Niki Petit, Lisa Hermes and Emily Morehart.
 
 “Yes You Can” Corporate Challenge t-shirt designed by Insight Creative Designer/Web Programmer Zane Statz. For more race day photos, visit our [Facebook page](https://www.facebook.com/insightcreativeinc).

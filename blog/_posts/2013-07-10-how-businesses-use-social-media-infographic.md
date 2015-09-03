@@ -2,6 +2,7 @@
 layout: post
 title: How Businesses Use Social Media [Infographic]
 author: Andrea Parins
+tag: blog
 ---
 
 Whether your business is already using social media, just beginning or not quite ready, this infographic from [Top Web Design Schools](http://www.topwebdesignschools.org/selling-social/) shows how, and why, businesses use different social networks to increase brand awareness and drive traffic to your website.

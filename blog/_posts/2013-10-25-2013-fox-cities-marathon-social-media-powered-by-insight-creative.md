@@ -2,8 +2,9 @@
 layout: post
 title:  2013 Fox Cities Marathon Social Media Powered by Insight Creative
 author: Andrea Parins
-tag: news
-
+tag:
+  - news
+  - blog
 card: summary
 image: Social-Media-HQ-Insight-Creative.jpg
 ---

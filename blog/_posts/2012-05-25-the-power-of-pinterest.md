@@ -2,6 +2,7 @@
 layout: post
 title: The Power of Pinterest
 author: Emily Morehart
+tag: blog
 ---
 
 I recently attended a seminar on [Pinterest.com](http://www.pinterest.com/), the photo-sharing social network that has grown at a record-breaking pace to become the third largest social site behind Facebook and Twitter. Going into the seminar, I considered myself a “veteran pinner” having been invited to the site in early 2011 before the hype really hit the masses. Because I’d already put in many hours of pinning recipes, fitness tips, home decor, and DIY projects, I felt quite familiar with the functionality of the site from a user’s perspective. So naturally I thought, “I already know how to use Pinterest, and the business applications seem obvious” ([*Better Homes & Gardens*](http://www.pinterest.com/bhg/) is a great example of an early adopter). Admittedly, I wasn’t totally convinced businesses belonged on Pinterest.

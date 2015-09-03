@@ -2,6 +2,7 @@
 layout: post
 title: Social Media Engagement Key for Small Businesses
 author: Shelly Hendricks
+tag: blog
 ---
 
 It is constantly emphasized in marketing that the key to social media success is engagement. However, many small businesses don’t know where to begin or how to achieve successful social media engagement beyond getting “likes” on Facebook. This *[USA Today article](http://www.usatoday.com/story/money/business/2013/05/28/how-to-use-facebook-for-small-business/2346555/)* and video below look at Facebook specifically and how to make sure you’re able to be found on the largest social network and become more engaging. What techniques have you used with your social media pages to involve and engage your fans?

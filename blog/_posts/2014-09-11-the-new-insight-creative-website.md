@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Kevin McGillivray
+tag: blog
 title: "The New Insight Creative Website"
 card: summary large image
 image: insight-website.jpg
@@ -11,7 +12,7 @@ description: "We just finished a major project at Insight Creative: a new websit
 
 We just finished a major project at Insight Creative: a new website for our company.
 
-If you're reading this, you're probably looking at it (unless you're really cool and are reading it from the [RSS feed](/feed.xml) or are subscribed to the [newsletter](http://visitor.r20.constantcontact.com/manage/optin/ea?v=001nxNUBQroFr26-H-ECAwD8pmvSYh8P1LCZNXEOEwN0onqjNisPk-uCnU-ZXGKJe2QHb8cUJGLi2E%3D)). 
+If you're reading this, you're probably looking at it (unless you're really cool and are reading it from the [RSS feed](/feed.xml) or are subscribed to the [newsletter](http://visitor.r20.constantcontact.com/manage/optin/ea?v=001nxNUBQroFr26-H-ECAwD8pmvSYh8P1LCZNXEOEwN0onqjNisPk-uCnU-ZXGKJe2QHb8cUJGLi2E%3D)).
 
 In my experience, designing for yourself is a uniquely difficult task compared to designing for a client. I think it's hard to get a clear perspective on the project and hard to decide what to do because you're so close to it. This project had those difficulties, but it was also very fun. I think we're all very happy with the results and learned a lot from the process. Here are a few highlights of the design.
 

@@ -2,6 +2,7 @@
 layout: post
 title:  Do You Have to Pay to Play on Facebook?
 author: Andrea Parins
+tag: blog
 redirect_from: /blog/2014/03/do-you-have-to-pay-to-play-on-facebook/
 card: summary
 ---

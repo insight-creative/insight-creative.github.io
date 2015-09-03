@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Emily Morehart
+tag: blog
 title: "The Value of Shock: Advertise at Your Own Risk"
 excerpt: I recently watched a discussion about VH1’s controversial anti-bullying ad titled, “I will survive.” The idea that “today’s nerds will be tomorrow’s bosses” was clever enough, but left many with a negative feeling as the TV ad continued to detail how the kids being bullied now, would eventually grow up, gain success and professionally bully their peers as adults. This is a mild example of advertising that toes the line of controversy, but still prompted the question… did they take it too far? And if so, what’s the value in doing so?
 card: summary large image

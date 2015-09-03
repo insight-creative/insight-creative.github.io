@@ -2,8 +2,9 @@
 layout: post
 title:  Ira the Insight Elf
 author: Andrea Parins
-tag: news
-
+tag:
+  - news
+  - blog
 card: summary
 image: ira.jpg
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Bringing App Insight to Women Magazine
 author: Emily Morehart
+tag: blog
 redirect_from: /blog/2014/01/bringing-app-insight-to-women-magazine/
 card: summary
 ---

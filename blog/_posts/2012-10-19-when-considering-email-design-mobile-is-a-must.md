@@ -2,6 +2,7 @@
 layout: post
 title: When Considering Email Design Mobile is a Must
 author: Bart Raboin
+tag: blog
 ---
 
 Do you regularly check your email using a smartphone? If you do, you’re not alone. The number of people using a mobile Internet device to view their email continues to rise at a staggering pace. According to [ourmobileplanet.com](http://think.withgoogle.com/mobileplanet/en/), 75% of smartphone owners read or send email on their device.

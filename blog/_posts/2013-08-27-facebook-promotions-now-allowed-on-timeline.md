@@ -2,6 +2,7 @@
 layout: post
 title: Facebook Promotions Now Allowed on Timeline
 author: Andrea Parins
+tag: blog
 ---
 
 [Facebook](https://www.facebook.com/business/news/page-promotions-terms) announced that third-party apps are no longer required for a brand page to administer a promotion, giveaway or sweepstakes. Now promotions can be hosted on a business’ timeline, in addition to third-party apps.

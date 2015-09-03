@@ -2,6 +2,7 @@
 layout: post
 title:  A Client's Role in Successful Design
 author: Angela Schumacher
+tag: blog
 redirect_from: /blog/2013/12/a-clients-role-in-successful-design/
 card: summary
 image: bull-by-the-horns.jpg

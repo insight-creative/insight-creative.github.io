@@ -2,6 +2,7 @@
 layout: post
 title:  Five Ways to Create a Creative Workplace
 author: Kevin McGillivray
+tag: blog
 redirect_from: /blog/2013/11/five-ways-to-create-a-creative-workplace/
 card: summary
 image: creative-workplace.jpg

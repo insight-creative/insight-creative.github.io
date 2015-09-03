@@ -2,8 +2,9 @@
 layout: post
 title: Timber Rattlers Game with Insight Creative
 author: Andrea Parins
-tag: news
-
+tag:
+  - news
+  - blog
 card: summary
 image: Insight_Creative_Timber_Rattlers.jpg
 ---

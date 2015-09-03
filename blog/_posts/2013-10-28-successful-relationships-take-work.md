@@ -2,6 +2,7 @@
 layout: post
 title:  Successful Relationships Take Work
 author: Stacy Allen
+tag: blog
 ---
 
 Recently we had a client consider ending their social media retainer with the agency. Thankfully this doesn’t happen often, but their reason, “We haven’t seen any sales come from our Facebook page,” was a wake-up call that we may have done a less-than-stellar job of explaining brand building—and the role of social media—to them. And so, in a nutshell (because, apparently, it warrants repeating), here is my take on how and why a brand needs a strong social media effort …

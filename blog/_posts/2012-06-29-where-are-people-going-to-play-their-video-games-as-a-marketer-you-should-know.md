@@ -2,6 +2,7 @@
 layout: post
 title: Where are People Going to Play their Video Games? As a Marketer, you Should Know
 author: Jay Bauer
+tag: blog
 ---
 
 We all used to play our video games at home on our TV through our PC or home video game console. Not anymore. Now there are many more choices to get your video game fix. With mobile phones and portable devices like iPads and Kindles portable gaming has really taken off. U.S. revenue for games on iPhones and Android devices topped a billion dollars in 2011. It was only $500,000 in 2009* – 100% growth in just two years. Conversely home video game console sales have been declining for the last four years. Part of this is because these consoles have been out a long time and are coming to the end of their cycles. But the main reason is because of the rise of mobile and social gaming.

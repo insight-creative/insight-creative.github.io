@@ -2,6 +2,7 @@
 layout: post
 title: Generating Sales-Ready Leads With Inbound Marketing
 author: Bart Raboin
+tag: blog
 ---
 
 As part of today’s information age, building trust with prospective clients and customers is an enormous challenge. Your customers have the ability to educate themselves on their options long before they decide to walk through your door. The key is presenting yourself as an expert resource with relevant information that your prospect finds value in.

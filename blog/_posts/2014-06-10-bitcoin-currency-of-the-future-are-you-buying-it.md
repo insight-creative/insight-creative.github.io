@@ -2,6 +2,7 @@
 layout: post
 title: "Bitcoin: Currency of the Future … Are You Buying It?"
 author: Zane Statz
+tag: blog
 redirect_from: /blog/2014/06/bitcoin-currency-of-the-future-are-you-buying-it/
 card: summary
 ---

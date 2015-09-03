@@ -2,6 +2,7 @@
 layout: post
 title:  Guinness Brews Branding Success
 author: Emily Morehart
+tag: blog
 ---
 
 Earlier this year, I embarked on a 10-day vacation to Ireland where I indulged in all the famed Irish acts of tourism … I ate the traditional “fish and chips,” explored medieval castles, and visited the breathtaking Cliffs of Moher. The green countryside and historic monuments were truly remarkable. But to me, the best part of our venture was visiting in the nation’s capitol city, Dublin, and touring the [Guinness Brewery](http://www.guinness-storehouse.com/en/Index.aspx). While I certainly enjoyed the view and brew as we bellied up to the famous “Gravity Bar,” the marketing nerd in me appreciated a different part of the tour much more. An entire floor of the impressive seven-story facility was devoted solely to the development of the award-winning Guinness brand!

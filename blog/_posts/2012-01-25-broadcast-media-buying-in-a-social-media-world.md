@@ -2,6 +2,7 @@
 layout: post
 title: Broadcast Media Buying in a Social Media World
 author: Niki Petit
+tag: blog
 ---
 
 Buying broadcast media used to be fairly straightforward. The main factors would be reach, frequency, GRPs and CPP. But the onset of social media has changed the media landscape and no one (or nothing) is exempt. Consumer expectations have changed. Potential buyers want to interact with the product, research the product and make an informed decision. In order to provide them with the information they need, you often need to “start the conversation” in social media venues — that’s also becoming more important in your traditional campaigns.

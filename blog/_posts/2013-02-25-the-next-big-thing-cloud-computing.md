@@ -2,6 +2,7 @@
 layout: post
 title: "The Next Big Thing: Cloud Computing"
 author: Jay Bauer
+tag: blog
 ---
 
 You’ve probably heard of [iCloud by Apple](http://www.apple.com/icloud/) where you can upload music and photos to the “cloud” allowing you to view and use all those files from anywhere and on any device. Cloud computing uses the same concept, but now everything you use at work and at home will be on “the cloud.” That includes your software and all your files.

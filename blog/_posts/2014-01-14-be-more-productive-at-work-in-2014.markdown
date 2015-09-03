@@ -2,6 +2,7 @@
 layout: post
 title:  Be More Productive at Work in 2014
 author: Emily Morehart
+tag: blog
 redirect_from: /blog/2014/01/be-more-productive-at-work-in-2014/
 card: summary
 ---

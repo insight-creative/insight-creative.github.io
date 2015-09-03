@@ -2,6 +2,7 @@
 layout: post
 title:  Winning Super Bowl Ads
 author: Emily Morehart
+tag: blog
 redirect_from: /blog/2014/02/winning-super-bowl-ads/
 card: summary
 ---

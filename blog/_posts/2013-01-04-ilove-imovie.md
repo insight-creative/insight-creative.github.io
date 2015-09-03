@@ -2,6 +2,7 @@
 layout: post
 title: iLove iMovie
 author: Molly Setzer
+tag: blog
 ---
 
 My first “real” job after college was working at a local TV station in the Promotions Department. My responsibilities included producing television and radio ads that promoted the station. For the television ads, I still remember sitting in an elaborate editing suite—something that looked straight out of Star Trek—with a TV monitor, sound board, two beta decks, and one monster of a machine that we lovingly referred to as “D-2” that required tapes—yes tapes—the size of a Webster’s dictionary. It was in this editing suite that I first sat down and learned how to edit. Tape to tape, reel to reel. Seeing how far technology has changed in ten years … unreal.

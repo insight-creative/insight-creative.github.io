@@ -142,7 +142,7 @@ prose:
             - name: "Liz Van Asten"
               value: "Liz Van Asten"
             - name: "Cindy Struensee"
-              value: "Cindy Struensee" 
+              value: "Cindy Struensee"
       - name: "tag"
         field:
           element: "multiselect"
@@ -150,6 +150,8 @@ prose:
           options:
             - name: 'News'
               value: 'news'
+            - name: 'Blog'
+              value: 'blog'
           alterable: true
       - name: "image"
         field:

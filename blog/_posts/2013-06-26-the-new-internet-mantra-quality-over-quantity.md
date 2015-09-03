@@ -2,6 +2,7 @@
 layout: post
 title: "The New Internet Mantra: Quality Over Quantity"
 author: Bart Raboin
+tag: blog
 ---
 
 As the Internet continues to mature and come into its own, we’re seeing signs of an evolution in how websites are indexed and ranked based on the quality of their content and the amount of engagement with their viewers–likes, shares, comments and more.

@@ -2,6 +2,7 @@
 layout: post
 title:  Media Buying in a Digital Age
 author: Molly Setzer
+tag: blog
 redirect_from: /blog/2014/05/media-buying-in-a-digital-age/
 card: summary
 image: media-buying-in-a-digital-age.jpg

@@ -2,8 +2,9 @@
 layout: post
 title: Insight Creative at the WLUK FOX 11 Golf Outing
 author: Andrea Parins
-tag: news
-
+tag:
+  - news
+  - blog
 card: summary
 image: photo-2-1-1024x610.jpg
 ---

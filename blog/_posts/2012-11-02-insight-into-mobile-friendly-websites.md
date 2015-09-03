@@ -2,6 +2,7 @@
 layout: post
 title:  Insight into Mobile-Friendly Websites
 author: Kevin McGillivray
+tag: blog
 ---
 
 Many businesses wisely make reaching their audience on mobile devices a priority, and they often accomplish this by creating a separate website for smaller screens or devices. However, new technology and developments in web design have led to a much more efficient and effective way to create mobile-friendly websites called responsive design. This new method of building websites gives mobile visitors a seamless and positive experience on a single website rather than switching between different websites tailored to different screen sizes. For most businesses, a responsive website is the best option for reaching mobile visitors because they are easier to maintain, easier to use, and built to last regardless of future changes in technology.

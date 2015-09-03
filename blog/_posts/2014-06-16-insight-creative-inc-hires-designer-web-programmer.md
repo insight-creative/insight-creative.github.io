@@ -2,12 +2,13 @@
 layout: post
 title: "Insight Creative, Inc. Hires Designer/Web Programmer"
 author: Emily Morehart
-tag: news
-
+tag:
+  - news
+  - blog
 image: zane-press-release.jpg
 ---
 
-Insight Creative, Inc. recently hired a new employee to expand their creative team and meet the needs of their growing client base. Zane Statz joined the art department as Designer/Web Programmer. 
+Insight Creative, Inc. recently hired a new employee to expand their creative team and meet the needs of their growing client base. Zane Statz joined the art department as Designer/Web Programmer.
 
 ![Zane Statz](/img/zane-press-release.jpg){: .img-left}
 

@@ -2,6 +2,7 @@
 layout: post
 title: Should You Use That Over-Priced Celebrity to Promote Your Brand?
 author: Niki Petit
+tag: blog
 ---
 
 ![high-priced-spokesperson](/img/high-priced-spokesperson.jpg){: .img-right}

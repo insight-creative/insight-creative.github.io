@@ -2,6 +2,7 @@
 layout: post
 title: The Key to a Successful Campaign is in your Briefs
 author: Molly Setzer
+tag: blog
 ---
 
 People like to say I’m organized. At work, co-workers find this refreshing…I think. At home, my husband probably finds my overly organized self annoying. So for the time being, let’s focus on being organized in the world of advertising, by way of a little something called The Creative Brief. In advertising, when a new client comes into the mix, everything is exciting. Creative minds start working overtime thinking, “This would be great for them! Or, what about that?” Big ideas, big brainstorms! But, it’s important to step back before undertaking any new client or project and create a Creative Brief before getting ahead of ourselves. A [Creative Brief](http://en.wikipedia.org/wiki/Creative_brief) is a document used by creative professionals to develop creative content such as visual design, copy, websites, radio/TV commercials, and the like. The Creative Brief includes information on a client and/or project including background, target audience, objectives, single message, mandatory elements, deliverables, timeline, budget, and approvals. The information in a Creative Brief is derived by asking a series of simple questions to the client.

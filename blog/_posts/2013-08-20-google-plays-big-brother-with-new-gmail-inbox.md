@@ -2,6 +2,7 @@
 layout: post
 title: Google Plays Big Brother with New Gmail Inbox
 author: Stacy Allen
+tag: blog
 ---
 
 Did you know … “Promotional” email, such as e-newsletters and e-blasts, sent to Gmail accounts won’t land in an inbox anymore but will instead be routed to a new “Promotions” inbox found by navigating to a neighboring tab? Perhaps you’ve already received notice of this change?

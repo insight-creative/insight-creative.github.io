@@ -2,8 +2,9 @@
 layout: post
 title: Insight Creative Recognized for 25 Years of Success
 author: Jim von Hoff
-tag: news
-
+tag:
+  - news
+  - blog
 card: summary
 image: BashGroup2013-1024x745.jpg
 ---

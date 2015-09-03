@@ -2,6 +2,7 @@
 layout: post
 title:  How to Create an Effective Homepage
 author: Bart Raboin
+tag: blog
 redirect_from: /blog/2014/01/how-to-create-effective-homepage/
 card: summary
 ---

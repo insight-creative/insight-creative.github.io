@@ -2,7 +2,7 @@
 layout: post
 title: "Moving Targets: Find Your Audience with Social Media"
 author: Andrea Parins
-
+tag: blog
 card: summary
 image: taco-bell-snapchat-2.jpg
 description: 'As a social media specialist, I’m often told by business professionals, "I don’t get Twitter" (or whatever social media platform we’re discussing at the time).'

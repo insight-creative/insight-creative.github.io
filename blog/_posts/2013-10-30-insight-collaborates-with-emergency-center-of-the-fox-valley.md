@@ -2,8 +2,9 @@
 layout: post
 title:  Insight Collaborates with Emergency Center of the Fox Valley
 author: Jenny Brandenburg
-tag: news
-
+tag:
+  - news
+  - blog
 card: summary
 image: ESFV-00875-Press-release.jpg
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: Is Ted Thompson a Branding Genius?
 author: Liz Van Asten
+tag: blog
 ---
 
 **The Green Bay Packers’ path to success proves it takes much more than one individual to build and maintain a thriving brand.**

@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Niki Petit
+tag: blog
 title: Use an Organic Approach to Grow Your Business
 excerpt: A recent trip to my cabin in northern Wisconsin reminded me of a very important advertising rule. We cannot create a need, but we can certainly capitalize on a need that already exists.
 card: summary large image

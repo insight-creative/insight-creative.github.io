@@ -2,6 +2,7 @@
 layout: post
 title: Bringing Ideas Together With Collaborative Web Design
 author: Zane Statz
+tag: blog
 card: summary large image
 image: zane-blog-post.jpg
 description: "In the ever-changing world of website design and development, staying on top of current trends and tools helps us create better websites."

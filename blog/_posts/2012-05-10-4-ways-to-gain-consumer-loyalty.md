@@ -2,6 +2,7 @@
 layout: post
 title: 4 Ways to Gain Consumer Loyalty
 author: Shelly Hendricks
+tag: blog
 ---
 
 Consumer loyalty is one of the most important goals an advertiser can have. It ensures that a brand can withstand economic troubles, competition, price increases and more. The problem is consumer loyalty is becoming more of a challenge. Consumers are significantly less loyal to brands than they were in the past and there has been a steady decline in loyalty toward brands, even brands that were previously immune.

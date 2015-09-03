@@ -2,6 +2,7 @@
 layout: post
 title: "TV Ad Buying: The Perks and Pitfalls of Prime Time"
 author: Shelly Hendricks
+tag: blog
 ---
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: What Exactly is Reputation Management?
 author: Liz Van Asten
+tag: blog
 ---
 
 Recent studies have shown that 4 out of 5 consumers change their mind about a recommended purchase based on negative reviews found online. These are comments from people they don’t even know. Today, over half of the people online actually seek out and rely on online reviews. What’s more, when the product/service has a moderate to high cost, this percentage skyrockets to 89% of people searching for more information online.

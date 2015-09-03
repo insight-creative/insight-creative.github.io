@@ -2,6 +2,7 @@
 layout: post
 title: Your PR Efforts are Only as Good as Your Distribution List
 author: Emily Morehart
+tag: blog
 card: summary large image
 image: emily-pr-blog.jpg
 description: "Distributing a news release? Here are a few simple guidelines to consider when determining your audience and developing a list of quality contacts to better ensure your next message meets the masses."

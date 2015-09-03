@@ -2,6 +2,7 @@
 layout: post
 title:  "Tricks of the Trade(show): How to Build a Standout Booth"
 author: Bart Raboin
+tag: blog
 redirect_from: /blog/2014/04/tricks-of-the-tradeshow-how-to-build-a-standout-booth/
 card: summary large image
 image: Domino.jpg

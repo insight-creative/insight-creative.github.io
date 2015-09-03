@@ -2,6 +2,7 @@
 layout: post
 title: How to Lose Your Customer's Trust and Business
 author: Jen Haas
+tag: blog
 card: summary large image
 image: faces.jpg
 description: "Unfortunately, versions of this incident happen frequently. So how can you prevent this? Here are three key lessons."

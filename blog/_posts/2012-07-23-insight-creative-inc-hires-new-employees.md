@@ -2,8 +2,9 @@
 layout: post
 title: Insight Creative, Inc. Hires New Employees
 author: Emily Morehart
-tag: news
-
+tag:
+  - news
+  - blog
 card: summary
 image: emily2.jpg
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: More Than Meets the Eye in Subliminal Advertising
 author: Andela Schumacher
+tag: blog
 ---
 
 About a month ago, my colleague showed me what appeared to be a hidden message inside the Wendy’s logo. See the word created by the girl’s ruffled collar? MOM. How creative! It seemed as though the logo designer wanted to communicate that Wendy’s food is just as tasty and wholesome as the food mom used to make. Yum! I’ll take one junior cheeseburger with a side of chili please!
@@ -16,7 +17,7 @@ Turns out, the [message created by Wendy’s ruffled collar](https://shine.yahoo
 
 Here are several instances of subliminal messages that may or may not have been intentional. Unlike the Wendy’s logo, they seem more sneaky than creative. Can you spot them?
 
-[Gore vs Bush commercial.](http://www.youtube.com/watch?v=L6pgoqZpfUU) Are they bureaucrats? Or just plain rats? 
+[Gore vs Bush commercial.](http://www.youtube.com/watch?v=L6pgoqZpfUU) Are they bureaucrats? Or just plain rats?
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/L6pgoqZpfUU" frameborder="0" allowfullscreen></iframe>
 

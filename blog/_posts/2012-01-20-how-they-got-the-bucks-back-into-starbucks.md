@@ -2,6 +2,7 @@
 layout: post
 title: How They Got the Bucks Back Into Starbucks
 author: Molly Setzer
+tag: blog
 ---
 
 You know how you always remember particularly good days in your life?

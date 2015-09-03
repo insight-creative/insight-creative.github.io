@@ -2,6 +2,7 @@
 layout: post
 title: 30 Resolutions for Creative Thinkers
 author: Angela Schumacher
+tag: blog
 ---
 
 Regardless of your profession, it’s good to step back from your work periodically and examine what you could be doing better. Since it’s the beginning of a new year, there’s no better time than now. To get you thinking about your 2012 resolutions, here are 30 resolutions creatives may want to achieve in 2012.

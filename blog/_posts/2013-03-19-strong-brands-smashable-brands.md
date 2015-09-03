@@ -2,6 +2,7 @@
 layout: post
 title: Strong Brands = Smashable Brands
 author: Angela Schumacher
+tag: blog
 ---
 
 ## What does it mean to have a smashable brand?

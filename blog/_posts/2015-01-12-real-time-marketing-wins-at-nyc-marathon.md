@@ -2,6 +2,7 @@
 layout: post
 title: Real-time Marketing Wins at NYC Marathon
 author: Liz Van Asten
+tag: blog
 card: summary
 image: asics-statues-2.jpg
 description: People run marathons for various reasons such as, to achieve a PR (personal record), lose weight or earn a finisher medal, t-shirt, or in one case, a Tiffany & Co. necklace (Nike Women’s Half Marathon, San Francisco).
@@ -19,4 +20,4 @@ It’s common for races to offer runner tracking services that will send text, e
 
 This promotion smoothly provided consistency to various facets of the event from the promotional gift, social media updates and runner tracking. It allowed Asics to capitalize on real-time updates, which offered targeted, time-sensitive information during the most relevant times, versus blanketed awareness ads over a longer duration. This added value not only elevated the race experience of the participant, but also received notoriety from family and friends both in attendance and cheering from afar, creating relationships, feedback and viral online conversations.
 
-As someone who has ran a few races, photos of virtual runners are MUCH more flattering than the real race photos ... am I right? 
+As someone who has ran a few races, photos of virtual runners are MUCH more flattering than the real race photos ... am I right?

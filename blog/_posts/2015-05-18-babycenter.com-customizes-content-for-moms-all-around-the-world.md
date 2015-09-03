@@ -2,6 +2,7 @@
 layout: post
 title: BabyCenter Customizes Content For Moms Around the World
 author: Jenny Brandenburg
+tag: blog
 card: summary large image
 image: jenny-baby-center.jpg
 description: BabyCenter customizes its content for moms around the world, since each country has their own nuances when it comes to pregnancy.

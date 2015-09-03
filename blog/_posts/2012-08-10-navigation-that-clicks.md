@@ -2,6 +2,7 @@
 layout: post
 title: Navigation That Clicks
 author: Angela Schumacher
+tag: blog
 ---
 
 Recently I had the honor of being a presenter for Web920, a group of web developers/designers who meet once a month at Titletown Brewery to share ideas on various web-related topics. One of the topics I was asked to cover was website navigation design. So many possibilities! Each with their own pros and cons.

@@ -2,6 +2,7 @@
 layout: post
 title: Mulling Motivation
 author: Stacy Allen
+tag: blog
 ---
 
 What motivates people?

@@ -2,6 +2,7 @@
 layout: post
 title: Is Mobile Top of Mind in Your Email Design?
 author: Bart Raboin
+tag: blog
 ---
 
 A recent study by [Yesmail Interactive](http://www.yesmail.com/) monitored 5 billion emails deployed by Yesmail Interactive in Q2 of 2013. Highlights showed almost 50 percent of all emails are viewed on a mobile device. As impressive as that statistic is, the study also states that consumers have a higher click rate on desktops. On average twice as many people click on an email after opening it on a desktop (23%) versus on mobile (11%). Some may attribute that to consumers having more time to engage with emails when they are sitting in front of a computer, but it’s also very important to consider … Are marketers creating and sending emails designed for mobile viewing?

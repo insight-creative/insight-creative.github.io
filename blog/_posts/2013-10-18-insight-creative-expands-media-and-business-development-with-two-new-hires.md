@@ -2,8 +2,9 @@
 layout: post
 title: Insight Creative Expands Media and Business Development with Two New Hires
 author: Shawna Dubois
-tag: news
-
+tag:
+  - news
+  - blog
 card: summary
 image: Jenny_0020cropWeb.jpg
 ---

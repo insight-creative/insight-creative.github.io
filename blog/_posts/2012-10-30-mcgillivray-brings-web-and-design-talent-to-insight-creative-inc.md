@@ -2,8 +2,9 @@
 layout: post
 title: McGillivray Brings Web and Design Talent to Insight Creative, Inc.
 author: Emily Morehart
-tag: news
-
+tag:
+  - news
+  - blog
 card: summary
 image: kevin-mcgillivray.jpg
 ---

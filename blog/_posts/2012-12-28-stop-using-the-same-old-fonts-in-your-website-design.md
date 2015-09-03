@@ -2,6 +2,7 @@
 layout: post
 title:  Stop Using the Same Old Fonts in your Website Design
 author: Bart Raboin
+tag: blog
 ---
 
 In the past, designing a website was limited to the most basic font types available across both Mac and PC platforms. The only way to include unique fonts as part your website design was to create an image for every custom text element you needed. This was, of course, a very time consuming and cumbersome task. It also affected the download time of your site. In recent years, the ability to include custom fonts has become available, opening the doors for more flexibility and creativity in your font selection.

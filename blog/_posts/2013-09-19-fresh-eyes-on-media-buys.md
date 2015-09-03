@@ -2,6 +2,7 @@
 layout: post
 title: Fresh Eyes on Media Buys
 author: Molly Setzer
+tag: blog
 ---
 
 As of July 15th I made a huge transition at Insight Creative, Inc.  For over five years, I called the Copywriting Department my home away from home.  Writing copy was certainly within my “comfort zone,” but there were other skills I had—attention to detail, strong organization, a background in TV—that I really wasn’t tapping into as a Copywriter.  When a position opened up in Insight’s Media Department, I did something out of character for me … I embraced change.  I’m proud to call myself a Media Coordinator at Insight, moving from a highly creative position into a highly strategic one.  So far, I think it’s a great fit for my personality and experience.  Plus, it’s offering me new and exciting challenges every day that add to a rewarding career. Below are 5 new things I notice as an Insight Media Coordinator.

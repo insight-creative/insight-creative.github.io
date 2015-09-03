@@ -1,12 +1,13 @@
 ---
 layout: post
 author: Kevin McGillivray
+tag: blog
 title: "Collaborating with a Web Designer/Developer (Audio)"
 card: summary large image
 image: collaborating-with-a-web-designer2.jpg
 ---
 
-If you’re looking to have someone make a website for your company, it can be hard to know where to start. Even if you have a good understanding of websites in general, things can get confusing quickly, and you may not know exactly what questions to ask or what skills the developer you’re working with should have in order to create the website you need. 
+If you’re looking to have someone make a website for your company, it can be hard to know where to start. Even if you have a good understanding of websites in general, things can get confusing quickly, and you may not know exactly what questions to ask or what skills the developer you’re working with should have in order to create the website you need.
 
 To help clear up the confusion, I sat down with my fellow web developers at Insight Creative, Zane Statz and Bart Raboin, to talk about a few things that we think are important to look for when you’re collaborating with a web designer/developer. You can listen to the recording of our conversation here, or read the highlights below.
 
@@ -22,7 +23,7 @@ Bart on keeping a website flexible so that it can adjust to meet new needs as th
 
 Zane and Kevin on making sure the basics are covered, which is harder than it sounds:
 
-> Zane: “Responsive design is key now… making a website that looks and feels and works on all platforms and doesn’t only work on a few platforms.” 
+> Zane: “Responsive design is key now… making a website that looks and feels and works on all platforms and doesn’t only work on a few platforms.”
 >
 > Kevin: “Yeah this is kind of a basic thing about web design now, but you can find web developers that don’t do it, and that’s making sure that a website works on every platform… That’s a basic thing now, but if you don’t know to look for it, it can get forgotten.”
 

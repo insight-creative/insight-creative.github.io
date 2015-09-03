@@ -2,6 +2,7 @@
 layout: post
 title: Facebook Announces Video on Instagram
 author: Andrea Parins
+tag: blog
 ---
 
 Today, Facebook announced that it will be adding video functionality on Instagram. Features include a 15 second video maximum, 13 custom filters, the ability to choose the cover frame photo that shows in the feed and cinematic stabilization called Cinema, a valuable feature for brands and consumers concerned about video quality.

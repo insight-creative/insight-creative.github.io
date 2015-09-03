@@ -1,6 +1,8 @@
 ---
 layout: post
-tag: news
+tag:
+  - news
+  - blog
 title: Insight Creative Hires Media Director and Promotes Three Employees
 author: Emily Morehart
 card: summary
