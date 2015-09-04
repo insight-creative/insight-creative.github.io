@@ -2,9 +2,7 @@
 layout: post
 title: Insight Creative, Inc. Earns Silver Communicator Award
 author: Emily Morehart
-tag:
-  - news
-  - blog
+tag: news
 card: summary large image
 image: communicator-award.jpg
 description: "Insight Creative was honored to receive international recognition from the Academy of Interactive and Visual Arts (AIVA) in the form of a silver 2015 Communicator Award."

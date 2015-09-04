@@ -2,9 +2,7 @@
 layout: post
 title: "Insight Creative, Inc. Hires Designer/Web Programmer"
 author: Emily Morehart
-tag:
-  - news
-  - blog
+tag: news
 image: zane-press-release.jpg
 ---
 

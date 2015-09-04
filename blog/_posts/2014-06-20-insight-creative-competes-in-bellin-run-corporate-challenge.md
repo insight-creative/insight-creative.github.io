@@ -2,9 +2,7 @@
 layout: post
 title: Insight Creative Competes in Bellin Run Corporate Challenge
 author: Emily Morehart
-tag:
-  - news
-  - blog
+tag: news
 card: summary large image
 image: bellin-run-2014.jpg
 ---
