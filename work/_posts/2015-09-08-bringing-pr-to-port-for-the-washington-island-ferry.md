@@ -2,11 +2,14 @@
 layout: project
 title:  "Bringing PR to Port for the Washington Island Ferry"
 client: Washington Island Ferry Line
-thumbnail:
+thumbnail: wif-case-study-thumbnail.jpg
 tags:
 - Case Study
 - Public Relations
+featured: true
 ---
+
+![Washington Island Ferry Case Study](/img/wif-case-study.jpg){: .img-lg}
 
 As the Washington Island Ferry crew prepared for their peak season in 2015, they also looked forward to celebrating a milestone anniversary; for 75 years, the Washington Island Ferry Line has provided safe and reliable round-trip service to residents and visitors of Washington Island.  
 
