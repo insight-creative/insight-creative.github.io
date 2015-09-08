@@ -7,6 +7,8 @@ tags:
 - Case Study
 - Public Relations
 featured: true
+card: summary large image
+image: wif-case-study.jpg
 ---
 
 ![Washington Island Ferry Case Study](/img/wif-case-study.jpg){: .img-lg}
