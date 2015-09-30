@@ -83,9 +83,6 @@ iframe {
 .no-padding {
   padding: 0;
 }
-hr {
-  color: #ffffff;
-}
 
 /*
  * Typography
@@ -598,6 +595,12 @@ article ol li {
 .article-body iframe {
   margin-top: 15px;
   margin-bottom: 15px;
+}
+.article-body hr {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-top: 1px solid #BDBE5A;
+  width: 50%;
 }
 .article-footer {
   margin-bottom: 40px;
