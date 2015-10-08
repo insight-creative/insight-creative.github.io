@@ -152,6 +152,8 @@ prose:
               value: 'news'
             - name: 'Blog'
               value: 'blog'
+            - name: 'Testimonial'
+              value: 'testimonial'
           alterable: true
       - name: "image"
         field:
