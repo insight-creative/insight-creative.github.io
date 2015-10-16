@@ -2,7 +2,7 @@
 layout: post
 author: Kevin McGillivray
 title: Untitled
-card: 
+card:
   - null
   - summary large image
 image: null
