@@ -654,6 +654,10 @@ article ol li {
     width: 40%;
     margin-right: -15%;
   }
+  .img-sm {
+    width: 80%;
+    margin-left: 10%;
+  }
   .img-lg {
     width: 120%;
     margin-left: -10%;
