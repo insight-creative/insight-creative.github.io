@@ -18,10 +18,12 @@ Coke just wrapped up its “Share a Coke” campaign last September. It involved
 
 ## Snickers
 To strengthen the “You’re Not You When You’re Hungry” campaign, Snickers took it personal by removing their logo on their packaging and replacing it with different hunger symptoms.  This clever campaign enforces the idea that a Snickers bar will defeat your hunger symptoms and get you back to your best self. With the new packaging, consumers can have fun by buying bars for themselves and their friends based on how they feel.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pT6PlWjuXw0" frameborder="0" allowfullscreen></iframe>
 
 ## Bud Light
 While Coca-Cola personalizes with names and Snickers personalizes with feelings, Bug Light personalizes their cans with interests. One example is their NFL packaging. Bug Light rolled out NFL themed cans to connect with football fans. That’s right, every can has personalized graphics for each team with a specific message to the city’s fans. While team cans have been done before, this is the first time a local message is involved.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u1mgMjmS7Ik" frameborder="0" allowfullscreen></iframe>
 
 Sad news- you will not find a Green Bay Packers can because of their sponsorship with MillerCoors.
