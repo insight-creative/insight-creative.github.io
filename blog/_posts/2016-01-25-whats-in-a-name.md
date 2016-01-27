@@ -19,7 +19,10 @@ The cable channel ABC Family recently changed its name to Freeform in an effort 
 
 Here are a few things to remember when thinking about changing the name of your business:
 
-**1.	Be clear.** Make sure your message is clear and consistent. Of course your ads and press releases will cover the name change, but remember the details like letterhead, business cards and the name on your building. (If you can’t afford to do it correctly and thoroughly, maybe it’s not the right time for a change?)
-**2.	Work ahead.** The name change process can be long, do as much as possible ahead of time, so when it’s time for the big reveal, everyone involved will be ready.
-**3.	Keep your core customers in the loop.** You don’t want to upset your main customers, so make sure they’re aware of the coming changes.
-**4. 	Communicate the change.**  Both internal and external communication is important. Keep employees informed. When communicating to customers, make sure you cover all channels—including digital and social media—especially because this is where young people get their information.
+1.	**Be clear.** Make sure your message is clear and consistent. Of course your ads and press releases will cover the name change, but remember the details like letterhead, business cards and the name on your building. (If you can’t afford to do it correctly and thoroughly, maybe it’s not the right time for a change?)
+
+2.	**Work ahead.** The name change process can be long, do as much as possible ahead of time, so when it’s time for the big reveal, everyone involved will be ready.
+
+3.	**Keep your core customers in the loop.** You don’t want to upset your main customers, so make sure they’re aware of the coming changes.
+
+4. 	**Communicate the change.**  Both internal and external communication is important. Keep employees informed. When communicating to customers, make sure you cover all channels—including digital and social media—especially because this is where young people get their information.
