@@ -5,7 +5,7 @@ author: Jenny Brandenburg
 tag: blog
 card: summary large image
 image: jenb-blog-jan-graphic.jpg
-description: "The marketing world has been turned upside down in recent years.  Among other changes, the explosion of social media coupled with sophisticated online targeting have forced marketers to work smarter."
+description: "Nike, Yahoo, Subway, Starbucks and Pepsi. What do these companies all have in common? They were once known by different names."
 ---
 ![What's in a Name Graphic](/img/jenb-blog-jan-graphic.jpg)
 
