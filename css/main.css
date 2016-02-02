@@ -86,6 +86,9 @@ iframe {
 hr {
   color: #ffffff;
 }
+hr.dark {
+  color: #000000 !important;
+}
 
 /*
  * Typography
