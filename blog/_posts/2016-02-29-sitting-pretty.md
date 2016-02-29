@@ -3,18 +3,23 @@ layout: post
 title: Sitting Pretty ...
 author: Liz Van Asten
 tag: blog
+card: summary large image
+image: bad-posture.jpg
+description: "I look forward to coming to work each day; I have hilarious co-workers that make it an awesome environment. Unfortunately there is a hidden terror; a silent tormentor that is slowly wrapping its twisted fingers around me... it's my posture."
 ---
 
-I look forward to coming to work each day; I have hilarious co-workers that make it an awesome environment. Unfortunately there is a hidden terror; a silent tormentor that is slowly wrapping its twisted fingers around me... it's my posture. So many of us spend a majority of our waking hours at work—and for me that means at a desk. What does that mean for our muscular system? Well, repetitive movements and posture (the way you sit or stand) are second and third causes for workplace injury, behind falls. Although it doesn't seem like these small adjustments mean anything, it can make a difference for your daily and long-term health.
+![Bad Posture](/img/bad-posture.jpg)
+
+I look forward to coming to work each day; I have hilarious co-workers that make it an awesome environment. Unfortunately there is a hidden terror; a silent tormentor that is slowly wrapping its twisted fingers around me ... it's my posture. So many of us spend a majority of our waking hours at work—and for me that means sitting at a desk. What does that mean for our muscular system? Well, repetitive movements and posture (the way you sit or stand) are second and third causes for workplace injury, behind falls. Although it doesn't seem like these small adjustments mean anything, it can make a difference for your daily and long-term health.
 
 Focusing and correcting your posture can initiate the following:
 
-- Reduced headaches and eye strain
-- Reduced neck and back pain
-- Preventing bursitis or tendon problems from repetitive tasks
-- Creating more energy
+- Reduce headaches and eye strain
+- Reduce neck and back pain
+- Prevent bursitis or tendon problems from repetitive tasks
+- Create more energy
 
-So now what?
+So now what? Read these workplace remedies to ensure your environment is ergonomically friendly.
 
 Ergonomics 101
 --------------
@@ -30,12 +35,12 @@ For those that stand for an extended period of time, bring one foot up to a shor
 
 **Desk Size**: Your desk should be high enough that your knees and thighs fit comfortably underneath. The workspace size should be able to house all of the items you use regularly should be within reach. You shouldn’t have to constantly turn, twist or extend to reach for items. If there is something not within immediate reach, stand up to retrieve, rather than stretching or extending for it. If you do have to turn for an item, turn the whole body rather than twisting just your upper body.
 
-**Keyboard & Mouse**: Those that use a trackball or touchpad mouse reduce the symptoms that people get from repetitive motions of at standard mouse. The keyboard and mouse should be placed close together and not too far away from you; you should not have to reach for either item. Keyboard should be 1-2 inches above your thighs, this means that a pull out keyboard tray may be in order. You also do not want to use the kickstand provided on standard keyboards. That creates an unnatural position for your wrist. The keyboard and mouse should be as flat as possible.
+**Keyboard & Mouse**: Those that use a trackball or touchpad mouse reduce the symptoms that people get from repetitive motions of a standard mouse. The keyboard and mouse should be placed close together and not too far away from you; you should not have to reach for either item. Keyboard should be 1-2 inches above your thighs, this means that a pull out keyboard tray may be in order. You also do not want to use the kickstand provided on standard keyboards. That creates an unnatural position for your wrist. The keyboard and mouse should be as flat as possible.
 
 **Other Ideas to Keep in Mind**
 
 - Use a document holder so that papers are at eye level as opposed to having to look down to reference. If that’s not available, bring the reading material up to your face rather than leaning over the desk.
 
-- Take breaks or stretch every 20-40 min.
+- Take breaks or stretch every 20-40 minutes.
 
-- Set an alarm every so often to stop and check your posture.  Analyze what improvements to make and adjust accordingly. 
+- Set an alarm every so often to stop and check your posture.  Analyze what improvements to make and adjust accordingly.
