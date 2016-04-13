@@ -90,6 +90,11 @@ hr.dark {
   color: #000000 !important;
 }
 
+.extra-padding {
+  padding-left:15px;
+  padding-right:15px;
+}
+
 /*
  * Typography
  */
