@@ -94,13 +94,15 @@
 
     {% endif %}
 
+
     <script type="text/javascript">
-        var feed = new Instafeed({
-            get: 'tagged',
-            tagName: 'awesome',
-            clientId: '3f3a20a3b6ff4fae938fc565bf312594'
-        });
-        feed.run();
+    var feed = new Instafeed({
+        get: 'tagged',
+        tagName: 'awesome',
+        clientId: '3f3a20a3b6ff4fae938fc565bf312594',
+        template: '<a href="{{link}}"><img src="{{image}}" /></a>'
+    });
+    feed.run();
     </script>
 
   </body>
