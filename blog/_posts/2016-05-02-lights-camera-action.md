@@ -4,11 +4,11 @@ title: Lights, Camera, Action!
 author: Jen Haas
 tag: blog
 card: summary large image
-image: the-chair.jpg
+image: lights-camera-action.jpg
 description: "Lights, Camera, Action!"
 ---
 
-![Lights, Camera, Action!](/img/the-chair.jpg)
+![Lights, Camera, Action!](/img/lights-camera-action.jpg)
 
 Everyone thinks that the world of video is glamorous, but the reality is quite different. When it comes time to be on camera, most people realize afterward that it’s much harder than it looks.
 
