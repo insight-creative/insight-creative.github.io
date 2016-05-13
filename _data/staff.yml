@@ -44,7 +44,7 @@
   image: /img/jenny-new.jpg
 
 - name: Jen Haas
-  job_title: Account Coordinator
+  job_title: Account Executive
   bio: "Jen brings diverse client relations experience, meticulous organization skills and strategic focus to her Account Coordinator role at Insight. As an Account Manager/Producer in her previous position, Jen managed projects and guided clients through the creative process. She currently serves in a leadership role at PRSA Northeast Wisconsin, Club Red of Northeast Wisconsin and Current-Young Professionals Network. Jen holds a degree from the University of Wisconsin in communications with an emphasis in mass media studies."
   image: /img/jen.jpg
 
@@ -62,6 +62,11 @@
   job_title: Graphic Designer/Web Developer
   bio: "Tyler's passion for creativity pushes his design and development skills to the edge. As a graduate of UW-Green Bay, he has also developed a passion for fine arts and photography. With his wide skill set&mdash;including print, web, 3D and photography&mdash;Tyler is the Swiss Army knife of design. Aside from the dedication to his work, he tries to bring as much fun to the workplace as he can."
   image: /img/tyler.jpg
+
+- name: Jennifer Rogers
+  job_title: Copywriter/PR Specialist
+  bio: "Jennifer brings a unique blend of corporate and agency experience in her role as copywriter and public relations specialist. As an essential part of the content department, she is able to showcase her diverse writing, creativity and expertise throughout all of her efforts. Jennifer holds a degree from UW-Whitewater in public relations, with an emphasis in journalism."
+  image: /img/jennifer.jpg
 
 - name: Liz Van Asten
   job_title: Account Coordinator
