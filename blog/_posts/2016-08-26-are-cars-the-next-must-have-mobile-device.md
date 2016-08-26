@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Power of Interaction
+title: Are Cars the Next Must-Have Mobile Device?
 author: Jenny Brandenburg
 tag: blog
 card: summary
