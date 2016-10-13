@@ -4,7 +4,7 @@ title: "Door Peninsula Wine Labels"
 client: Door Peninsula Winery
 thumbnail: door-peninsula-thumbnail.jpg
 tags:
-  - Packaging
+  - Print and Packaging
 card: gallery
 image1: dpw-label-2.jpg
 featured: true

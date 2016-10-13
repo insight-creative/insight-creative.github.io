@@ -4,7 +4,7 @@ title:  Jolly Wolly Fun Dips Packaging
 client: Jolly Wolly Fun Dips
 thumbnail: jolly-wolly-packaging-thumbnail.jpg
 tags:
-- Packaging
+- Print and Packaging
 
 card: gallery
 image1: jolly-wolly-packaging.jpg

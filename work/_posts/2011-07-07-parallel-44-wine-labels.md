@@ -4,7 +4,7 @@ title:  Parallel 44 Wine Labels
 client: Parallel 44 Vineyard & Winery
 thumbnail: parallel-44-labels-thumbnail.jpg
 tags:
-- Packaging
+- Print and Packaging
 
 card: summary large image
 image: parallel-44-labels-1.jpg

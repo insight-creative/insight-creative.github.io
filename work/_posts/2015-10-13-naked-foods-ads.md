@@ -4,7 +4,7 @@ title: "Naked Foods Ads"
 client: Naked Foods
 thumbnail: NakedFoodsAds-thumbnail.jpg
 tags:
-  - Packaging
+  - Print and Packaging
 card: gallery
 image1: NakedFoodsAds-1.jpg
 featured:

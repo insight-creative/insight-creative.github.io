@@ -4,7 +4,7 @@ title:  Valley Custom Door Product Catalog
 client: Valley Custom Door
 thumbnail: valley-custom-door-product-catalog-thumbnail.jpg
 tags:
-- Print
+- Print and Packaging
 card: summary large image
 image: valley-custom-door-product-catalog-2.jpg
 ---
