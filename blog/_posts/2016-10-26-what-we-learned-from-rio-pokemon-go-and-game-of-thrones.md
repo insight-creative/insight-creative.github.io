@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What We Learned from Rio, Pokémon Go and Game of Thrones
+title: What We Learned from Rio, Pokémon Go and <i>Game of Thrones</i>
 author: Jennifer Rogers
 tag: blog
 card: summary
