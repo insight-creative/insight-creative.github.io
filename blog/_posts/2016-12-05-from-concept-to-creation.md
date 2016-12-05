@@ -4,7 +4,7 @@ title: From Concept to Completion
 author: Zane Statz  
 tag: blog
 card: summary
-image: google-logo.gif
+image: zane-vlog-1216.jpg
 description: "Meet Zane Statz, designer at Insight Creative and discover how a project moves through the steps from concept to completion here at Insight Creative."
 ---
 
