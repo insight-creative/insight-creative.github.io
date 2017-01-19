@@ -9,7 +9,7 @@ description: "According to an article in Phycology Today, twenty percent of peop
 ---
 ![Are You Just Putting off Dealing with Procrastination?](/img/th-stacy-dealing-with-procrastination.jpg)
 
-According to an article in *[Psychcology Today]*(https://www.psychologytoday.com/articles/200308/procrastination-ten-things-know "Phycology Today"), twenty percent of people identify themselves as chronic procrastinators. What’s more, they say procrastinators lie to themselves and say that the “time pressure makes them more creative.” Unfortunately, says the magazine, they do not turn out to be more creative; they only feel that way.
+According to an article in <i>[Psychcology Today](https://www.psychologytoday.com/articles/200308/procrastination-ten-things-know "Psychcology Today")</i>, twenty percent of people identify themselves as chronic procrastinators. What’s more, they say procrastinators lie to themselves and say that the “time pressure makes them more creative.” Unfortunately, says the magazine, they do not turn out to be more creative; they only feel that way.
 
 This is a blow to me as a human and as someone who works in a creative field. Starting with projects in middle school to work assignments and dinner parties today, I've always relied on time pressure to inspire creativity. There’s nothing like an impending deadline to get the creative juices flowing. But what if I’ve been wrong all this time? What if I’ve squandered time at the detriment of my quality for most of my life? It’s a sobering thought, but I don't buy it, and here's why …
 
