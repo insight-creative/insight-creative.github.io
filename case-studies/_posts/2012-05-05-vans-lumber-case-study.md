@@ -5,6 +5,7 @@ client: Vans Lumber
 thumbnail: vans-lumber-thumbnail.jpg
 tags:
 - Case Study
+- case
 ---
 
 This Door County-based company had struggled to support two brands, one for their hardware store and lumberyard and one for their upscale home building business, during the recent recession.

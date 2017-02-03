@@ -5,6 +5,7 @@ client: Ministry Health Care/Kohl's Cares
 thumbnail: "both-hands-on-the-wheel-thumbnail.jpg"
 tags:
   - Video
+  - Public Relations
 card: summary
 featured: true
 ---

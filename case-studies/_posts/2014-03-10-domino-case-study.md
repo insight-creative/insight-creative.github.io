@@ -4,7 +4,8 @@ title:  "Domino Printing Sciences Case&nbsp;Study"
 client: Domino Printing Sciences
 thumbnail: domino-thumbnail.jpg
 tags:
-- Public Relations
+- Case Study
+- case
 ---
 
 Domino Printing Sciences, currently a global market leader in coding and marking for the food and beverage industry, identified a niche-market opportunity within pharmaceutical packaging after the announcement of an impending e-Pedigree law requiring serialization and specialized coding on all pharmaceuticals by January 2015.
@@ -19,7 +20,7 @@ Together, Insight and Domino have helped to cure many of pharma’s serializatio
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/FEOcVkXRzcs?rel=0" frameborder="0" allowfullscreen></iframe>
 
-The [campaign’s blog](http://codingforcompliance.com) was established as the primary hub for pharma packaging communication, educational resources and a forum for pharma professionals to talk directly with Domino’s experts. Social media channels including Twitter and Facebook pushed the Coding for Compliance name and message out to the appropriate audience. Facebook ads allowed for extremely detailed targeting to build campaign awareness and conversation with key decision makers.
+The campaign’s blog was established as the primary hub for pharma packaging communication, educational resources and a forum for pharma professionals to talk directly with Domino’s experts. Social media channels including Twitter and Facebook pushed the Coding for Compliance name and message out to the appropriate audience. Facebook ads allowed for extremely detailed targeting to build campaign awareness and conversation with key decision makers.
 
 ![Coding for Compliance](/img/coding-for-compliance-website.jpg){: .img-lg}
 

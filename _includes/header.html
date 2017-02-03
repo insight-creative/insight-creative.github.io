@@ -28,7 +28,13 @@
                   </ul>
                 </li>
                 <li {% if page.url contains "/services" %}class="active"{% endif %}><a href="/services">Services</a></li>
-                <li {% if page.url contains "/work" %}class="active"{% endif %}><a href="/work">Work</a></li>
+                <li class="dropdown" {% if page.url contains "/work" %}class="active"{% endif %}>
+                  <a href="/work" class="dropdown-toggle" data-toggle="dropdown">Work <span class="caret"></span></a>
+                  <ul class="dropdown-menu dropdown-menu-left">
+                    <li><a href="/work">Projects</a></li>
+                    <li><a href="/case-studies">Case Studies</a></li>
+                  </ul>
+                </li>
                 <li {% if page.url contains "/blog" %}class="active"{% endif %}><a href="/blog">Blog</a></li>
                 <li {% if page.url contains "/contact" %}class="active"{% endif %}><a href="/contact">Contact</a></li>
               </ul>

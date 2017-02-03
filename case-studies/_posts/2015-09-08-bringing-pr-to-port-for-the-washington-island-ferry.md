@@ -4,8 +4,10 @@ title:  "Bringing PR to Port for the Washington Island Ferry"
 client: Washington Island Ferry Line
 thumbnail: wif-case-study-thumbnail.jpg
 tags:
+- Case Study
+- case
 - Public Relations
-featured: true
+featured:
 card: summary large image
 image: wif-case-study.jpg
 ---

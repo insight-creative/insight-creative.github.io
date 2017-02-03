@@ -26,6 +26,9 @@ description: An advertising agency with a vision to bring complete strategic dev
 
           <hr>
           <div class="row thumbnail-gallery">
+            {% for post in site.tags.case %}{% if post.featured %}
+              {% include thumbnail.html %}
+            {% endif %}{% endfor %}
             {% for post in site.categories.work %}{% if post.featured %}
               {% include thumbnail.html %}
             {% endif %}{% endfor %}

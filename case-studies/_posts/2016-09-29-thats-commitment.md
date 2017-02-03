@@ -5,6 +5,7 @@ client: River Valley Bank
 thumbnail: rvb-case-study-thumbnail.jpg
 tags:
 - Case Study
+- case
 featured: true
 card: summary large image
 image: rvb-case-study.jpg

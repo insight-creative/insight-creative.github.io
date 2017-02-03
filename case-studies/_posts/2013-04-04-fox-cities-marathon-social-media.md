@@ -5,6 +5,8 @@ client: Fox Cities Marathon
 thumbnail: fox-cities-marathon-thumbnail.jpg
 tags:
 - Social Media
+- Case Study
+- case
 ---
 
 ## Fostering a community on social media
