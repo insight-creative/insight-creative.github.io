@@ -35,7 +35,7 @@ Day of the Interview
 
 **Chat with the reporter after**. Reporters are busy and perform more job duties now than ever before so don't assume they have time to chitchat. But, make sure to thank them for the coverage and ask if there’s anything else they need such as B-roll, additional interviews, photos, etc. Also, exchange business cards in case you need to contact them to make a correction after the story airs or is published.
 
-Follow up
+Follow Up
 ---------
 **Send a follow-up**. Thank the reporter for the coverage. Send any additional details that you may have forgotten to mention from your talking points, ask when they expect to have the story finished and if it will be posted online.
 
