@@ -6,7 +6,7 @@ thumbnail: rvb-case-study-thumbnail.jpg
 tags:
 - Case Study
 - case
-featured: true
+featured: false
 card: summary large image
 image: rvb-case-study.jpg
 ---
