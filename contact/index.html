@@ -23,13 +23,24 @@ redirect_from: /contact-us/
       <li><a href="http://twitter.com/insightwi">Twitter</a></li>
       <li><a href="http://instagram.com/insightwi">Instagram</a></li>
       <li><a href="http://www.pinterest.com/insightinc/">Pinterest</a></li>
-      <li><a href="http://www.youtube.com/user/InsightCreativeWI/">YouTube</a></li>
+      <li style="margin-bottom:65px;"><a href="http://www.youtube.com/user/InsightCreativeWI/">YouTube</a></li>
     </ul>
   </div>
   <div class="col-sm-7">
-    <h2>Contact Form</h2>
-    <iframe src="/contact-form.html" width="200" height="260" frameborder="0" scrolling="no"></iframe>
-  </div>
+      <form method="POST" action="http://formspree.io/jbauer@insightcreative.com">
+        <input type="hidden" name="_cc" value="npetit@insightcreative.com" />
+        <div class="form-group">
+          <input name="name" type="name" class="form-control" placeholder="Enter name">
+        </div>
+        <div class="form-group">
+          <input name="_replyto" type="email" class="form-control" placeholder="Enter email">
+        </div>
+        <div class="form-group">
+          <textarea name="message" class="form-control" rows="4" placeholder="Enter message..."></textarea>
+        </div>
+        <button target="_blank" type="submit" class="btn btn-lg btn-default" style="margin-bottom:50px;">Submit</button>
+      </form>
+
 </div><!--/row-->
 
 <hr>
