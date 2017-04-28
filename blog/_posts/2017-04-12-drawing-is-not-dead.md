@@ -17,7 +17,7 @@ In this digital world the art of drawing is still useful to present ideas to cli
 
 With a sketch, it's easier to play with numerous layouts and different compositions as opposed to doing "tight" layouts right away. There is also a freedom of creativity that I experience when sketching out ideas. Things just seem to flow better for me. Also, I think most clients like seeing sketches because it makes them feel more a part of the overall creative process.
 
-![logo sketches](/img/logo-sketches.jpg)
+![logo sketches](/img/konop-rough-logos.gif)
 
 Now you can even sketch with a digital tablet like the iPad Pro. It's not the same as a pencil, but it still gives you the freedom, flexibility and appearance of a sketch even though it's a digital medium. Using the pressure-sensitive stylist from Apple, it even feels a lot like a pencil.
 
