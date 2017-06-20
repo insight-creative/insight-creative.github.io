@@ -5,7 +5,7 @@
   tag: blog
   card: summary
   image: pwc-design-with-passion.jpg
-  description: ""
+  description: "As a designer, I’ve come to find that playing and experimenting are some of the most important things I can do and helps keep me motivated and working in my field."
 ---
 ![Design with Passion](/img/pwc-design-with-passion.jpg)
 
