@@ -1,6 +1,6 @@
 ---
   layout: post
-  tag: news
+  tag: blog
   title: Can Music Impact a Buying Decision?
   author: Jay Bauer
   card: summary
